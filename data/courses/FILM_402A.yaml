@@ -13,6 +13,7 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
+      Laboratory: "Required"
       Lecture: "Required"
     enrollment_requirement: "Prerequisites     Level 4 and reg in a FILM major or Medial or STSC Plan or COCA Specialization and (a GPA of 2.6 in FILM) and (18.0 units in FILM)."
     grading_basis: "Graded"
