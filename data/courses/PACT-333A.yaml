@@ -15,7 +15,7 @@
     course_components: 
       Laboratory: "Required"
       Practicum: "Required"
-    enrollment_requirement: "Prerequisites    PACT237 and KNPE333."
+    enrollment_requirement: "Prerequisites    PACT237\r\nCorequisite     KNPE333."
     grading_basis: "Graded"
     units: "0.00"
 

@@ -14,7 +14,7 @@
       day_of_week: 1
       end_time: "1900-01-01T16:30:00"
       instructors: 
-        - "Amsden, Brian G"
+        - "Holman, Lauren Ann"
       location: "BIOSCI RM1102"
       start_time: "1900-01-01T15:30:00"
       term_end: "2015-04-02T00:00:00"
@@ -23,7 +23,7 @@
       day_of_week: 3
       end_time: "1900-01-01T10:30:00"
       instructors: 
-        - "Amsden, Brian G"
+        - "Holman, Lauren Ann"
       location: "BIOSCI RM1102"
       start_time: "1900-01-01T09:30:00"
       term_end: "2015-04-02T00:00:00"
@@ -32,7 +32,7 @@
       day_of_week: 5
       end_time: "1900-01-01T09:30:00"
       instructors: 
-        - "Amsden, Brian G"
+        - "Holman, Lauren Ann"
       location: "BIOSCI RM1102"
       start_time: "1900-01-01T08:30:00"
       term_end: "2015-04-02T00:00:00"
