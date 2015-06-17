@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "This course highlights the usefulness of game theoretical approaches in solving problems in the natural sciences and economics. Basic ideas of game theory, including Nash equilibrium and mixed strategies; stability using approaches developed for the study of dynamical systems, including evolutionary stability and replicator dynamics; the emergence of co-operative behaviour; limitations of applying the theory to human behaviour.\r\nRECOMMENDATION    MATH 110/6.0 or MATH 111/6.0."
+    description: "This course highlights the usefulness of game theoretical approaches in solving problems in the natural sciences and economics. Basic ideas of game theory, including Nash equilibrium and mixed strategies; stability using approaches developed for the study of dynamical systems, including evolutionary stability and replicator dynamics; the emergence of co-operative behaviour; limitations of applying the theory to human behaviour.\nLEARNING HOURS    120 (36L;84P)\nRECOMMENDATION    MATH 110/6.0 or MATH 111/6.0."
     number: "339"
     subject: "MATH"
     title: "Evolutionary Game Theory"

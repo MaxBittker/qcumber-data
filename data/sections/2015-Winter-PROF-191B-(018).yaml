@@ -1,5 +1,10 @@
 ---
   _unique: "018-LEC (4112)"
+  availability: 
+    class_curr: 15
+    class_max: 20
+    wait_curr: 0
+    wait_max: 0
   basic: 
     class_num: "4112"
     course: "191B"
@@ -14,7 +19,7 @@
       day_of_week: 5
       end_time: "1900-01-01T10:30:00"
       instructors: 
-        - "Howe, Michael"
+        - "Cooper, Amanda"
       location: "TBA"
       start_time: "1900-01-01T09:00:00"
       term_end: "2015-01-16T00:00:00"
@@ -23,7 +28,7 @@
       day_of_week: 5
       end_time: "1900-01-01T10:30:00"
       instructors: 
-        - "Howe, Michael"
+        - "Cooper, Amanda"
       location: "TBA"
       start_time: "1900-01-01T09:00:00"
       term_end: "2015-01-30T00:00:00"
@@ -32,7 +37,7 @@
       day_of_week: 5
       end_time: "1900-01-01T10:30:00"
       instructors: 
-        - "Howe, Michael"
+        - "Cooper, Amanda"
       location: "TBA"
       start_time: "1900-01-01T09:00:00"
       term_end: "2015-02-13T00:00:00"
@@ -41,7 +46,7 @@
       day_of_week: 5
       end_time: "1900-01-01T10:30:00"
       instructors: 
-        - "Howe, Michael"
+        - "Cooper, Amanda"
       location: "TBA"
       start_time: "1900-01-01T09:00:00"
       term_end: "2015-04-17T00:00:00"
@@ -50,9 +55,49 @@
       day_of_week: 4
       end_time: "1900-01-01T10:30:00"
       instructors: 
-        - "Howe, Michael"
+        - "Cooper, Amanda"
       location: "TBA"
       start_time: "1900-01-01T09:00:00"
       term_end: "2015-04-30T00:00:00"
       term_start: "2015-04-30T00:00:00"
+    - 
+      day_of_week: 5
+      end_time: "1900-01-01T10:30:00"
+      instructors: 
+        - "Cooper, Amanda"
+      location: "TBA"
+      start_time: "1900-01-01T09:00:00"
+      term_end: "2015-01-16T00:00:00"
+      term_start: "2015-01-09T00:00:00"
+    - 
+      day_of_week: 5
+      end_time: "1900-01-01T10:30:00"
+      instructors: 
+        - "Cooper, Amanda"
+      location: "TBA"
+      start_time: "1900-01-01T09:00:00"
+      term_end: "2015-01-30T00:00:00"
+      term_start: "2015-01-30T00:00:00"
+    - 
+      day_of_week: 5
+      end_time: "1900-01-01T10:30:00"
+      instructors: 
+        - "Cooper, Amanda"
+      location: "TBA"
+      start_time: "1900-01-01T09:00:00"
+      term_end: "2015-02-13T00:00:00"
+      term_start: "2015-02-13T00:00:00"
+    - 
+      day_of_week: 5
+      end_time: "1900-01-01T10:30:00"
+      instructors: 
+        - "Cooper, Amanda"
+      location: "TBA"
+      start_time: "1900-01-01T09:00:00"
+      term_end: "2015-04-17T00:00:00"
+      term_start: "2015-04-17T00:00:00"
+  details: 
+    campus: "Main"
+    location: "Kingston (West), ON"
+    session: "Education Regular"
 

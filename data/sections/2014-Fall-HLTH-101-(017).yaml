@@ -1,5 +1,10 @@
 ---
   _unique: "017-TUT (5440)"
+  availability: 
+    class_curr: 25
+    class_max: 25
+    wait_curr: 0
+    wait_max: 0
   basic: 
     class_num: "5440"
     course: "101"
@@ -58,4 +63,8 @@
       start_time: "1900-01-01T16:30:00"
       term_end: "2014-11-28T00:00:00"
       term_start: "2014-11-24T00:00:00"
+  details: 
+    campus: "Main"
+    location: "Kingston (Main), ON"
+    session: "Regular Academic Session"
 

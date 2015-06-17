@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "This course provides an introduction to human physiology from the cellular to the systematic level with special emphasis on the systems that adapt to exercise stress. The following areas will be covered: the cell, nervous system, skeletal muscle system, respiratory system, cardiovascular system, neuroendocrine system, and renal system."
+    description: "This course provides an introduction to human physiology from the cellular to the systematic level with special emphasis on the systems that adapt to exercise stress. The following areas will be covered: the cell, nervous system, skeletal muscle system, respiratory system, cardiovascular system, neuroendocrine system, and renal system.\nLEARNING HOURS    108 (36L;72P)"
     number: "125"
     subject: "KNPE"
     title: "Introduction to the Physiology of Human Movement"
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisite    Level 1 or above in a PHED, KINE or HLTH Plan.\r\nExclusion    No more than 1 course from IDIS150; KNPE125; KNPE225; PHGY210; PHGY212; PHGY214."
+    enrollment_requirement: "Prerequisite    Level 1 or above in a PHED, KINE or HLTH Plan.\nExclusion    No more than 1 course from KNPE125; KNPE225; PHGY210; PHGY212; PHGY214."
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

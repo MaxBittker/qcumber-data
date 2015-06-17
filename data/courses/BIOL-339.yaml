@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Prerequisite    A grade of C- in BIOL205\r\nExclusion     no more than 3.0 units from BIOL338; BIOL339"
+    enrollment_requirement: "Prerequisite    A grade of C- in BIOL205"
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

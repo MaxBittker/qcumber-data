@@ -15,7 +15,7 @@
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
-    enrollment_requirement: "Corequisite     BIOL339.\r\nExclusion    BIOL338"
+    enrollment_requirement: "Corequisite     BIOL339."
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

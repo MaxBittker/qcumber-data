@@ -11,11 +11,12 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    career: "Distance Studies"
+    career: "Undergraduate"
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
     enrollment_requirement: "Exclusion    No more than 3.0 units from APSC142;CISC101; CISC110.\r\nOne-way exclusion    May not be taken with or after: CISC121; CISC; CMPE at the 200-level or above."
     grading_basis: "Graded"
+    typically_offered: "Fall"
     units: "3.00"
 

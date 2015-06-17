@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Introduction to scientific computing: floating point arithmetic, algorithm design, error analysis, ill-conditioning. Zero-finding. Linear equations. Interpolation. Integration. Least-squares fitting. Effective use of library programs, with discussion of their limitations and some aspects of their design and implementation."
+    description: "Introduction to scientific computing: floating point arithmetic, algorithm design, error analysis, ill-conditioning. Zero-finding. Linear equations. Interpolation. Integration. Least-squares fitting. Effective use of library programs, with discussion of their limitations and some aspects of their design and implementation.\nLEARNING HOURS    120 (36L;12Lb;72P)"
     number: "271"
     subject: "CISC"
     title: "Scientific Computing"

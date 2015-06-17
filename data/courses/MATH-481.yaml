@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An introduction to mathematical logic, including some of the following topics: syntax of first-order theories, Peano arithmetic, Gödel's first incompleteness theorem, sentences undecidable in Peano arithmetic, Gödel's second incompleteness theorem, and the Hilbert program and philosophical consequences of Gödel's theorems."
+    description: "An introduction to mathematical logic, including some of the following topics: syntax of first-order theories, Peano arithmetic, Gödel's first incompleteness theorem, sentences undecidable in Peano arithmetic, Gödel's second incompleteness theorem, and the Hilbert program and philosophical consequences of Gödel's theorems.\nLEARNING HOURS    120 (24I;96P)"
     number: "481"
     subject: "MATH"
     title: "Mathematical Logic"

@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Design and implementation of advanced data structures and related algorithms, including correctness and complexity analysis. "
+    description: "Design and implementation of advanced data structures and related algorithms, including correctness and complexity analysis.\nLEARNING HOURS    120 (36L;24Lb;60P)"
     number: "235"
     subject: "CISC"
     title: "Data Structures"

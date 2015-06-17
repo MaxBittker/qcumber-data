@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An exploration of the modern theory of Fourier series: Abel and Cesaro summability; Dirichlet's and Fejér's kernels; term by term differentiation and integration; infinite products; Bernoulli numbers; Gibbs's phenomenon."
+    description: "An exploration of the modern theory of Fourier series: Abel and Cesaro summability; Dirichlet's and Fejér's kernels; term by term differentiation and integration; infinite products; Bernoulli numbers; Gibbs's phenomenon.\nLEARNING HOURS    132 (36L;96P)"
     number: "421"
     subject: "MATH"
     title: "Fourier Series"

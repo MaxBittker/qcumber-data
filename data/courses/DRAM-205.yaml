@@ -13,7 +13,8 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Online: "Required"
+      Blended: "Required"
+      Laboratory: "Required"
     enrollment_requirement: "Prerequisite    Level 2 or above."
     grading_basis: "Graded"
     typically_offered: "Winter"

@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "RECOMMENDATION    (BIOL 301/3.0 or BIOL 341/3.0) and BIOL 322/3.0."
+    description: "LEARNING HOURS    120 (36S;84P)\nRECOMMENDATION    (BIOL 301/3.0 or BIOL 341/3.0) and BIOL 322/3.0."
     number: "506"
     subject: "BIOL"
     title: "Biochemical Adaptations to Life Under Extreme Conditions"
@@ -15,7 +15,7 @@
     career: "Undergraduate"
     course_components: 
       Seminar: "Required"
-    enrollment_requirement: "Recommendation    (BIOL301 or BIOL341) and BIOL322.\r\nPrerequisites     BIOL334 or BIOL234 or (BCHM315 and BCHM316) or BCHM 310."
+    enrollment_requirement: "Recommendation    BIOL341 and BIOL322.\nPrerequisites     BIOL334 or BIOL234 or (BCHM315 and BCHM316) or BCHM 310."
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

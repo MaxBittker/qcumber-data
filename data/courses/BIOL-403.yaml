@@ -15,7 +15,7 @@
     course_components: 
       Laboratory: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Corequisite    (BIOL330 or BCHM218 or MBIO218) and (BIOL334 or BIOL339 or BIOL341 or BIOL301 or BIOL338)."
+    enrollment_requirement: "Corequisite    (BIOL330 or BCHM218 or MBIO218) and (BIOL334 or BIOL339 or BIOL341)."
     grading_basis: "Graded"
     units: "3.00"
 
