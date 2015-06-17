@@ -1,0 +1,21 @@
+---
+  _unique: "002-TUT (3181)"
+  basic: 
+    class_num: "3181"
+    course: "367"
+    season: "Winter"
+    solus_id: "002"
+    status: "Open"
+    subject: "MTHE"
+    type: "TUT"
+    year: "2015"
+  classes: 
+    - 
+      day_of_week: 4
+      end_time: "1900-01-01T09:30:00"
+      instructors: []
+      location: "STIRLING RM C"
+      start_time: "1900-01-01T08:30:00"
+      term_end: "2015-04-02T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+

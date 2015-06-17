@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course examines gender in an international context with emphasis on current global issues of women and development. Topics include gendering international political economy, women's health and sexualities, and forms of struggle, resistance and change in non-western contexts."
+    number: "330"
+    subject: "GNDS"
+    title: "Gender and the Global South"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "3rd year standing or above"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

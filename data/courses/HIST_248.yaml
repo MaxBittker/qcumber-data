@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A survey of United States history from the beginnings of European colonization until the end of the Civil War, emphasizing social and cultural changes."
+    number: "248"
+    subject: "HIST"
+    title: "United States, Colonization to 1865"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE    Level 2 or above.\r\nEXCLUSION    No more than 6.0 units from HIST 248/3.0; HIST 249/3.0; HIST 272/6.0"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

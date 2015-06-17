@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Lecture courses on selected topics in psychology offered periodically.\r\nNOTE    Prerequisites vary depending on specific course content; consult instructor or Undergraduate Office in the Psychology Department."
+    number: "399"
+    subject: "PSYC"
+    title: "Selected Topics in Psychology II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture / Laboratory: "Required"
+    drop_consent: "Department Consent Required"
+    enrollment_requirement: "PSYC271"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

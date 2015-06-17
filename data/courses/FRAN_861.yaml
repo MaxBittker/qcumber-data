@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Étude de pièces puisées dans le répertoire des dramaturgies française et québécoise du XXe siècle (Beckett, Cocteau, Gauvreau, Genet, Ionesco, Pinget, Sarraute, Sartre, Tremblay) qui tournent autour de la question de l'identité.  Ne sera pas donné en 2010-2011."
+    number: "861"
+    subject: "FRAN"
+    title: "Théâtre et identité"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

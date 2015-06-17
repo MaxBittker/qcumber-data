@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "This course covers performance models for data networking, delay models and loss models; analysis of multiple access systems, routing, and flow control; multiplexing; priority systems; satellite multiple access, wireless networking,  wireless sensor networks.  Knowledge of networking protocols is not required.  (Offered jointly with MATH 484.) Three term hours, winter; lectures."
+    number: "884"
+    subject: "MATH"
+    title: "Data Networks"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

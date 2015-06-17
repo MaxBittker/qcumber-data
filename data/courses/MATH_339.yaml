@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course highlights the usefulness of game theoretical approaches in solving problems in the natural sciences and economics. Basic ideas of game theory, including Nash equilibrium and mixed strategies; stability using approaches developed for the study of dynamical systems, including evolutionary stability and replicator dynamics; the emergence of co-operative behaviour; limitations of applying the theory to human behaviour.\r\nRECOMMENDATION    MATH 110/6.0 or MATH 111/6.0."
+    number: "339"
+    subject: "MATH"
+    title: "Evolutionary Game Theory"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Recommendation    MATH110 or MATH111.\r\nPrerequisites    MATH120 or MATH121 or MATH122 or MATH124.\r\nEquivalency    MATH239."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Examines Chinese and foreign religions in mainland China from 1949 to the present day.  Topics include the status of established religions, the political control of new religious movements and the resurgence of traditional Chinese religion and ideologies including Daoism and Confucianism.  Not offered 2010-2011."
+    number: "894"
+    subject: "RELS"
+    title: "Reln & Politics In Mod. China"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

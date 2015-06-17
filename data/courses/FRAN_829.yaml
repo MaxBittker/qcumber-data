@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Étude des discours mystiques du 17e siècle à travers divers genres. L'objectif principal de ce cours est d'étudier les divers discours mystiques qui parcourent le 17e siècle afin de montrer comment et sous quelle forme ils participent aux tensions -cur, raison- qui traversent ce siècle. Seront examinés, entre autres, Pascal, Fénelon, Madame de Guyon. Automne, trois heures/semaine. A. Conacher"
+    number: "829"
+    subject: "FRAN"
+    title: "Mysticisme et académisme"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

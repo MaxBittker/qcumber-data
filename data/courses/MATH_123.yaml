@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Differentiation and integration of elementary functions, with applications to physical and social sciences.  Topics include limits, related rates, Taylor polynomials, and introductory techniques  and applications of integration.  \r\nNOTE    Not intended for students pursuing a MATH or STAT plan."
+    number: "123"
+    subject: "MATH"
+    title: "Differential and Integral Calculus I"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    add_consent: "Department Consent Required"
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Permission of the Department\r\nExclusion    No more than 6.0 units from MATH120;121;122;123;124;126"
+    grading_basis: "Graded"
+    typically_offered: "Spring"
+    units: "3.00"
+

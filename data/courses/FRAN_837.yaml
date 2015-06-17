@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "À partir d'un corpus varié de textes (philosophie, roman, théâtre, poésie) parus en France entre le Moyen Âge et le XVIIIe siècle, ce cours s'attachera à l'étude des écrits masculins et féminins qui préparent les grands thèmes de la réflexion actuelle sur l'identité féminine. Hiver, trois heures/semaine. E. Zawisza"
+    number: "837"
+    subject: "FRAN"
+    title: "Théories de la féminité dans la littérature française d'avant 1800"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

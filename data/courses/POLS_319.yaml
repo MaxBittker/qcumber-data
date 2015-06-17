@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An introduction to Canadian political thinkers who have addressed important themes in contemporary Canadian public, legal and theoretical discourse, including multiculturalism, critical race theory, antipornography campaigns, sexual violence, globalization and modern alienation."
+    number: "319"
+    subject: "POLS"
+    title: "Public Discourse in Canada: Issues and Debates"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE  (12.0 units in POLS at the 200-level or above) and (a GPA of 2.0 on all units in POLS) or permission of the department."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

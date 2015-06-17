@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Introductory study of 20th-century systems of musical organization through analysis and writing."
+    number: "392"
+    subject: "MUSC"
+    title: "Theory and Analysis III"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+    enrollment_requirement: "Prerequisite    MUSC293 (or MUSC 291/6.0) or permission of the School."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

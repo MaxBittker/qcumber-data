@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "An introduction to ethics via an examination of controversial moral issues. Special topics: abortion; animal rights; euthanasia.\r\nNOTE    Also offered as a distance course. Consult Continuing and Distance Studies."
+    number: "157"
+    subject: "PHIL"
+    title: "Moral Issues"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

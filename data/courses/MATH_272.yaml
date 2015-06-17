@@ -1,0 +1,23 @@
+---
+  basic: 
+    description: "An introductory course on the use of computers in science. Topics include: solving linear and nonlinear equations, interpolation, integration, and numerical solutions of ordinary differential equations. Extensive use is made of MATLAB, a high level interactive numerical package."
+    number: "272"
+    subject: "MATH"
+    title: "Applications of Numerical Methods"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "Prerequisite of MATH110 or MATH111 and  CISC101 or CISC121 and a corequisite of MATH232.\r\nExclusion    No more than 3.0 units from CISC271; MATH272; PHYS313."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

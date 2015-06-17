@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Primarily for students in the biological and life sciences. Topics include: kinematics, mechanics, and energy; heat, heat transfer and temperature; fluid flow; electricity and magnetism; oscillations and wave motion; sound; light and optics; atoms and nuclei. The application of physics to biological systems will be emphasized.\r\nRECOMMENDATION    4U Physics is recommended."
+    number: "117B"
+    subject: "PHYS"
+    title: "Introductory Physics"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall, Winter"
+    units: "6.00"
+

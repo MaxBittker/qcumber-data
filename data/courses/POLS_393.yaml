@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A comparative examination of the politics and government of different countries, or theories or themes in comparative politics. The focus of this course will vary from year to year; consult the departmental website for further details."
+    number: "393"
+    subject: "POLS"
+    title: "Topics in Comparative Politics"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITES    (12.0 units in POLS at the 200-level or above) and (a GPA of 2.0 in all POLS units),  or permission of the Department .\nEXCLUSION  No more than 3.0 units from POLS391/3.0; POLS393/3/0"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

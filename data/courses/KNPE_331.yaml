@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "The care and prevention of common athletic injuries with emphasis placed on the practical portion of taping and wrapping of athletic trauma. \r\nNOTE    Materials Fees: Estimated cost $30."
+    number: "331"
+    subject: "KNPE"
+    title: "Care and Prevention of Athletic Injuries"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites    Level 3 or above in a PHED or KINE Plan and ANAT315 and ANAT316."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

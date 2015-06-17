@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Le contenu de ce cours, basé en général sur l'analyse critique ou comparative d'une théorie ou d'un ensemble de théories, dépendra des intérêts et de la recherche récente de l'instructeur.  Ne sera pas donné en 2010-2011."
+    number: "892"
+    subject: "FRAN"
+    title: "Études linguistiques I"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

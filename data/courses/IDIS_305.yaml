@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An interdisciplinary introduction to the broad development of British life and culture, focusing on cultural and political conflicts in British society. The course usually combines British art history, history, literature and geography.\r\nNOTE    Offered only at the Bader International Study Centre, Herstmonceux."
+    number: "305"
+    subject: "IDIS"
+    title: "British Studies II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

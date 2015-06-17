@@ -1,0 +1,19 @@
+---
+  basic: 
+    description: "Studies focused on Modern and Contemporary literature that do not fit within the established Group III rubrics (British, Canadian, American, Postcolonial, Indigenous). For detailed information, consult the Department."
+    number: "485B"
+    subject: "ENGL"
+    title: "Group III: Special Studies"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    grading_basis: "Graded"
+    units: "6.00"
+

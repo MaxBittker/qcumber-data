@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "For detailed information, consult the Department."
+    number: "440B"
+    subject: "ENGL"
+    title: "Studies in Romanticism"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "6.00"
+

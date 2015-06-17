@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course provides intensive coverage of a special topic in applied geology and will be offered periodically in conjunction with visiting faculty and professionals.  Consult the department homepage for opportunities"
+    number: "341"
+    subject: "GEOE"
+    title: "Special Topics in Applied Geology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    add_consent: "Department Consent Required"
+    career: "Undergraduate"
+    course_components: 
+      Individual Study: "Required"
+    enrollment_requirement: "PREREQ: GEOE 300 or permission of the department. Must also be registered in BSCE."
+    grading_basis: "Graded"
+    units: "3.00"
+

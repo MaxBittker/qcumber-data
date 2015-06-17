@@ -1,0 +1,45 @@
+---
+  _unique: "001-LEC (7831)"
+  basic: 
+    class_num: "7831"
+    course: "366"
+    season: "Winter"
+    solus_id: "001"
+    status: "Open"
+    subject: "CURR"
+    type: "LEC"
+    year: "2015"
+  classes: 
+    - 
+      day_of_week: 4
+      end_time: "1900-01-01T10:30:00"
+      instructors: []
+      location: "TBA"
+      start_time: "1900-01-01T08:30:00"
+      term_end: "2015-02-13T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+    - 
+      day_of_week: 2
+      end_time: "1900-01-01T10:30:00"
+      instructors: []
+      location: "TBA"
+      start_time: "1900-01-01T08:30:00"
+      term_end: "2015-02-13T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+    - 
+      day_of_week: 4
+      end_time: "1900-01-01T10:30:00"
+      instructors: []
+      location: "TBA"
+      start_time: "1900-01-01T08:30:00"
+      term_end: "2015-04-30T00:00:00"
+      term_start: "2015-04-13T00:00:00"
+    - 
+      day_of_week: 2
+      end_time: "1900-01-01T10:30:00"
+      instructors: []
+      location: "TBA"
+      start_time: "1900-01-01T08:30:00"
+      term_end: "2015-04-30T00:00:00"
+      term_start: "2015-04-13T00:00:00"
+

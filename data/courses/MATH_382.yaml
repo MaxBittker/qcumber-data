@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Elementary mathematical material will be used to explore different ways of discovering results and mastering concepts. Topics will come from number theory, geometry, analysis, probability theory, and linear algebra. Much class time will be used for problem solving and presentations by students."
+    number: "382"
+    subject: "MATH"
+    title: "Mathematical Explorations"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites     (MATH221 or MATH231 or MATH232 or MATH280) and (MATH210 or MATH211).\r\nExclusion    No more than 3.0 units from IDIS303; MATH382."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

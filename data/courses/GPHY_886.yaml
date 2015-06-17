@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "The focus of the course will be on themes and debates regarding Marxist analysis of land, housing and residential structure in capitalist societies. Three term-hours."
+    number: "886"
+    subject: "GPHY"
+    title: "Pol. Economy Of Urbanization"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Seminar: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

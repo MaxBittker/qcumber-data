@@ -1,0 +1,22 @@
+---
+  _unique: "002-TUT (3090)"
+  basic: 
+    class_num: "3090"
+    course: "321"
+    season: "Fall"
+    solus_id: "002"
+    status: "Open"
+    subject: "MECH"
+    type: "TUT"
+    year: "2014"
+  classes: 
+    - 
+      day_of_week: 2
+      end_time: "1900-01-01T10:30:00"
+      instructors: 
+        - "Mechefske, Christopher K"
+      location: "DUPUIS AUD"
+      start_time: "1900-01-01T09:30:00"
+      term_end: "2014-11-28T00:00:00"
+      term_start: "2014-09-08T00:00:00"
+

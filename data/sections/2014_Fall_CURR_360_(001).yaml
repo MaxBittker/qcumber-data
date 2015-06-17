@@ -1,0 +1,45 @@
+---
+  _unique: "001-LEC (3740)"
+  basic: 
+    class_num: "3740"
+    course: "360"
+    season: "Fall"
+    solus_id: "001"
+    status: "Open"
+    subject: "CURR"
+    type: "LEC"
+    year: "2014"
+  classes: 
+    - 
+      day_of_week: 4
+      end_time: "1900-01-01T12:50:00"
+      instructors: []
+      location: "DUNCAN MCARTHUR RM B180"
+      start_time: "1900-01-01T10:50:00"
+      term_end: "2014-10-10T00:00:00"
+      term_start: "2014-09-03T00:00:00"
+    - 
+      day_of_week: 2
+      end_time: "1900-01-01T12:50:00"
+      instructors: []
+      location: "DUNCAN MCARTHUR RM B180"
+      start_time: "1900-01-01T10:50:00"
+      term_end: "2014-10-10T00:00:00"
+      term_start: "2014-09-03T00:00:00"
+    - 
+      day_of_week: 4
+      end_time: "1900-01-01T12:50:00"
+      instructors: []
+      location: "DUNCAN MCARTHUR RM B180"
+      start_time: "1900-01-01T10:50:00"
+      term_end: "2014-12-19T00:00:00"
+      term_start: "2014-11-24T00:00:00"
+    - 
+      day_of_week: 2
+      end_time: "1900-01-01T12:50:00"
+      instructors: []
+      location: "DUNCAN MCARTHUR RM B180"
+      start_time: "1900-01-01T10:50:00"
+      term_end: "2014-12-19T00:00:00"
+      term_start: "2014-11-24T00:00:00"
+

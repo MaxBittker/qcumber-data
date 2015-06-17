@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A detailed study of major 19th century writers after 1848. Travaux pratiques include essays and tests.Given jointly with FREN 423/3.0."
+    number: "323"
+    subject: "FREN"
+    title: "La littérature française de 1848 à 1900"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites   6.0 units from FREN212 or FREN220 or FREN221 and registration in a FREN Plan.\nExclusion    No more than 3.0 units from FREN323; FREN423."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

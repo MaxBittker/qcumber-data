@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "A course of selected readings exemplifying a period, theoretical issue or genre in Peninsular or Spanish American Literature, as may be needed by individual students. By arrangement with the Head of Department. "
+    number: "891"
+    subject: "SPAN"
+    title: "Lecturas Seleccionadas"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

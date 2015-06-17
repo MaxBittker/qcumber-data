@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Features of and theories about religious life in small-scale traditional societies. Includes Canadian Indians and Inuit."
+    number: "227"
+    subject: "RELS"
+    title: "Religions of Native Peoples"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE  Level 2 or above or 6.0 units at the 100 level in RELS"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

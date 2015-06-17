@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A topic of current interest in Religious Studies not covered in other available courses."
+    number: "301"
+    subject: "RELS"
+    title: "Current Topics Religious Studies I"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 3 or above or 6.0 units at the 100 level in RELS"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

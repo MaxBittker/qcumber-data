@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Designed to present Primary-Junior candidates with an  introduction to methodologies, techniques and practices in teaching English as a second language (ESL) or a foreign language (EFL, i.e. teaching English overseas).  Candidates will become familiar with the current Ontario curricula and resources for teaching ESL/ELD (English Literacy Development) in elementary schools (K to 6), and their relevance to second language instruction to young children at all skill levels ¿ listening, speaking, reading and writing ¿ in the regular classroom that contains both native and/or non-native English-speaking students. Candidates are required to work with ESL students during the course."
+    number: "428"
+    subject: "EDST"
+    title: "Teaching English as a Sec Lang"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Restricted to PJ"
+    grading_basis: "Graded"
+    typically_offered: "Summer"
+    units: "3.00"
+

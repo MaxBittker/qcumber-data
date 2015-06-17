@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "An intensive six-week introduction to archaeological methods and interpretation during participation in a fieldwork project run by a member of the Classics Department. In addition to tuition, students are required to pay for their own transportation to the archaeological site and to pay a camp fee."
+    number: "408"
+    subject: "CLST"
+    title: "Archaeology Fieldwork Practicum I"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Field Studies: "Required"
+    drop_consent: "Department Consent Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
+    grading_basis: "Graded"
+    typically_offered: "Summer"
+    units: "6.00"
+

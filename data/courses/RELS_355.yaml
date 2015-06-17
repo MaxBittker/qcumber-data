@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An investigation into the techniques of critical reading and writing for research in Religious Studies. "
+    number: "355"
+    subject: "RELS"
+    title: "Research Methods in Religious Studies"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture / Seminar: "Required"
+    enrollment_requirement: "Prerequisite    Level 3 and 6.0 units at the 200 level in RELS.\r\nExclusion    No more than 6.0 units from RELS 353/6.0; RELS 354/3.0; RELS 355/3.0."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

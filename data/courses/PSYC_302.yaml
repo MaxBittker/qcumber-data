@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "The application of previous statistical and methodological courses (continuation of PSYC 202/PSYC 203/PSYC 301) toward the design, execution, analysis, and communication of a research project. Lectures and laboratories cover data collection, data management, some advanced statistical analyses, and communication skills.\r\nNOTE    Enrollment is limited. Restricted to students in a PSYC Major Plan. Required for admission to PSYC 501/9.0."
+    number: "302"
+    subject: "PSYC"
+    title: "Advanced Research Methods"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    A minimum grade of C in PSYC301 and registration in a PSYC Major Plan. \r\nExclusion     No more than 6.0 units from PSYC300; PSYC301; PSYC302."
+    grading_basis: "Graded"
+    units: "3.00"
+

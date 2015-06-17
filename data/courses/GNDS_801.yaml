@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "This required interdisciplinary seminar explores the development and application of contemporary theories in gender, women¿s and feminist studies, as well as debates surrounding them. Discussions draw on social science and humanities literature."
+    number: "801"
+    subject: "GNDS"
+    title: "Issues In Gender And Sexuality"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

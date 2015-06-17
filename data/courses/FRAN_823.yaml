@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Ce séminaire porte sur l'analyse de problèmes de pointe en morphosyntaxe et sera l'occasion de présenter et d'évaluer des théories récentes en grammaire générative. En plus de permettre aux étudiants d'approfondir leurs connaissances en théorie morphosyntaxique, ce séminaire abordera un thème particulier situé à l'interface entre la morphologie et la syntaxe . Le focus du cours pourra varier selon les années en fonction des intérêts de l'instructeur et des étudiants. Le séminaire s'adresse aux étudiants ayant déjà une formation avancée en linguistique théorique. Ne sera pas donné en 2010-2011."
+    number: "823"
+    subject: "FRAN"
+    title: "Thèmes en théorie morphosyntaxique"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

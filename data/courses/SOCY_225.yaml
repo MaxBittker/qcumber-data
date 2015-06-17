@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An introduction to recent sociological debates on the emergence of a global economy and society, and its impact on different parts of the world."
+    number: "225"
+    subject: "SOCY"
+    title: "Sociology of Globalization"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE  A grade of C- in SOCY122/6.0"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

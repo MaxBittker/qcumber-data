@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A study of late nineteenth- and early twentieth-century French art in its changing institutional, social and art historical contexts. Topics may include the institutions of exhibiting and artistic training, the art market, modernity, the new Paris, impressionism and sensation, the decorative, the cult of the self, primitivism and colonialism. "
+    number: "324"
+    subject: "ARTH"
+    title: "French Art and Its Reception, 1855-1912"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE    Third year standing or above\r\nEXCLUSION    No more than 3.0 units from ARTH 322/3.0; ARTH 324/3.0."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

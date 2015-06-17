@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Explores a range of contemporary issues in communications and information technology. Topics may vary from year to year. See the departmental website for further details."
+    number: "304"
+    subject: "SOCY"
+    title: "Selected Topics in Communications and Information Technology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE  A grade of C- in SOCY122/6.0"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

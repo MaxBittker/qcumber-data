@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Exploration of Islamic developments since the 19th century: major thinkers, trends of thought, and contemporary movements as responses to modernity. Not offered 2010-2011."
+    number: "896"
+    subject: "RELS"
+    title: "Islam In The Modern World"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

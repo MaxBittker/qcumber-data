@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Offering an introduction to several different theorists and periods of psychoanalysis from Freud to the present, this seminar will examine the intersections of psychoanalytic thought and literary texts from various genres and periods.  Three term-hours; fall.  J. Scott. "
+    number: "885"
+    subject: "GRMN"
+    title: "Topics In Psychoanalytic Crit."
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Summer"
+    units: "3.00"
+

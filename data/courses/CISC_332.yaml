@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Data models: relational, entity-relationship. Relational query languages: relational algebra and SQL. Relational database design. Application interfaces and embedded SQL. Storage and indexing."
+    number: "332"
+    subject: "CISC"
+    title: "Database Management Systems"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites     CISC124 and CISC204 \r\nExclusion     No more than 3.0 units from CISC332; COMM392"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Examination of musical styles and movements in the nineteenth and twentieth centuries, in their sociocultural contexts. Discussion of foundation topics introduced in MUSC 103/3.0 is continued.\r\nNOTE    Non-Music students holding Royal Conservatory Grade III Harmony may enrol in this course with permission of the School."
+    number: "203"
+    subject: "MUSC"
+    title: "Romantic and Twentieth-Century Music"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite of MUSC191 or MUSC103"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,19 @@
+---
+  basic: 
+    description: "A study of the three periods constituting contemporary Spanish theater: Pre-Spanish Civil War, Franco and Post-Franco. Special attention will be given to García Lorcas Andalusian tragedies from the first period, to works of  the realist generation of Buero Vallejo, Recuerda, Olmo, and Rodríguez Méndez written under the constraints of Franco, and, finally to plays focusing on the problems of modern life within a democratic society written by Alonso de Santos, Cabal and Pedredo in the third period. The study of these playwrights and others will facilitate a better understanding of contemporary Spain and its theater.  Three term hours; Fall term. P. Novell."
+    number: "835"
+    subject: "SPAN"
+    title: "Contemporary Spanish Theatre"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    units: "3.00"
+

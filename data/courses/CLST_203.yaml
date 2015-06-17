@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Greek concepts of the supernatural and humanity's relationship to it. The basic myths, official and secret creeds, meaning and social function of myth and ritual."
+    number: "203"
+    subject: "CLST"
+    title: "Myth and Religion"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

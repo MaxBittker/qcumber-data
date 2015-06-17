@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "A lecture and laboratory course on psychometrics. Test development and evaluation will be the focus of student projects. The course will introduce software packages used for analyzing psychological test data. \r\nNOTE    A fee of $30 will be collected from each student for the cost of photocopying, materials, and mailings related to data collection."
+    number: "334"
+    subject: "PSYC"
+    title: "Laboratory in Psychological Testing"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    add_consent: "Department Consent Required"
+    career: "Undergraduate"
+    course_components: 
+      Lecture / Laboratory: "Required"
+    enrollment_requirement: "Prerequisite    PSYC301 or PSYC300."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

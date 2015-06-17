@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A study of the theory and practice of modernist writers in Britain and North America. Texts will include theoretical manifestoes as well as creative writing. Some attention will be given to the modernist movement in other arts."
+    number: "464A"
+    subject: "ENGL"
+    title: "Literary Modernism"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisite  (ENGL200 & ENGL290) and (a GPA of 2.4 on all ENGL units) and (registration in an ENGL Major or Medial Plan)."
+    grading_basis: "Graded"
+    typically_offered: "Fall, Winter"
+    units: "0.00"
+

@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "This course will acquaint students with current ¿best practice¿ in the use of functional magnetic resonance imaging (fMRI) as a tool to investigate cognitive function.  Topics will include experimental design, data processing and analysis, as well as statistical inference and localization. 1.5 hours"
+    number: "917"
+    subject: "PSYC"
+    title: "Intro To Cognitive Neuroimagin"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Seminar: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

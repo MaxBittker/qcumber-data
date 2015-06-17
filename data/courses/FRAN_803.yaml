@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Ce cours portera sur les différents facteurs impliqués dans l'acquisition d'une langue seconde (ALS). La première partie du cours portera sur les différents modèles théoriques proposés pour rendre compte de l'ALS, ainsi que sur les différences entre l'acquisition d'une L1 et l'acquisition d'une L2. Dans un deuxième temps, nous nous pencherons sur le rôle des différences individuelles chez les apprenants (telles l'âge, l'aptitude, la personnalité, le style cognitif, la motivation, l'attitude et les stratégies d'apprentissage). Dans la troisième partie du cours, nous nous intéresserons plus particulièrement aux caractéristiques de l'interlangue (le système linguistique développé par les apprenants). Finalement, nous discuterons des différences existant entre l'apprentissage d'une L2 en milieu naturel et l'apprentissage en salle de classe. Hiver, trois heures/semaine. M. Dufresne."
+    number: "803"
+    subject: "FRAN"
+    title: "Acquisition d'une langue seconde"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

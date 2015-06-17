@@ -1,0 +1,31 @@
+---
+  _unique: "004-LEC (1401)"
+  basic: 
+    class_num: "1401"
+    course: "104"
+    season: "Winter"
+    solus_id: "004"
+    status: "Open"
+    subject: "COMM"
+    type: "LEC"
+    year: "2015"
+  classes: 
+    - 
+      day_of_week: 1
+      end_time: "1900-01-01T14:30:00"
+      instructors: 
+        - "Friesen, Constance"
+      location: "GOODES RM120"
+      start_time: "1900-01-01T13:00:00"
+      term_end: "2015-04-02T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+    - 
+      day_of_week: 3
+      end_time: "1900-01-01T13:00:00"
+      instructors: 
+        - "Friesen, Constance"
+      location: "GOODES RM120"
+      start_time: "1900-01-01T11:30:00"
+      term_end: "2015-04-02T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+

@@ -1,0 +1,23 @@
+---
+  basic: 
+    description: "A discussion of theoretical frameworks for understanding contemporary societies. The course will normally cover capitalism and economy; globalization and post-colonialism; identity, politics, and social movements; science, technology, and environmentalism; consumerism and urban life."
+    number: "227"
+    subject: "SOCY"
+    title: "Theorizing Contemporary Society"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    drop_consent: "Department Consent Required"
+    enrollment_requirement: "PREREQUISITE    SOCY 226/3.0."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

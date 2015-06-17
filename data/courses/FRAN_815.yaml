@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Présentation des différents courants qui ont margué la linquistique depuis la Grammaire de Port-Royal, y compris les néo-grammairiens, le structuralisme, le béhaviorisme, le cognitivisme, le générativisme et les modèles variationnistes. Ne sera pas donné en 2010-2011."
+    number: "815"
+    subject: "FRAN"
+    title: "Théories du langage"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Summer"
+    units: "3.00"
+

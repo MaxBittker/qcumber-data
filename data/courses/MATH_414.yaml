@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An introduction to Galois Theory and some of its applications."
+    number: "414"
+    subject: "MATH"
+    title: "Introduction to Galois Theory"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites    MATH310 or MATH313.\r\nEquivalency    MATH314."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

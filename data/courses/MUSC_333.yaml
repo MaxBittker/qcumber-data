@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An historical overview and introduction to the philosophical and pedagogical views of Emile Jaques-Dalcroze, Zoltan Kodály and Carl Orff to teaching music."
+    number: "333"
+    subject: "MUSC"
+    title: "Dalcroze  Kodaly and Orff"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITES    MUSC 273/3.0 and MUSC 274/3.0.\r\nEXCLUSION    No more than 3.0 units from MUSC 233/3.0; MUSC 333/3.0."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An advanced, problem-based course focusing on current approaches to the study of mechanisms of chemical toxicity.  Winter; 3 hour seminars and tutorials.  Given in years ending with an even number.  T.E. Massey"
+    number: "815"
+    subject: "PHAR"
+    title: "Mechanistic Toxicology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Corequisite     BCHM310"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

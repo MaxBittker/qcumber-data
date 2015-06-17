@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Intensive coverage of topics that are current and/or of special interest in the area of epidemiology. Offered periodically by visiting professors or members of faculty. Students should check with the School regarding availability of this course."
+    number: "423"
+    subject: "HLTH"
+    title: "Advanced Studies in Epidemiology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITES    [Level 4 and registration in a (Major or Medial HLTH Plan) or PHED Specialization Plan or KINE Specialization Plan] and HLTH 323/3.0."
+    grading_basis: "Graded"
+    units: "3.00"
+

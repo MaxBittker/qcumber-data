@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Un survol des théories portant sur la question de la représentation de l'oralité dans les littératures africaines et antillaises. Les théoriciens pris en compte incluent Barthes, Benjamin, Chamoiseau, Glissant, Koné, Kristeva, Lacan, Le Goff et Zumthor. Le corpus de textes étudiés dans le passé inclut des oeuvres par Alexis, Diabaté, Schwarz-Barth, Sembène et Werewere Liking.  Ne sera pas donné en 2010-2011."
+    number: "920"
+    subject: "FRAN"
+    title: "La représentation de l'oralité dans les littératures de l'Afrique et des Antilles"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Summer"
+    units: "3.00"
+

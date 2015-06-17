@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Centers historical movements in communities affected by AIDS as sources of unique critical theories of disease, health, power and social change. Highlights how testimonies, cultural and creative work, and social research in community-based AIDS activism inspire current critical theory and feminist, queer, disability, and critical race studies."
+    number: "320"
+    subject: "GNDS"
+    title: "HIV/AIDS Movements: Histories of Community Health Activism"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "3rd year standing or above"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

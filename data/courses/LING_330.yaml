@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course provides a foundation in principles of morphological analysis. Topics covered include inflectional and derivational morphology as well as the morphology-syntax and morphology-phonology interfaces. Emphasis is placed on practical discovery method, and formal analysis and explanation."
+    number: "330"
+    subject: "LING"
+    title: "Morphology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite     LING100 or permission of the Department of Languages, Literatures and Cultures."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

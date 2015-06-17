@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A broad introduction to philosophical method and the nature of philosophical issues through a consideration of philosophic assumptions and theses present in important literary works."
+    number: "271"
+    subject: "PHIL"
+    title: "Philosophy and Literature"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Completed  30.0 or more units"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

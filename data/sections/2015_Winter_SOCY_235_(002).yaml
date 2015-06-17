@@ -1,0 +1,21 @@
+---
+  _unique: "002-TUT (7918)"
+  basic: 
+    class_num: "7918"
+    course: "235"
+    season: "Winter"
+    solus_id: "002"
+    status: "Open"
+    subject: "SOCY"
+    type: "TUT"
+    year: "2015"
+  classes: 
+    - 
+      day_of_week: 1
+      end_time: "1900-01-01T09:30:00"
+      instructors: []
+      location: "MACINTOSH-CORRY RM A311"
+      start_time: "1900-01-01T08:30:00"
+      term_end: "2015-04-02T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+

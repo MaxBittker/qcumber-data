@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Théorie du changement linguistique vue à travers l'histoire de la langue française.  Ne sera pas donné en 2010-2011."
+    number: "813"
+    subject: "FRAN"
+    title: "Histoire du français et théorie du changement linguistique"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

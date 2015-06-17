@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Ce séminaire sera consacré à la question de l'histoire dans le roman québécois. Il s'agira de réfléchir sur la présence de l'histoire en tant que thème privilégié, mais aussi en tant que structure temporelle particulière au roman québécois, à son historicité"
+    number: "888"
+    subject: "FRAN"
+    title: "Roman québécois et histoire"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A cultural history of France from 1750 to the present. In addition to examining developments in French art, literature, and music, the course considers the changing venues and institutions of culture and deals with such overarching themes as French notions of language, sociability, private and public space, gender, and individualism."
+    number: "274"
+    subject: "HIST"
+    title: "Cultural History of Modern France"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

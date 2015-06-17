@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "This is a one-credit intensive course in legal writing and written advocacy.  There will be some classes where the students will work on writing exercises.  There will be others where the classes will be in lecture format, but with strong interaction with the students.  Class participation at all times is necessary and strongly encouraged."
+    number: "633"
+    subject: "LAW"
+    title: "Writing & Written Advoc"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Pass/Fail"
+    typically_offered: "Winter"
+    units: "1.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "The study of the interaction of the atmosphere with the surface in terms of radiative, heat, water, and trace gas fluxes.\r\nNOTE    Field trip fees may apply in certain years."
+    number: "413"
+    subject: "GPHY"
+    title: "Water, Energy and Carbon Cycling in the Biosphere"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisite  Lvl 4 &(6 units fr MATH at the 100 lvl or above) &(6 units fr BIOL or CHEM or PHYS @the 100-lvl or above) &(a GPA of 1.90 in 30 units fr GPHY) &(reg in GPHY Maj or EGPY), or by petition to the Departmental Undergraduate Committee."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

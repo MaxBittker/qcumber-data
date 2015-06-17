@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "This course examines the political, social, spatial and ideological dimensions of the global financial system, with special reference to the role of debt.  By drawing on an interdisciplinary lens, we explore a wide range of issues and theories relating to finance and debt in both the developed and developing worlds.  "
+    number: "865"
+    subject: "POLS"
+    title: "Debt & Development"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Seminar: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

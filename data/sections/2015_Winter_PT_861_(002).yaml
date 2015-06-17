@@ -1,0 +1,31 @@
+---
+  _unique: "002-LAB (3331)"
+  basic: 
+    class_num: "3331"
+    course: "861"
+    season: "Winter"
+    solus_id: "002"
+    status: "Open"
+    subject: "PT"
+    type: "LAB"
+    year: "2015"
+  classes: 
+    - 
+      day_of_week: 3
+      end_time: "1900-01-01T11:00:00"
+      instructors: 
+        - "Pelland, Lucie"
+      location: "ACTON RM21"
+      start_time: "1900-01-01T09:00:00"
+      term_end: "2015-02-13T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+    - 
+      day_of_week: 2
+      end_time: "1900-01-01T11:00:00"
+      instructors: 
+        - "Pelland, Lucie"
+      location: "ACTON RM21"
+      start_time: "1900-01-01T09:00:00"
+      term_end: "2015-02-13T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+

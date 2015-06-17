@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "A study of a major non-epic work or genre, such as Vergil's Georgics; Horace's Odes, Satires, or Epistles; or the elegiac poetry of Propertius, Tibullus, or Ovid. M.S. Cummings"
+    number: "813"
+    subject: "LATN"
+    title: "Lyric  Elegy  Didactic  Satire"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

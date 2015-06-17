@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Mechanistically oriented study of organic reactions with emphasis on applications to synthesis. The laboratory affords experience in organic synthesis. Winter Term. NOTE    Laboratory consumables: estimated cost $20."
+    number: "223"
+    subject: "CHEM"
+    title: "Organic Reactions"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite   CHEM211 & CHEM212\r\nExclusion    No more than 3.0 units from CHEM223; CHEM282; CHEM285."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

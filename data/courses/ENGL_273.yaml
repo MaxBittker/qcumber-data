@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A study of literature dealing with the fantastic or containing supernatural or uncanny elements.  This course may include samples of myth, romance, Gothic literature, and fantasy from a variety of periods."
+    number: "273"
+    subject: "ENGL"
+    title: "Literature and the Fantastic"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE  A grade of C in 6.0 units in ENGL100 or ENGL110"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

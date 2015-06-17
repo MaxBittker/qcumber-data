@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "An introduction to philosophical issues regarding sexism, racism, ageism, homophobia, classism, imperialism and other forms of oppression. \r\nNOTE    The course is intended to prepare students for upper level courses in feminist philosophy and the philosophy of culture."
+    number: "276"
+    subject: "PHIL"
+    title: "Critical Perspective on Social Diversity"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite     6.0 units in PHIL"
+    grading_basis: "Graded"
+    units: "3.00"
+

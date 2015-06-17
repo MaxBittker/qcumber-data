@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course explores transnational realities and diasporic experience, with particular attention to gender and sexuality, through the arts."
+    number: "326"
+    subject: "GNDS"
+    title: "Gender  Diaspora and the Arts"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "3rd year standing or above"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

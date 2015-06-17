@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Brief introduction to Hamiltonian dynamics. Matter waves. Postulates of quantum mechanics. Stationary states. One-dimensional potentials. Particle tunneling and scattering states. Introduction to matrix mechanics and Dirac notation: the simple harmonic oscillator and angular momentum. "
+    number: "344"
+    subject: "PHYS"
+    title: "Introduction to Quantum Mechanics"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "Prerequisites     PHYS212 and PHYS242 and (MATH221 or MATH280) and (MATH232 or MATH231).\r\nEquivalency    PHYS343."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Introduction à la série des Rougon-Macquart d'Émile Zola par le biais de l'esthétique du naturalisme et de l'impressionnisme, par l'étude de configurations spatiales et de structures narratives, et par l'examen de l' implication sociale zolienne. Ne sera pas donné en 2010-2011."
+    number: "849"
+    subject: "FRAN"
+    title: "Lectures zoliennes"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Spring"
+    units: "3.00"
+

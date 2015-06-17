@@ -1,0 +1,23 @@
+---
+  basic: 
+    description: "Markov chains, birth and death processes, random walk problems, elementary renewal theory, Markov processes, Brownian motion and Poisson processes, queuing theory, branching processes. Given jointly with STAT 855*."
+    number: "455"
+    subject: "STAT"
+    title: "Stochastic Processes & Applic"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    add_consent: "Department Consent Required"
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "Prerequisite     STAT353 or (STAT269 or STAT351) with permission of the Department)."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

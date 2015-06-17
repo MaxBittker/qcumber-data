@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Analyse détaillée des principales caractéristiques phonétiques, lexicales et syntaxiques du français canadien et réflexion théorique sur le fonctionnement des systèmes linguistiques. Ne sera pas donné en 2010-2011."
+    number: "807"
+    subject: "FRAN"
+    title: "Le français canadien"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Principes de la pensée algorithmique, possibilités et limites des outils informatiques pour l'analyse textuelle; conséquences de la diversité des structures textuelles pour l'analyse informatisée; interface entre modèles linguistiques, littéraires et informatiques. N'exige pas de formation en informatique. Travaux pratiques. Ne sera pas donné en 2010-2011."
+    number: "817"
+    subject: "FRAN"
+    title: "L'analyse iformatisée des textes"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

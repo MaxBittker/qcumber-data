@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Research in a particular area of French literature or language under the supervision of a professor."
+    number: "502"
+    subject: "FREN"
+    title: "Recherches dirigées II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    add_consent: "Department Consent Required"
+    career: "Undergraduate"
+    course_components: 
+      Individual Study: "Required"
+    drop_consent: "Department Consent Required"
+    grading_basis: "Graded"
+    typically_offered: "Summer"
+    units: "3.00"
+

@@ -1,0 +1,23 @@
+---
+  basic: 
+    description: "Chamber music experience for qualified instrumentalists and singers. \r\nNOTE    Open to non-B.Mus. students, after audition, without credit."
+    number: "263"
+    subject: "MUSC"
+    title: "Unspecified Chamber Ensemble"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    add_consent: "Department Consent Required"
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+    drop_consent: "Department Consent Required"
+    enrollment_requirement: "PREREQUISITE    Level 2 and registration in a BMUS Program, or permission of the School, upon audition."
+    grading_basis: "Pass/Fail"
+    typically_offered: "Fall, Winter"
+    units: "1.50"
+

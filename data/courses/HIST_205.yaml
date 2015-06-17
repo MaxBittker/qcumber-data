@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course explores the interconnected nature of the Atlantic World between 1492 and 1860, and breaks away from traditional emphases on the nation-state and other constructed boundaries. Topics will include migration, imperial rivalries, plantation economies, systems of labor, resistance, race, class, gender, religion and ideologies of revolution."
+    number: "205"
+    subject: "HIST"
+    title: "The Atlantic World"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

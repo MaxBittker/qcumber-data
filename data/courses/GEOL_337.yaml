@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Review of the major groups of invertebrate fossils, emphasizing functional morphology, and geological significance. Introduction to paleoecology and biostratigraphy. Course includes a required paleontological field trip. "
+    number: "337"
+    subject: "GEOL"
+    title: "Paleontology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite   GEOL238 or BIOL202 or permission of the Department.\nCorequisite     GEOL301."
+    grading_basis: "Graded"
+    units: "3.00"
+

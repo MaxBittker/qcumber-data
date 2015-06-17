@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Designed to facilitate professional development, increase scientific dialogue, and enhance collaboration and scientific group problem-solving in the broad field of brain, behaviour and cognitive science.  Faculty and students will lead discussions of critical topics in the field.  Marked on a Pass/Fail basis.  Fall; seminar (2 hrs)"
+    number: "811"
+    subject: "PSYC"
+    title: "(Bbcs) Research Seminar"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Seminar: "Required"
+    grading_basis: "Pass/Fail"
+    typically_offered: "Fall"
+    units: "3.00"
+

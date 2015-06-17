@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Quasilinear equations: Cauchy problems, method of characteristics; Cauchy-Kovalevski theorem; generalized solutions; wave equation, Huygens¿ principle, conservation of energy, domain of dependence; Laplace equation, boundary value problems, potential theory, Green¿s functions; heat equation, maximum principle. \r\nRECOMMENDATION    MATH 328/3.0 or MATH 334/3.0 or MATH 338/3.0 or PHYS 312/6.0."
+    number: "436"
+    subject: "MATH"
+    title: "Partial Differential Equations"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Recommendation    MATH328 or MATH334 or MATH338 or PHYS312.\r\nPrerequisites     (MATH231 or MATH237) and MATH280."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

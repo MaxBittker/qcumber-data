@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A topic of current interest in Jewish Studies not covered in other available courses. Seminars offered by regular and visiting faculty on topics related to their own research or interest. Consult the Jewish Studies website. "
+    number: "301"
+    subject: "JWST"
+    title: "Topics in Jewish Studies I"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Requires a minimum of  24.00 units"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Introduction to basic notions in French lexicology and morphology. The structure of words. Derivational and inflectional morphology. The structure of the lexicon."
+    number: "393"
+    subject: "FREN"
+    title: "Morphologie et lexicologie du français"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite     FREN220 or FREN221.\r\nExclusion    No more than 3.0 units from FREN215; FREN353; FREN393."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

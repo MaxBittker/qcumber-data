@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "A comparative examination of the politics and government of different countries, theories or themes in comparative politics. The focus of this course will vary from year to year. Consult the departmental website for further details."
+    number: "406"
+    subject: "POLS"
+    title: "Comparative Politics: Questions & Challenges"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite  Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS)."
+    grading_basis: "Graded"
+    units: "3.00"
+

@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Robotics is an interdisciplinary subject concerning areas of mechanics, electronics, information theory, control systems and automation. This course provides an introduction to robotics and covers fundamental aspects of modeling and control of robot manipulators. Topics include history and application of robotics in industry, rigid body kinematics, manipulator forward, inverse and differential kinematics, workspace, singularity, redundancy, manipulator dynamics, trajectory generation, actuators, sensors, and manipulator position and contact force control strategies. Applications studied using MATLAB/Simulink software simulation and laboratory experiments."
+    number: "448"
+    subject: "ELEC"
+    title: "Introduction To Robotics"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 26
+      Eng Sci: 16
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "EXCLUSION:  ELEC448 excludes MECH456.  A prerequisite of ELEC443 or MATH332 and registration in a BSCE Academic Program."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.50"
+

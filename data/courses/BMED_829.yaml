@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "The course has two components.   A 7 week (26 hour)  series of discussions on assigned readings, selected readings and a 45 minute presentation by each student on medical and ethical aspects of obstetrics, gynaecology, endocrinology, population and gender health and psychology.  The second component is a 50 hour Human Placenta Research Summer Workshop.   Summer Term. B.A. Croy and C. Tayade EXCLUSION: ANAT-839"
+    number: "829"
+    subject: "BMED"
+    title: "Selected Topics in Pregnancy"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    add_consent: "Department Consent Required"
+    career: "Graduate"
+    course_components: 
+      Seminar: "Required"
+    drop_consent: "Department Consent Required"
+    grading_basis: "Graded"
+    units: "6.00"
+

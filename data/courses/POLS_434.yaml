@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course explores the political implications of multiculturalism from a variety of perspectives, including theory, policy, and historical meaning. Issues include: history and policy of multiculturalism in the Canadian, US and global contexts; the construction of 'race' and anti-racism; and the role of multiculturalism in citizenship inclusion and exclusion."
+    number: "434"
+    subject: "POLS"
+    title: "Multiculturalism"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisite  Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS)."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

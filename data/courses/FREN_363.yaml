@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "The socio-historical development of the French language from its Latin origins to the present. The emergence of the French language, its expansion, and codification, and its status as a social institution."
+    number: "363"
+    subject: "FREN"
+    title: "Histoire sociopolitique de la langue française"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites    FREN221 or (FREN212 and FREN220) or FREN215."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

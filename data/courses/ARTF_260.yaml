@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Non-B.F.A. students work with media, techniques and strategies of contemporary and earlier artists. Coursework includes drawing, painting, and studio visits. Discussion on artists' writings on studio practice/theory, and art practice as research. Emphasis on understanding process rather than skill development. \r\nNOTE    Not available for credit towards a B.F.A. program.\r\nNOTE    Estimated material/field trip: cost $150-200.\r\nRECOMMENDATION    ARTH 120/6.0"
+    number: "260"
+    subject: "ARTF"
+    title: "Studies In Studio Practice"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture / Laboratory: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

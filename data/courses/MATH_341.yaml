@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Introductory geometry of curves/surfaces: directional/covariant derivative; differential forms; Frenet formulas; congruent curves; surfaces in R3: mappings, topology, intrinsic geometry; manifolds; Gaussian/mean curvature; geodesics, exponential map; Gauss-Bonnet Theorem; conjugate points; constant curvature surfaces."
+    number: "341"
+    subject: "MATH"
+    title: "Differential Geometry"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite     MATH110 and MATH280."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

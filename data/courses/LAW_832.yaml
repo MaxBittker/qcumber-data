@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "The emerging constitutional regime of aboriginal and treaty rights and an evaluation of pre-1982 law in light of that new regime. (To be offered jointly with LAW-532.) Winter. S. Graben."
+    number: "832"
+    subject: "LAW"
+    title: "Aboriginal Law"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

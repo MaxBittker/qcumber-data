@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Ce cours propose d'aborder l'oeuvre d'un auteur du XIXe ou XXe siècle (Colette, Duras, Flaubert, Proust, Sand, Yourcenar) chez qui l'écriture constitue une quête subjective, solitaire et nécessaire, laquelle, en s'effectuant, se retrouve devant le constat d'être condamnée à une certaine forme de compromis. Il s'agira tout d'abord de situer l'oeuvre par rapport aux tendances et aux préoccupations littéraires de l'époque afin d'examiner en quoi elle constitue un parcours singulier qui lui est propre. Il s'agira par la suite d'explorer la nature particulière du compromis (idéologique, formel...) auquel l'oeuvre en question doit se résigner, dans la mesure où en tant que quête elle  erait condamnée à l'inaboutissement."
+    number: "850"
+    subject: "FRAN"
+    title: "L'écriture comme compromis"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

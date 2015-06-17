@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Introduction to basic notions in phonetics and phonology. Physiology of speech and phonation, description and classification of French sounds, distinction between phonetics and phonology, description of the French phonological system (phonemes and feature system, phonological rules and syllable structure)."
+    number: "353"
+    subject: "FREN"
+    title: "Phonétique et phonologie du français"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    FREN220 or FREN221.\r\nExclusion    No more than 6.0 units from FREN215; FREN353; FREN393."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

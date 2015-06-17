@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "A focused histological and cell biological study of three selected mammalian tissues, organs and/or systems.\r\nNOTE    Laboratory consumables: estimated cost $25."
+    number: "409"
+    subject: "ANAT"
+    title: "Selected Topics in Histology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE    ANAT 309/3.0, and Level 4 and (a GPA of 2.5 and registration in a LISC Major or Specialization Plan) or permission of the Department of Biomedical and Molecular Sciences."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

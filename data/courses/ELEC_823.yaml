@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "This is a fundamental graduate level course in statistical signal processing  that assumes prior familiarity with digital signal processing concepts for deterministic signals, including topics such as digital filters and discrete Fourier transforms. Topics include:  spectral analysis and modeling; linear prediction; adaptive algorithms; cyclostationary signals; wavelets; hidden Markov modeling.  Applications will be drawn from several fields, including multimedia and biological signal processing. Three term hours; lectures.  G. Chan"
+    number: "823"
+    subject: "ELEC"
+    title: "Signal Processing"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

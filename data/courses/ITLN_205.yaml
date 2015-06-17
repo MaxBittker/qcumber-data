@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Emphasizing the application of morphology and syntax, with written and oral practice. Readings will be discussed from lexical, syntactical and thematic points of view."
+    number: "205"
+    subject: "ITLN"
+    title: "Italiano avanzato"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite     A grade of C in ITLN204"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

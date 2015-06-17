@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course aims to introduce students to the socio-cultural and religious realities of French-language communities in Canada, from the 19th century to today. Ce cours introduit les étudiants aux réalités socio-culturelles et religieuses des communautés de langue française au Canada, du 19e siècle à nos jours.\r\nNOTE    This course can be taken in either French or English."
+    number: "224"
+    subject: "HIST"
+    title: "Religion in Canadian Francophone Communities"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
+    grading_basis: "Graded"
+    typically_offered: "Fall, Winter"
+    units: "3.00"
+

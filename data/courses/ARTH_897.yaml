@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Individual directed reading course under the guidance of a faculty member in an area of the instructor's expertise.  Half-course; Fall or Winter."
+    number: "897"
+    subject: "ARTH"
+    title: "Directed Reading"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Research: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

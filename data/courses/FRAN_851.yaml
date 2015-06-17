@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Les romans de Louis-Ferdinand Céline et de Samuel Beckett dans leur rapport à la langue orale et /ou à la langue-mère. Hiver, trois heures/semaine. J. Bénard."
+    number: "851"
+    subject: "FRAN"
+    title: "Le texte parlé"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Spring"
+    units: "3.00"
+

@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Basic concepts of Unix-like systems. Shells and scripting. System-level programming in the C language. Software development tools and techniques."
+    number: "220"
+    subject: "CISC"
+    title: "System Level Programming"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "Corequisite    CISC124"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

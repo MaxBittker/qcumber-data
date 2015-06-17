@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Étude des diverses manifestations de l'écriture contemporaine des femmes du Québec tant dans le domaine de la fiction que de la théorie. Seront donc analysés des textes de création (roman, poésie, nouvelles) et des essais de réflexion critique (réception, généricité, spécificité de l'écriture au féminin).  Ne sera pas donné en 2010-2011."
+    number: "887"
+    subject: "FRAN"
+    title: "L'écriture des femmes du Québec"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Ce cours veut explorer les différentes possibilités qu'offre la linguistique pour l'étude du texte littéraire. Tant la recherche que l'enseignement seront interdisciplinaires, c'est- à -dire assurés par un(e) linguiste et un(e) littéraire. Ne sera pas donné en 2010-2011."
+    number: "914"
+    subject: "FRAN"
+    title: "Littérature et linguistique II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

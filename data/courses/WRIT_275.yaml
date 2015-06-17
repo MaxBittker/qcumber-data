@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An interdisciplinary course on analytical writing, applying selected principles of rhetoric and linguistics. Collaborative exercises and peer-edited essays are supplemented by critical reading of diverse articles and narratives. Enrolment is limited."
+    number: "275"
+    subject: "WRIT"
+    title: "Analytical Writing"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    3.0 units fr WRIT125 or WRITP75 or perm.of the instructor. Alternatively, a 100-level course with a writing comp. (DRAM, ENGL,FILM,HIST,PHIL,POLS,SOCY) \r\nExclusion    No more than 3.0 units from WRIT195; WRIT225"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

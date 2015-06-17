@@ -1,0 +1,23 @@
+---
+  basic: 
+    description: "Students' directing of short scenes will be the basis of practical exploration of directorial methods."
+    number: "422"
+    subject: "DRAM"
+    title: "Directing Practicum I"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    add_consent: "Department Consent Required"
+    career: "Undergraduate"
+    course_components: 
+      Practicum: "Required"
+    drop_consent: "Department Consent Required"
+    enrollment_requirement: "Prerequisite    A grade of B- in DRAM323 or perm of the department."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

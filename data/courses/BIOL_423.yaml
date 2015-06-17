@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An exploration into the world of insects, one of the most abundantly successful group of organisms on the earth. \r\nNOTE    An overnight field trip is estimated to cost $65; a limited number of bursaries may be available for exceptional circumstances; contact the instructor early in the previous term.\r\nRECOMMENDATION    BIOL 330/3.0 or MBIO 218/3.0"
+    number: "423"
+    subject: "BIOL"
+    title: "Modern Insect Science"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    BIOL205.\r\nOne-Way Exclusion    May not be taken with or after BIOL507."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

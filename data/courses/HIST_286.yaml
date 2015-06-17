@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A survey of Latin American history from 1850 to the recent past. Major events of the 20th century will be examined in historical context, with special attention to issues of development, nation building, and political and social conflict."
+    number: "286"
+    subject: "HIST"
+    title: "Latin America from 1850 to Today: The Modern Era"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

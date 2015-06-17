@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "The forces involved in shaping the political environment and spatial structure of urban areas. Emphasis on the significance of decisions concerning public goods in the distribution of income and equity within the city."
+    number: "338"
+    subject: "GPHY"
+    title: "Urban Political Geography"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    6.0 units from GPHY227, GPHY228, GPHY229, or permission of the Department."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An intensive study of the music culture of a specific country or geographical area."
+    number: "486"
+    subject: "MUSC"
+    title: "Area Studies in Ethnomusicology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITES    (Level 3 or above and [MUSC 103/3.0 or MUSC 289/3.0]) or permission of the School."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

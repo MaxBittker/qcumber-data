@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A detailed study of representative Québécois authors since 1965. Travaux pratiques include essays and tests. Given jointly with FREN 435/3.0."
+    number: "335"
+    subject: "FREN"
+    title: "Le roman québécois de 1965 à nos jours"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites     FREN221 or (FREN212 & FREN220).\r\nExclusion    No more than 3.0 units from FREN335; FREN435 (formerly FREN403)."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

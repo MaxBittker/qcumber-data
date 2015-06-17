@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "L'activité des animateurs, la constitution du public, l'émergence du répertoire québécois (étude de pièces représentatives).  Ne sera pas donné en 2010-2011."
+    number: "886"
+    subject: "FRAN"
+    title: "Études canadiennes-françaises: Le théâtre"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

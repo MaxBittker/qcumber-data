@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "The study of the individual in the social context: Self and identity, social cognition, interpersonal behaviour (affiliation, attraction, sex, aggression, altruism); social attitudes, prejudice and discrimination; social influence and group processes (conformity, leadership and intergroup relations); applied social psychology. \r\nNOTE    Also offered online. Consult Continuing and Distance Studies."
+    number: "241"
+    subject: "PSYC"
+    title: "Social Psychology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE    PSYC100"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

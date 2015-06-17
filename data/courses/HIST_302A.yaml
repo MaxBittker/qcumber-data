@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course will focus on learning to interpret primary and secondary sources, conduct historical analysis, discern a thesis and methodology, and write analytical short essays. Course examines the impacts of invasion and colonialism on the lives of colonial Latin American subjects.\r\nNOTE    In Fall term, HIST 302/6.0 meets in the same classroom with HIST 285/3.0."
+    number: "302A"
+    subject: "HIST"
+    title: "Colonial Invasions, Colonial Lives"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "PREREQUISITE    Registration in a HIST Major or Medial Plan\r\nExclusion    No more than 6.0 units from HIST285; HIST302"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "0.00"
+

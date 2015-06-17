@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "The application of biological research to the conservation of biodiversity and natural resources, as well as the interaction of biology with philosophy, politics and economics in influencing conservation policy.\r\nNOTE    A course fee to cover guest speakers and field trips of not more than $40."
+    number: "422"
+    subject: "BIOL"
+    title: "Conservation Biology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites    BIOL302 or BIOL303."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

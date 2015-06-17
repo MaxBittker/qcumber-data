@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "A theoretical and practical course covering the application, instrumentation and techniques of human motion analysis. Topics include 2D and 3D kinematics, force measurement, link segment analysis and the application of these techniques to able-bodied and disabled populations. To integrate the material, the course combines readings, lectures, laboratories and projects. Three term hours, fall.  Limited enrollment. "
+    number: "872"
+    subject: "RHBS"
+    title: "Motion Analysis"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Theory and practice of winter camping, snowshoeing and ski touring. Students spend five days pre-term learning camping, snowshoeing and cross-country skiing skills and applications on a one-day extended tour."
+    number: "438"
+    subject: "PACT"
+    title: "Outdoor Education II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Practicum: "Required"
+    enrollment_requirement: "Prerequisites     Level 3 or 4 in a PHED Specialization Plan."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Intermediate probability theory as a basis for further study in mathematical statistics and stochastic processes; probability measures, expectations; modes of convergence of sequences of random variables; conditional expectations; independent systems of random variables; Gaussian systems; characteristic functions; Law of large numbers, Central limit theory; some notions of dependence."
+    number: "353"
+    subject: "STAT"
+    title: "Probability II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites     (STAT268 or STAT351) and (MATH110 or MATH111 or MATH112) and MATH281."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

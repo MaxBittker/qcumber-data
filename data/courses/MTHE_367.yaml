@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Exploratory data analysis -- graphical and statistical analysis and presentation of experimental data.  Random sampling.  Probability and probability models for discrete and continuous random variables.  Process capability.  Normal probability graphs.  Sampling distribution of means and proportions.  Statistical Quality Control and Statistical Process Control.  Estimation using confidence intervals.  Testing of hypothesis procedures for means, variances and proportions -- one and two samples cases.  Liner regression, residuals and correlation.  ANOVA.  Use of statistical software."
+    number: "367"
+    subject: "MTHE"
+    title: "Engineering Data Analysis"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 12
+      Math: 36
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "PREREQ: APSC 171 and APSC 172 and registered in BSCE.\r\nEXCLUSIONS: STAT 261, STAT 263, STAT 266, STAT 267"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "4.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Exploration of Islamic developments since the 19th century: major thinkers, trends of thought, and contemporary movements as responses to modernity."
+    number: "396"
+    subject: "RELS"
+    title: "Islam in the Modern World"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture / Seminar: "Required"
+    enrollment_requirement: "Prerequisite    Level 3 or above or 6.0 units at the 100 level in RELS"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

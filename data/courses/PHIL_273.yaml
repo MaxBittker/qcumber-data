@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "This lecture course provides an analysis of key figures and texts in nineteenth-century continental European philosophy.  Possible figures include Georg Wilhelm Friedrich Hegel, Soren Kierkegaard, Friedrich Nietzsche, and Wilhelm Dilthey.  Possible topics include post-Kantian idealism, existentialism, and hermeneutics."
+    number: "273"
+    subject: "PHIL"
+    title: "Continental Philosophy, 1800-1900"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite     6.0 units in PHIL"
+    grading_basis: "Graded"
+    units: "3.00"
+

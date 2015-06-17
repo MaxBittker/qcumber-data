@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Content varies from year to year. Game theory, risk, and externalities are among the topics covered in recent years."
+    number: "411"
+    subject: "ECON"
+    title: "Topics in Microeconomic Theory"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "ECON310"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

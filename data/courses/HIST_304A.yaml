@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Focus on the causes and consequences of the Civil War, slavery, antebellum social and political divisions, secession, the experiences of soldiers and civilians during the war itself, reconstruction, and the place of the Civil War in US culture since 1877. \r\nNOTE    In Fall Term, HIST 304/6.0 meets in the same classroom as HIST 216/3.0."
+    number: "304A"
+    subject: "HIST"
+    title: "The Civil War and the Making of America"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisite     Registration in a HIST Major or Medial Plan.\r\nExclusion    No more than 1 course from HIST304; HIST371.\r\nExclusion    No more than 1 course from HIST304; HIST216."
+    grading_basis: "Graded"
+    units: "0.00"
+

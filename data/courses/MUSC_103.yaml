@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An introductory examination of the fundamental place of music in human society through a broad survey of music systems from around the world, as well as foundations in the critical listening, research, and writing skills used in music scholarship.\r\nNOTE    Students registered in the MUSC Minor/General Plan should not enrol in this course.\r\nNOTE  Students holding First-Class Honours standing in the Royal Conservatory Grade II Rudiments may enrol in the course with permission of the School."
+    number: "103"
+    subject: "MUSC"
+    title: "Music and Society"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite     A- in MUSC P52 \r\nCorequisite     MUSC191"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

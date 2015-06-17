@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "For detailed information, consult the Department."
+    number: "462"
+    subject: "ENGL"
+    title: "Topics In Modern/Contemporary British Literature II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisite      (ENGL200 and ENGL290) and (A GPA of 2.4 on all ENGL units) and (registration in an ENGL Major or Medial Plan).\r\nEXCLUSION    No more than 6.0 units from ENGL361; ENGL362; ENGL461; ENGL462"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

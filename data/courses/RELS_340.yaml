@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Deals with the role of religion in the public sphere and its relation to liberal democracy. It examines the (in)compatibility of some tenets of certain religions with modern democratic principles."
+    number: "340"
+    subject: "RELS"
+    title: "Religion and Democracy"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 3 or above or 6.0 units at the 100 level in RELS"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

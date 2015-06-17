@@ -1,0 +1,19 @@
+---
+  basic: 
+    description: "Seventeenth-century texts in prose are studied in detail from the works of Cyrano de Bergerac, d'Urfé, Scarron, Furetière, Guilleragues and Mme de la Fayette. Travaux pratiques include oral exposés and dissertations. Given jointly with FREN 487/3.0."
+    number: "387"
+    subject: "FREN"
+    title: "La prose au 17e siècle"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    units: "3.00"
+

@@ -1,0 +1,24 @@
+---
+  basic: 
+    description: "More integration techniques; numerical integration, improper integrals. Curves, speed, velocity. Functions of several variables, partial derivatives, differentials, error estimates, gradient, maxima and minima. Sequences, series, power series; Taylor polynomial approximations. Double and triple integrals, polar and cylindrical coordinates; applications to mass, center of mass, moment, etc."
+    number: "172"
+    subject: "APSC"
+    title: "Calculus II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 42
+    add_consent: "Department Consent Required"
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    drop_consent: "Department Consent Required"
+    enrollment_requirement: "Prerequisite of APSC171  and registered in a BSCE or UENG Academic Program."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.50"
+

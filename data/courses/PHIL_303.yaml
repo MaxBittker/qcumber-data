@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "An examination of the moral principles involved in the evaluation of business institutions, practices and decisions. Sample topics include: liberty, efficiency and the free market ideal; the market and justice in distribution."
+    number: "303"
+    subject: "PHIL"
+    title: "Ethics and Business"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Completed 60.0 or more units.\r\nExclusion    No more than 3.0 units from PHIL303; COMM338."
+    grading_basis: "Graded"
+    units: "3.00"
+

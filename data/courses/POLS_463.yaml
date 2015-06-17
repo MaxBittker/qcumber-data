@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Critical examination of selected themes, issues and works in classical and contemporary international relations theory."
+    number: "463"
+    subject: "POLS"
+    title: "International Relations Theory"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisite  Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS)."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

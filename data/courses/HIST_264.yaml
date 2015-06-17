@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A survey of Vietnamese history placing twentieth-century military conflicts in a broad interpretive and temporal perspective. Reading assignments will be drawn largely from memoirs, literature, and historical scholarship by Vietnamese authors in English translation."
+    number: "264"
+    subject: "HIST"
+    title: "The Vietnam War in Historical Perspective"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

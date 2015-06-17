@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An integration of theory, research and applied work in the area of applied sport psychology. Analysis, discussion of theoretical issues related to performance and practical application of mental skills such as arousal management, attention control, decision making, goal setting, positive self-talk, and time management.\r\nNOTE    This course is offered in alternate years in rotation with KNPE 365/3.0 and in rotation with KNPE 465/3.0."
+    number: "363"
+    subject: "KNPE"
+    title: "Psychology of Sport and Performance"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture / Seminar: "Required"
+    enrollment_requirement: "Prerequisite     Level 3 or above  in a KINE or PHED Plan and KNPE265."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

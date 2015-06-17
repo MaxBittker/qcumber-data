@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "In-depth exploration of the cultural significance of one particular genre, issue, or theme (for instance, spy fiction, literary prizes, youth subcultures). Topics may vary from year to year; for detailed information, consult the departmental website.\r\nNOTE    Recommended but not required: successful completion of ENGL 293/3.0."
+    number: "294"
+    subject: "ENGL"
+    title: "Cultural Studies:  Theory into Practice"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    A grade of C in ENGL100."
+    grading_basis: "Graded"
+    units: "3.00"
+

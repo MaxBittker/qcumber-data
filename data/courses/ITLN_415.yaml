@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "A study of Dante Alighieri¿s life and poetry, especially the Vita Nuova and the Divina Commedia.\r\nNOTE    Taught in English together with LLCU 215/3.0. Students concentrating in Italian submit written assignments, tests and examinations in Italian. Normally they will read Italian texts in the original."
+    number: "415"
+    subject: "ITLN"
+    title: "Dante"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    add_consent: "Department Consent Required"
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Exclusion    No more than 3.0 units from ITLN215; ITLN415; LLCU215."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "From propositional calculus to first-order monadic predicate calculus. Symbolization, rules of inference, derivation and refutation of arguments.\r\nNOTE    Also offered as a distance course. Consult Continuing and Distance Studies."
+    number: "361"
+    subject: "PHIL"
+    title: "Introduction to Logic"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite      A GPA of 2.0 in 6.0 PHIL.\r\nOne-Way exclusion    May not be taken with or after CISC204."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

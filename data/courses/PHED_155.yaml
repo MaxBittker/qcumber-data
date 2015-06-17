@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An introduction to the basic components of physiology as they apply to health, fitness and exercise physiology."
+    number: "155"
+    subject: "PHED"
+    title: "Exercise Physiology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    drop_consent: "Department Consent Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

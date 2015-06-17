@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "A review of contemporary research and theory in cognitive science focussing on selected topics with memory, decision, classification, and choice.  Lecture/seminar (2 hrs)"
+    number: "965"
+    subject: "PSYC"
+    title: "Memory  Decision And Choice"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

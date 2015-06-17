@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Programme de lectures dirigées établi en fonction des besoins de l'étudiant(e) après consultation avec la Directrice des études de 2e et 3e cycles. Ce cours est limité aux étudiants de maîtrise (programme I et II) et aux étudiants de doctorat."
+    number: "997"
+    subject: "FRAN"
+    title: "Cours De Lectures Dirigees"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

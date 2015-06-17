@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An advanced topics course that explores the management and application of the collective agreement post¿negotiation. This course examines the link between contract administration, the bargaining environment, and issues brought forward for collective bargaining. Duty of fair representation, successor rights, bargaining history, and language¿building, among other topics, will be considered."
+    number: "870"
+    subject: "MIR"
+    title: "Contract Administration"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "MIR Programs:  Restricted to grad students enrolled in MIR programs or approval of program director. Excl MIR 820 A&B"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

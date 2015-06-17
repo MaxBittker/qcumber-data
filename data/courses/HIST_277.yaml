@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A study of the economic, cultural and social determinants and consequences of the political transformation of Germany in the period 1860 to 1945."
+    number: "277"
+    subject: "HIST"
+    title: "From Bismarck to Hitler: The Political Mobilization of German Society 1860-1945"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

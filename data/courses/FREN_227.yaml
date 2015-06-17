@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "A course in contemporary French civilization as seen through various media: books, newspapers, and the cinema."
+    number: "227"
+    subject: "FREN"
+    title: "Le cinéma et la civilisation française"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "Prerequisites    FREN100 or FREN110 or (FREN101 and FREN102).\r\nExclusion    No more than 3.0 units from FREN232 or FREN312 or FREN300."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

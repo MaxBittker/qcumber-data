@@ -1,0 +1,19 @@
+---
+  basic: 
+    description: "This course will explore the concept of freedom of expression and its boundaries, including limitations imposed on racist speech, hate speech, defamatory speech and indecent speech (pornography).  We will look at least briefly at (or you may explore through a term paper) a wide range of other issues:  access to media; commercial free speech; copyright and free speech, etc.  Is freedom of expression an overvalued concept?  What are the limits, and what policy interests do these limits serve?  There will be substantial emphasis on the decisions of the Supreme Court of Canada, and on the strengths and weaknesses of the approach taken by the SCC to Section 2(b) of the Charter.2 credits, fall term."
+    number: "858"
+    subject: "LAW"
+    title: "Freedom of Expression"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    units: "2.00"
+

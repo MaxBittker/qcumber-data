@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "The application of quantum mechanics to the structures and internal motions of molecules. The foundations of electronic, vibrational, rotational and NMR spectroscopy will be discussed together with their applications."
+    number: "322"
+    subject: "CHEM"
+    title: "The Chemical Bond: Computation and Spectroscopy"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "CHEM313 OR CHEM346 OR PHYS344"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

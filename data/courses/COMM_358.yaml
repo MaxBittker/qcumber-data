@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This advanced seminar examines a set of the key HR challenges facing managers today and helps students to understand the latest models, concepts and tools to help manage these challenges.  Topics include recruitment and selection, retention, orientation, performance management, coaching, succession planning, discipline, and compensation.  The legal environment governing human resource management will also be covered with an emphasis on human rights.  Learning is facilitated using a combination of lectures, discussions, case analyses, student presentations, and exams."
+    number: "358"
+    subject: "COMM"
+    title: "Human Resource Management"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite     This course is restricted to students enrolled in the third and fourth year of their program."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

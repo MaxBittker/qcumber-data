@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Algorithms for solving systems of nonlinear equations, applications in geometry, algebra, and other areas; Gröbner basis methods. Labs use software such as CoCoA or Macaulay 2. (Offered jointly with MATH-413). Three term-hours, fall or winter; lectures."
+    number: "813"
+    subject: "MATH"
+    title: "Comput'l Commutative Algebra"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

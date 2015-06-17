@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "The course will look at three aspects of \"Sentencing and Imprisonment\":  (1) The Principles of Sentencing: Philosophical and Empirical Perspectives:  (2)  The Law of Sentencing in Canada; and  (3)  Judicial Remedies for Convicted Persons.  Time permitting, specific topics like Murder, Preventive Detention and Aboriginal Offenders will be looked at.  The course will follow a lecture/discussion format and the (2008) Second Edition of \"Sentencing and Penal Policy in Canada\" will be used."
+    number: "416"
+    subject: "LAW"
+    title: "Sentencing & Imprisonment"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

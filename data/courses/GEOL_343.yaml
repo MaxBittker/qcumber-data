@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Development of the equations governing flow and transport; sensitivity to sub-surface complexities. Field instrumentation, installation and sampling protocols, elements of groundwater investigation. Assessment of measurement techniques and interpretation of fundamental hydrogeological properties. Groundwater occurrence, flow system analysis, with a focus on designing extraction scheme."
+    number: "343"
+    subject: "GEOL"
+    title: "Hydrogeology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    GEOL238 and CHEM112, or permission of the Department."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

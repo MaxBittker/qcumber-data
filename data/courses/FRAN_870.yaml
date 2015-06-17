@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Ce cours présente les théories les plus récentes concernant les relations entre l'Afrique et sa Diaspora, ainsi que les auteurs les plus représentatifs des littératures de ces régions. A partir des théories telles celle de Deleuze (Répétition et Différence, Rhizomes) de Glissant (Poétique de la relation, Traité du Tout-monde), ou de Paul Gilroy (The Black Atlantic), nous allons avancer nos propres théories pour expliquer les rapports dynamiques entre ces cultures. Les uvres d'auteurs tels que Maryse Condé, Simone Schwarz-Bart, Alain Mabanckou, Tierno Monenembo et Henri Lopès seront au programme. Ne sera pas donné en 2010-2011."
+    number: "870"
+    subject: "FRAN"
+    title: "Diasporas francophones : les Antilles et l'Afrique"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

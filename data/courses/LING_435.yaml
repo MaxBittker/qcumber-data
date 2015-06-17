@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Course content will vary from year to year and will explore a special theme in the interface between morphology and syntax. The course is comparative in perspective, drawing on evidence from different languages. The format is largely discussion-oriented and includes a substantial component of student presentations. Readings are selected from the current research literature (journal articles, working papers, unpublished manuscripts and dissertations)."
+    number: "435"
+    subject: "LING"
+    title: "Topics in Morpho-Syntax"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites      LING330 and LING340"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

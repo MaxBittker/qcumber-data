@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Integers, polynomials, modular arithmetic, rings, ideals, homomorphisms, quotient rings, division algorithm, greatest common divisors, Euclidean domains, unique factorization, fields, finite fields.\r\nNOTE    Students with MATH 112/3.0 may ask for admission with the permissions of the Department."
+    number: "210"
+    subject: "MATH"
+    title: "Rings and Fields"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "Prerequisite     MATH110 or 111 or (MATH112 with permission of the Department).\r\nExclusion    No more than 1 course from MATH210; MATH211; MATH213; MATH217."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Review of imperative programming features. Introduction to other widely used programming paradigms. Functional programming languages, such as LISP and Haskell. Higher order functions, lazy evaluation, abstract and recursive types, structural induction, symbolic expressions. Logic programming languages, such as PROLOG. Operational interpretation of predicates and terms, proof search, unification, backtracking. Typical applications."
+    number: "260"
+    subject: "CISC"
+    title: "Programming Paradigms"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    CISC124.\r\nCorequisite     CISC204."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

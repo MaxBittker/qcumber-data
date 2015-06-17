@@ -1,0 +1,31 @@
+---
+  _unique: "002-TUT (3654)"
+  basic: 
+    class_num: "3654"
+    course: "215"
+    season: "Winter"
+    solus_id: "002"
+    status: "Open"
+    subject: "MECH"
+    type: "TUT"
+    year: "2015"
+  classes: 
+    - 
+      day_of_week: 1
+      end_time: "1900-01-01T13:30:00"
+      instructors: 
+        - "Shirkhanzadeh, Morteza"
+      location: "BEAMISH-MUNRO RM313A"
+      start_time: "1900-01-01T12:30:00"
+      term_end: "2015-04-02T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+    - 
+      day_of_week: 1
+      end_time: "1900-01-01T13:30:00"
+      instructors: 
+        - "Shirkhanzadeh, Morteza"
+      location: "BEAMISH-MUNRO RM313B"
+      start_time: "1900-01-01T12:30:00"
+      term_end: "2015-04-02T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+

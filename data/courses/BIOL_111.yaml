@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Introduces the basic concepts of ecology and shows how they relate to environmental issues such as population growth, resource management, biodiversity, agriculture, air and water pollution, energy, and climate change, and to solutions leading to a sustainable environment. \r\nNOTE    Also offered as a distance course. Consult Continuing and Distance Studies."
+    number: "111"
+    subject: "BIOL"
+    title: "Ecology and the Environment"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "One-way exclusion    May not be taken with or after BIOL302; BIOL303"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,19 @@
+---
+  basic: 
+    description: "The students continue working on their assigned problems in ELEC 491 under the supervision of the same faculty member.  Upon completion of their thesis, students must give oral and written presentations.  Grades will be based on the quality of the analysis of the problem, the proposed solution, and written and oral presentations.  Demonstration of effective written and oral communications skills is required."
+    number: "492B"
+    subject: "ELEC"
+    title: "Advanced ECE Thesis II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 18
+      Eng Sci: 54
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+    grading_basis: "Graded"
+    units: "6.00"
+

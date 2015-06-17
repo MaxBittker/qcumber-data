@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Mathematical description of groundwater flow and solute migration. Analysis of flow systems, flow to wells and response to pumping. Water quality issues. Laboratory topics: parameter measurement, evaluation of groundwater contamination, water quality analyses. Short presentation, research paper required. Participation in one weekend field exercise is required. "
+    number: "833"
+    subject: "GEOL"
+    title: "Hydrogeology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

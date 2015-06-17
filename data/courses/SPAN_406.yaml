@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An introduction to contemporary literary theories and the analysis of Hispanic texts from reader-, structural- and author-oriented perspectives. \r\nNOTE    Taught in English together with LLCU 316/3.0. Students concentrating in Spanish submit written assignments, tests, and examination in Spanish. Normally they will read Hispanic texts in the original."
+    number: "406"
+    subject: "SPAN"
+    title: "Introducción a la teoría y el análisis literario"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisite     SPAN251 or SPAN352 or permission of the Department of Languages, Literatures and Cultures.\r\nExclusion    No more than 3.0 units from LLCU316;SPAN316; SPAN406."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "An examination of key Jewish thought from Philo to Fackenheim, exploring such themes as the relationship between philosophy, literature, law, and religion; developments within Jewish philosophy; non-Jewish influences on Jewish thought and vice-versa. Contributions to contemporary philosophical work such as those in bioethics and postmodernism may also be considered. "
+    number: "367"
+    subject: "PHIL"
+    title: "Jewish Philosophy"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    6.0 units in PHIL or JWST, or permission of the Department."
+    grading_basis: "Graded"
+    units: "3.00"
+

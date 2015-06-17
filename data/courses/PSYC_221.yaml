@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An introduction to the empirical study of mental processes. Topics include perception and attention, working memory, long-term memory, visual imagery, problem-solving, language, and decision-making."
+    number: "221"
+    subject: "PSYC"
+    title: "Cognitive Psychology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE    PSYC 100\r\nEXCLUSION    No more than 6 units from COGS 200; COGS 201; PSYC 220; PSYC 221"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

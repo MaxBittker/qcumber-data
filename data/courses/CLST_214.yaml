@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Ancient concepts of nature and of natural phenomena: what did the ancients (e.g. Babylonians and Greeks) know about the natural world and how did they come to know it?"
+    number: "214"
+    subject: "CLST"
+    title: "Ancient Science"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

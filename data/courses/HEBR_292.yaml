@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Readings in biblical Hebrew prose and poetry."
+    number: "292"
+    subject: "HEBR"
+    title: "Intermediate Biblical Hebrew"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    HEBR191 or permission of the Department."
+    grading_basis: "Graded"
+    units: "3.00"
+

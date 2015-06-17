@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Étude de la variété de l'écriture poétique de Ronsard à travers tous les genres abordés par le poète (l'ode, le sonnet, l'hymne, le discours, l'églogue, l'élégie, le poëme , et l'épopée). Ne sera pas donné en 2010-2011."
+    number: "825"
+    subject: "FRAN"
+    title: "Pierre de Ronsard (1524-1585)"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

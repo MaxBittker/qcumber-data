@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Étude du livre en France depuis l'apparition de l'imprimerie jusqu'au développement du support numérique. Étude de la production technique, des métiers de promotion et de diffusion, des agents de la réception du livre. Ne sera pas donné en 2010-2011."
+    number: "915"
+    subject: "FRAN"
+    title: "Histoire du livre (XVIe-XXe siècle)"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

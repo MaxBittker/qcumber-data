@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "A seminar or workshop in selected areas of the curriculum. \r\nNOTE    Not offered every year. Prerequisites vary depending on specific course content; consult Department."
+    number: "319"
+    subject: "DRAM"
+    title: "Special Studies II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

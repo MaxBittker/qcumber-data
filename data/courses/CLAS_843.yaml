@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Specialized study of a topic in the history of the Roman Empire.  B.J. Kavanagh"
+    number: "843"
+    subject: "CLAS"
+    title: "Roman History II:  Empire"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Summer"
+    units: "3.00"
+

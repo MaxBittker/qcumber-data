@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An introduction to European intellectual history from the ancient world to the present. Concentration is on the analysis of primary sources and ideas in their historical contexts. The course offers weekly introductory lectures followed by discussion of source material in small tutorial groups where the objective is maximum student participation."
+    number: "121B"
+    subject: "HIST"
+    title: "Intellectual Origins of the Contemporary West"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Seminar: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall, Winter"
+    units: "6.00"
+

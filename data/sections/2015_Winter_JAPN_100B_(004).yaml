@@ -1,0 +1,22 @@
+---
+  _unique: "004-TUT (6601)"
+  basic: 
+    class_num: "6601"
+    course: "100B"
+    season: "Winter"
+    solus_id: "004"
+    status: "Open"
+    subject: "JAPN"
+    type: "TUT"
+    year: "2015"
+  classes: 
+    - 
+      day_of_week: 2
+      end_time: "1900-01-01T15:30:00"
+      instructors: 
+        - "Takasaki, Mayu"
+      location: "KINGSTON LAB"
+      start_time: "1900-01-01T14:30:00"
+      term_end: "2015-04-02T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A study of Don Quijote I and a selection of his short theatrical Interludes.  The course will consider the socio-economic and historical context and the literary implications of these works to provide a better understanding of 17th century Spain and the significance Cervantes' works still hold today.\nNOTE    Taught in English together with LLCU 330/3.0.  Students concentrating in Spanish submit written assignments, tests and examinations in Spanish."
+    number: "330"
+    subject: "SPAN"
+    title: "Cervantes I: Earlier Works"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisite     SPAN 261 or SPAN380.\r\nCorequisites     (SPAN301 and SPAN302) or (SPAN303 and SPAN304)."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Limit States Design theory; stability theory, P-delta effects and the design of beam-columns; design of suspended spun roofs; cost estimation; welded connections; design of plate girder; fatigue design; assessment and repair of fatigue damage.  A project is usually undertaken in this course. Three term-hours. "
+    number: "836"
+    subject: "CIVL"
+    title: "Advanced Steel Design"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

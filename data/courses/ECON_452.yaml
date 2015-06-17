@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Emphasizes problems in specifying and estimating econometric models, methods available for detecting and handling these problems, and economic applications. Extensive use of matrix algebra."
+    number: "452"
+    subject: "ECON"
+    title: "Applied Econometrics"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite of ECON255 & (ECON351 or STAT361)"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

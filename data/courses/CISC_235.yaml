@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Design and implementation of advanced data structures and related algorithms, including correctness and complexity analysis. "
+    number: "235"
+    subject: "CISC"
+    title: "Data Structures"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites     CISC124 and CISC203"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

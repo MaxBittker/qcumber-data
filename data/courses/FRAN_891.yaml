@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Le contenu de ce cours, basé en général sur l'étude des oeuvres d'un auteur spécifique, dépendra des intérêts et de la recherche récente de l'nstructeur. Automne, trois heures/semaine. S. Inkel."
+    number: "891"
+    subject: "FRAN"
+    title: "Études littéraires II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Summer"
+    units: "3.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An examination of both the development of segregation and apartheid in 20th century South Africa and the forces that caused the eventual collapse of the system."
+    number: "266"
+    subject: "HIST"
+    title: "The Rise and Decline of Apartheid"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

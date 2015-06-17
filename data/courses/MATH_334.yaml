@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Orthonormal families, Fourier series and convergence. Signal spaces, Fourier transforms, and generalized functions. Solution of boundary value problems, including heat, wave, and potential equations. Applications to mechanical, electrical, and thermal systems."
+    number: "334"
+    subject: "MATH"
+    title: "Mathematical Methods for Engineering and Physics"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "Prerequisites     (MATH231 or MATH237) and MATH281.\r\nExclusion    No more than 1 course from MATH334 ; PHYS312."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

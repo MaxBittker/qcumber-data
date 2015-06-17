@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An introduction to the political history of Quebec: the development of ideologies (including nationalism), constitutional developments, and the building of the Quebec state during the Quiet Revolution. Some contemporary issues in Quebec politics, and the relationship between Quebec and the rest of Canada."
+    number: "414"
+    subject: "POLS"
+    title: "Politics in Quebec"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisite  Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS)."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

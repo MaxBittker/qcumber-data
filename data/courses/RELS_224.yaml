@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "The philosophy, worldview, spirituality and ethics of Taoism, China's organized indigenous religion, in Chinese history and in the contemporary world."
+    number: "224"
+    subject: "RELS"
+    title: "Taoism"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture / Seminar: "Required"
+    enrollment_requirement: "PREREQUISITE  Level 2 or above or 6.0 units at the 100 level in RELS"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

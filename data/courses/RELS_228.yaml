@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "The religious institutions produced by the Jews from the second to the seventh centuries. This course will explore in critical fashion the principal areas of rabbinic activity including: topics on jurisprudence, philosophy, social and political thinking, the role of tradition and scriptures."
+    number: "228"
+    subject: "RELS"
+    title: "Sages, Scholars and Rabbis"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE  Level 2 or above or 6.0 units at the 100 level in RELS"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

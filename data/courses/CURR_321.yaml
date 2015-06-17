@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Dans ce cours on se penche sur les notions pédagogiques en mettant l'accent sur l'enseignement aux niveaux intermédiaire et terminal. On vise à faire un tour d'horizon complet des connaissances et des applications pratiques dans le but d'amener tous les apprenants à développer leur style d'enseignement propre en adéquation avec la situation actuelle dans le domaine des langues. Une connaissance supérieure du français est nécessaire. Toutefois il y a lieu de parfaire ses connaissances durant l'année pour des corrections d'ordre minimal. Un séjour immersif d'une durée de six mois est recommandé. Les sujets abordés se rapportent aux approches, aux démarches, aux directives du ministère (immersion, approche communicative..., restructuration, intégration, interdisciplinaire...), à la gestion du temps (objectifs, progression, planification, les savoirs, la culture et la littérature, le contrôle des connaissances), à la psychopédagogie (rôles, groupements, procédés et moyens, collaboration), et à la psycholinguistique. De nombreuses applications pratiques individuelles et en groupes sont intégrées au programme."
+    number: "321"
+    subject: "CURR"
+    title: "Français langue seconde (IS)"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

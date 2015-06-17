@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course provides an introduction to the study of health and illness, and explores the social determinants of health, which are the factors that affect the chances people have to lead healthy lives. Topics to be discussed include: what is health?; population and public health; specific social determinants such as income and housing; health among Aboriginal people; globalization; and HIV/AIDS in Africa."
+    number: "101"
+    subject: "HLTH"
+    title: "Social Determinants of Health"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

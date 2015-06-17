@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: ""
+    number: "535"
+    subject: "BIOL"
+    title: "Selected Topics in Biology IV"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisite     BIOL350"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

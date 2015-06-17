@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "A required course for all graduate students entering a Master¿s program and for those entering a doctoral program without a prior Master¿s of Science degree.  Students will complete essays on central questions related to their research program.  The intent of this course is to promote an early appreciation of the literature and/or experimental approaches germane to the student¿s proposed studies and/or address weaknesses/gaps in the student¿s prior studies that might impede his/her undertaking the proposed work.  Offered all terms. K. Poole."
+    number: "970"
+    subject: "MICR"
+    title: "Research Project In Microbiol."
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    add_consent: "Department Consent Required"
+    career: "Graduate"
+    course_components: 
+      Tutorial: "Required"
+    drop_consent: "Department Consent Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

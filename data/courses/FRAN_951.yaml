@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Étude spécialisée dans un contexte comparatif d'auteurs, de thèmes, de mouvements, de périodes, de genres, de formes littéraires, ou d'un ensemble de ces éléments. Ce cours sera donné conjointement avec CLAS-851*, ENGL-951*, GRMN-890*, SPAN-807*. Ne sera pas donné en 2010-2011."
+    number: "951"
+    subject: "FRAN"
+    title: "Littérature comparée II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

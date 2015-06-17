@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An exploration of the modern theory of Fourier series: Abel and Cesaro summability; Dirichlet's and Fejér's kernels; term by term differentiation and integration; infinite products; Bernoulli numbers; Gibbs's phenomenon."
+    number: "421"
+    subject: "MATH"
+    title: "Fourier Series"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    MATH281 or permission of the Department."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

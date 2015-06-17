@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Advanced technical production studies involving sound, lighting, stage management, wardrobe, and carpentry. Students will participate in major departmental technical projects.\r\nNOTE    The normal classroom time of 36 hours is spread over two terms."
+    number: "345A"
+    subject: "DRAM"
+    title: "Applied Technical Production"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Practicum: "Required"
+    enrollment_requirement: "Prerequisites    Level 3 and (reg in a DRAM Major or Medial Plan, or COCA-CODR Sub-Plan, or STSC Spec. Plan) and (a grade of B- in  DRAM242 and DRAM246) and (a GPA of 2.60 in DRAM) or permission of the Dept.\r\nCorequisite    DRAM247."
+    grading_basis: "Graded"
+    typically_offered: "Fall, Winter"
+    units: "0.00"
+

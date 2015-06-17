@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An introduction to China's recent history, offering interpretive frameworks for issues such as the competence of the Qing government, population growth, revolutionary movements, Mao Zedong's leadership, and economic expansion."
+    number: "299"
+    subject: "HIST"
+    title: "China since 1800"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

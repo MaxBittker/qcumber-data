@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Le contenu de ce cours, basé en général sur l'étude d'un genre à une époque donnée, dépendra des intérêts et de la recherche récente de l'instructeur.   Ne sera pas donné en 2010-2011."
+    number: "890"
+    subject: "FRAN"
+    title: "Éudes littéraires I"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Seminar: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An examination of major issues in the philosophy of logic. Possible topics to be considered include deviant logics, the nature of identity, modal logics and the paradoxes of material implication and strict conditionals."
+    number: "473"
+    subject: "PHIL"
+    title: "Philosophical Logic"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisites     PHIL361"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

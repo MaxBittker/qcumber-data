@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Differentiation and integration of the elementary functions, with applications to physical and social sciences; Taylor polynomials; multivariable differential calculus. \r\nNOTE    Primarily intended for students in the BAH program. Students in the BSCH, BCMPH and BCOM programs should not enrol in this course."
+    number: "126B"
+    subject: "MATH"
+    title: "Differential and Integral Calculus"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "Exclusion    No more than 6.0 units from MATH120; MATH121; MATH122; MATH123; MATH124; MATH126"
+    grading_basis: "Graded"
+    typically_offered: "Fall, Winter"
+    units: "6.00"
+

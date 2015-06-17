@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course focuses on contemporary sociological perspectives of culture. It includes a survey of various theoretical positions vis à vis culture and society such as the high and low culture distinction, the rise of mass culture; cultural hegemony; populism and social resistance. Canadian culture is the predominant object of analysis."
+    number: "362"
+    subject: "SOCY"
+    title: "Cultural Studies"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE  A grade of C- in SOCY122/6.0"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

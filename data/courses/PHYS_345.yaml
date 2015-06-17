@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Quantum mechanical treatment of two and three dimensional systems. The hydrogen atom. Spin. Many electron atoms and the periodic table. Introduction to perturbation theory and Fermi's golden rule. Introduction to nuclear and particle physics."
+    number: "345"
+    subject: "PHYS"
+    title: "Quantum Physics of Atoms, Nuclei and Particles"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "Prerequisite     PHYS344.\r\nEquivalency    PHYS424."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An introduction to the methods, materials, and curriculum design suitable for teaching music to pre-school and primary-aged school pupils."
+    number: "336"
+    subject: "MUSC"
+    title: "Music in Early Childhood and Primary Education"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+    enrollment_requirement: "PREREQUISITES    MUSC 273/3.0 and MUSC 274/3.0."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

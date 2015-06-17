@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Current research in eukaryotic molecular genetics including gene regulation, transformation, cell proliferation and the analysis of development. Specific topics will vary depending on the instructor but will include plant, insect and mammalian genetics."
+    number: "441"
+    subject: "BIOL"
+    title: "Molecular Genetics"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "Prerequisites    BIOL330 or BCHM218 or MBIO218 \r\nExclusion    No more than 3.0 units from BIOL441; PATH425."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

@@ -1,0 +1,31 @@
+---
+  _unique: "003-LAB (3830)"
+  basic: 
+    class_num: "3830"
+    course: "333"
+    season: "Winter"
+    solus_id: "003"
+    status: "Open"
+    subject: "GEOL"
+    type: "LAB"
+    year: "2015"
+  classes: 
+    - 
+      day_of_week: 2
+      end_time: "1900-01-01T21:30:00"
+      instructors: 
+        - "Harrap, Robin M"
+      location: "BRUCE RM234A"
+      start_time: "1900-01-01T18:30:00"
+      term_end: "2015-04-02T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+    - 
+      day_of_week: 2
+      end_time: "1900-01-01T21:30:00"
+      instructors: 
+        - "Harrap, Robin M"
+      location: "BRUCE RM352"
+      start_time: "1900-01-01T18:30:00"
+      term_end: "2015-04-02T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+

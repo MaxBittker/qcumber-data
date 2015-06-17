@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Introduction to scientific computing: floating point arithmetic, algorithm design, error analysis, ill-conditioning. Zero-finding. Linear equations. Interpolation. Integration. Least-squares fitting. Effective use of library programs, with discussion of their limitations and some aspects of their design and implementation."
+    number: "271"
+    subject: "CISC"
+    title: "Scientific Computing"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites     (CISC101 or CISC121) and MATH111 and (MATH120 or MATH121 or MATH122 or [MATH123 and MATH124] or MATH126).\r\nExclusion     No more than 3.0 units from CISC271; MATH272; PHYS313."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

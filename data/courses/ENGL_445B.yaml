@@ -1,0 +1,19 @@
+---
+  basic: 
+    description: "Studies of 19th-century literature produced in the Americas (Canada, United States, and elsewhere in the western hemisphere). Geographical focus will vary from year to year. For detailed information, consult the Department."
+    number: "445B"
+    subject: "ENGL"
+    title: "Studies in Literature of the Americas"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    grading_basis: "Graded"
+    units: "6.00"
+

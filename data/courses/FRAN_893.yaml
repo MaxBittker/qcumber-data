@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Le contenu de ce cours, basé en général sur l'analyse détaillée d'un ensemble important de données ou sur un problème théorique particulier, dépendra des intérêts et de la recherche récente de l'instructeur."
+    number: "893"
+    subject: "FRAN"
+    title: "Études linguistiques II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

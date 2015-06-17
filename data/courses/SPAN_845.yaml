@@ -1,0 +1,19 @@
+---
+  basic: 
+    description: "A seminar devoted to special topics on the theory and development of narratives whose discourse centers on the notions of power and dictatorship in Latin America, beginning with the key novel, Tirano Banderas by Ramón del Valle Inclán. Other works will include novels and short stories by writers such as Miguel Angel Asturias, Gabriel García Márquez, Augusto Roa Bastos, Alejo Carpentier, Marta Traba, Luisa Valenzuela and others. "
+    number: "845"
+    subject: "SPAN"
+    title: "Del Dictador En America Latina"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    units: "3.00"
+

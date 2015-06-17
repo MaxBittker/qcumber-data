@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "This course starts from the standpoint of phenomenological hermeneutics in order to offer a detailed study of the character and structure of narrative perspective as well as the role it plays in interpretation. Texts for interpretation will include selections from the works of Gabriel García Márquez, Juan Rulfo, Alejo Carpentier, Julio Cortázar, Jorge Luis Borges and Reinaldo Arenas. "
+    number: "807"
+    subject: "SPAN"
+    title: "La Perspectiva En La Narrativa"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

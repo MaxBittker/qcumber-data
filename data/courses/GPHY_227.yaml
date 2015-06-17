@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "The city from a geographical and planning perspective. Topics include theories of urbanism, mega and world cities, competitiveness, land use planning and design, surburbanization and sprawl, new urban identities and culture, retailing, public space, private and temporary cities, urban poverty, politics and governance.  "
+    number: "227"
+    subject: "GPHY"
+    title: "Cities: Geography, Planning and Urban Life"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite of GPHY101 or permission of department."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Continuation of MUSC 320/6.0. \nNOTE    Students who do not hold the prerequisite may audition for admission to this course.  They must obtain a grade of A- in the jury examination component of MUSC 321/6.0 or MUSC 324/6.0 and receive recommendation of the jury."
+    number: "420A"
+    subject: "MUSC"
+    title: "Applied Study IV (Performance)"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Individual Study: "Required"
+    drop_consent: "Department Consent Required"
+    enrollment_requirement: "PREREQUISITES    A grade of B in both MUSC 320/6.0 and MUSC 325/6.0. \r\nCOREQUISITE    MUSC 425/6.0. \r\nEXCLUSION    No more than 6.0 units from MUSC 420/6.0; MUSC 421/6.0."
+    grading_basis: "Graded"
+    typically_offered: "Fall, Winter"
+    units: "0.00"
+

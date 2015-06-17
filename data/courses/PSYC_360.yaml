@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "The course will introduce students to: the physiology and neurobiology of sleep; methodology of sleep research; evolution and comparative aspects of sleep; discussion of potential functions of sleep; overview of sleep disorders.\r\nNOTE    Students will spend two full nights in the Sleep Laboratory."
+    number: "360"
+    subject: "PSYC"
+    title: "The Neurobiology and Psychology of Sleep"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite     PSYC203 and PSYC271"
+    grading_basis: "Graded"
+    units: "3.00"
+

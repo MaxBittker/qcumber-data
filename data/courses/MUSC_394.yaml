@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "Study, through analysis, of contrapuntal procedures and styles, from the earliest use of counterpoint through to contemporary contrapuntal compositions."
+    number: "394"
+    subject: "MUSC"
+    title: "Contrapuntal Analysis"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    MUSC293 (or MUSC 291/6.0) or permission of the School."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

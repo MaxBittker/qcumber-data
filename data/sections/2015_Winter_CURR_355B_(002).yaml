@@ -1,0 +1,49 @@
+---
+  _unique: "002-LEC (7876)"
+  basic: 
+    class_num: "7876"
+    course: "355B"
+    season: "Winter"
+    solus_id: "002"
+    status: "Open"
+    subject: "CURR"
+    type: "LEC"
+    year: "2015"
+  classes: 
+    - 
+      day_of_week: 4
+      end_time: "1900-01-01T15:30:00"
+      instructors: 
+        - "Deir, Paul Edward"
+      location: "DUNCAN MCARTHUR RM A227E"
+      start_time: "1900-01-01T13:30:00"
+      term_end: "2015-02-13T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+    - 
+      day_of_week: 4
+      end_time: "1900-01-01T15:30:00"
+      instructors: 
+        - "Deir, Paul Edward"
+      location: "DUNCAN MCARTHUR RM A227E"
+      start_time: "1900-01-01T13:30:00"
+      term_end: "2015-04-30T00:00:00"
+      term_start: "2015-04-13T00:00:00"
+    - 
+      day_of_week: 4
+      end_time: "1900-01-01T15:30:00"
+      instructors: 
+        - "Deir, Paul Edward"
+      location: "DUNCAN MCARTHUR RM A227W"
+      start_time: "1900-01-01T13:30:00"
+      term_end: "2015-02-13T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+    - 
+      day_of_week: 4
+      end_time: "1900-01-01T15:30:00"
+      instructors: 
+        - "Deir, Paul Edward"
+      location: "DUNCAN MCARTHUR RM A227W"
+      start_time: "1900-01-01T13:30:00"
+      term_end: "2015-04-30T00:00:00"
+      term_start: "2015-04-13T00:00:00"
+

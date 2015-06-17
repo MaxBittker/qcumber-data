@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "Introduction to Linux and a programming language. Foundations and limitations of numerical calculations. Code development, debugging, optimization and profiling. Algorithms and techniques used in physics problems. Possible topics to be covered include numerical differentiation and integration, root finding and optimization problems, solution of linear systems of equations, Monte Carlo simulations, symbolic computation."
+    number: "313"
+    subject: "PHYS"
+    title: "Computational Methods in Physics"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "Prerequisites    (PHYS212 and PHYS239) and (MATH221 or MATH280) and (MATH232 or MATH231).\r\nExclusions    No more than 3.0 units from  CISC271; MATH272; PHYS313."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

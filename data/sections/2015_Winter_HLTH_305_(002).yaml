@@ -1,0 +1,21 @@
+---
+  _unique: "002-TUT (8096)"
+  basic: 
+    class_num: "8096"
+    course: "305"
+    season: "Winter"
+    solus_id: "002"
+    status: "Open"
+    subject: "HLTH"
+    type: "TUT"
+    year: "2015"
+  classes: 
+    - 
+      day_of_week: 3
+      end_time: "1900-01-01T10:30:00"
+      instructors: []
+      location: "KINES & HLTH RM106"
+      start_time: "1900-01-01T09:30:00"
+      term_end: "2015-04-02T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+

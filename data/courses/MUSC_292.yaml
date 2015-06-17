@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Tonal and chromatic voice-leading and harmony, phrase structure, bipartite, tripartite, and composite formal structures, through part-writing and analysis."
+    number: "292"
+    subject: "MUSC"
+    title: "Theory and Analysis IIA"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    A minimum grade of C- in MUSC191 or permission of the School of Music.\r\nExclusion    No more than 6.0 units from MUSC291; MUSC292; MUSC293\r\nEquivalency    MUSC291"
+    grading_basis: "Graded"
+    units: "3.00"
+

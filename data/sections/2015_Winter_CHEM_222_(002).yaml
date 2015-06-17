@@ -1,0 +1,21 @@
+---
+  _unique: "002-TUT (2417)"
+  basic: 
+    class_num: "2417"
+    course: "222"
+    season: "Winter"
+    solus_id: "002"
+    status: "Open"
+    subject: "CHEM"
+    type: "TUT"
+    year: "2015"
+  classes: 
+    - 
+      day_of_week: 1
+      end_time: "1900-01-01T16:00:00"
+      instructors: []
+      location: "CHERNOFF RM211"
+      start_time: "1900-01-01T14:30:00"
+      term_end: "2015-04-02T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+

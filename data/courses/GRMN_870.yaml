@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "After examining the background and the characteristics of the Romantic period, this course will concentrate on Frühromantik, with emphasis on Novalis. "
+    number: "870"
+    subject: "GRMN"
+    title: "Early German Romanticism"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Lecture: "Required"
+      Seminar: "Required"
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

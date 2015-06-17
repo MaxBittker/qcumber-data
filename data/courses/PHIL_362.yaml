@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "From first-order monadic predicate calculus to polyadic predicate calculus with identity. Symbolization, rules of inference, derivation and refutation of arguments. Introduction to modal logics."
+    number: "362"
+    subject: "PHIL"
+    title: "Further Studies in Logic"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisite     PHIL361 or ELEC270."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

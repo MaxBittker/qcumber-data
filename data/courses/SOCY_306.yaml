@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A comprehensive introduction to the major theories and empirical studies of consumer culture with emphasis upon the historical, socioeconomic, and cultural aspects of consumption in sociological context; substantive focus upon diverse topics such as food, tourism, the home, children, and marketing."
+    number: "306"
+    subject: "SOCY"
+    title: "Consumer Culture"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE    A Grade of C- in SOCY 122/6.0."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

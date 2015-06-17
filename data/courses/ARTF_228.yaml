@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course offers two of the sections from the four media areas available at this level: painting, drawing, print media and sculpture. Course content builds on concepts developed in ARTF127/6.0 and ARTF128/6.0. New techniques, skills and concepts are introduced.\r\nNOTE    Open only to students in a BFA Program."
+    number: "228"
+    subject: "ARTF"
+    title: "Intermediate Fine Art II"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    A minimum grade of C- in  ARTF227 and a GPA of 1.60."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "6.00"
+

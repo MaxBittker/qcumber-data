@@ -1,0 +1,19 @@
+---
+  basic: 
+    description: ""
+    number: "795"
+    subject: "THEO"
+    title: "Research Essay"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Graduate"
+    course_components: 
+      Individual Study: "Required"
+    grading_basis: "Graded"
+    units: "8.00"
+

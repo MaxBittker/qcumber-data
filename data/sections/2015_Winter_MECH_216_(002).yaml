@@ -1,0 +1,22 @@
+---
+  _unique: "002-TUT (7783)"
+  basic: 
+    class_num: "7783"
+    course: "216"
+    season: "Winter"
+    solus_id: "002"
+    status: "Open"
+    subject: "MECH"
+    type: "TUT"
+    year: "2015"
+  classes: 
+    - 
+      day_of_week: 2
+      end_time: "1900-01-01T12:30:00"
+      instructors: 
+        - "Sellens, Richard W"
+      location: "DUPUIS AUD"
+      start_time: "1900-01-01T11:30:00"
+      term_end: "2015-04-02T00:00:00"
+      term_start: "2015-01-05T00:00:00"
+

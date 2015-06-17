@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A study of second language acquisition with emphasis on the learning process, the influence of the first language, the concept of interlanguage, the role of learning strategies."
+    number: "493"
+    subject: "FREN"
+    title: "Acquisition d¿une langue seconde"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites     (FREN373 and [FREN353 or FREN393 or FREN215]) or (LING100 and FREN110) or (LING100 and a grade of B in FREN100) and Level 4 and registration in a FREN or FRLG Plan.\r\nEquivalency    LING493."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

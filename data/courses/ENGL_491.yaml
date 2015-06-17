@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Studies in literary topics that cross over the historical boundaries between Groups A, B, and C. For detailed information, consult the Department."
+    number: "491"
+    subject: "ENGL"
+    title: "Topics in Literary Interpretation I"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Seminar: "Required"
+    enrollment_requirement: "Prerequisite  (ENGL200 & ENGL290) and (a GPA of 2.4 on all ENGL units) and (registration in an ENGL Major or Medial Plan)."
+    grading_basis: "Graded"
+    units: "3.00"
+
