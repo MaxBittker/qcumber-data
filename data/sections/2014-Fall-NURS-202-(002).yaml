@@ -1,0 +1,22 @@
+---
+  _unique: "002-LAB (4684)"
+  basic: 
+    class_num: "4684"
+    course: "202"
+    season: "Fall"
+    solus_id: "002"
+    status: "Closed"
+    subject: "NURS"
+    type: "LAB"
+    year: "2014"
+  classes: 
+    - 
+      day_of_week: 4
+      end_time: "1900-01-01T10:30:00"
+      instructors: 
+        - "Machan, Hilary"
+      location: "CATARAQUI  RM221 SIM LAB"
+      start_time: "1900-01-01T08:30:00"
+      term_end: "2014-11-28T00:00:00"
+      term_start: "2014-09-08T00:00:00"
+
