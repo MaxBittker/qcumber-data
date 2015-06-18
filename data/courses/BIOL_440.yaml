@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An exploration of higher-level processes in evolution spanning considerations of mechanisms of speciation, extinction, adaptive radiation, and phylogenetics."
+    description: "An exploration of higher-level processes in evolution spanning considerations of mechanisms of speciation, extinction, adaptive radiation, and phylogenetics.\nLEARNING HOURS   120 (24L;24T;60G;12O)"
     number: "440"
     subject: "BIOL"
     title: "Speciation and Macroevolution"
@@ -13,8 +13,8 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Laboratory: "Required"
       Lecture: "Required"
+      Tutorial: "Required"
     enrollment_requirement: "Prerequisites     BIOL302 or BIOL303."
     grading_basis: "Graded"
     typically_offered: "Fall"

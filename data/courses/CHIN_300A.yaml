@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Continuing study of the functional usage of Mandarin Chinese with intensive training in listening, speaking, reading and writing using the simplified forms of Chinese characters.  \r\nNOTE    Students will have their level of competence assessed by the instructor during orientation week in September."
+    description: "Continuing study of the functional usage of Mandarin Chinese with intensive training in listening, speaking, reading and writing using the simplified forms of Chinese characters.  \nNOTE    Students will have their level of competence assessed by the instructor during orientation week in September.\nLEARNING HOURS    240 (72L;168P)"
     number: "300A"
     subject: "CHIN"
     title: "Intermediate Mandarin Chinese"
@@ -14,7 +14,6 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-      Tutorial: "Required"
     enrollment_requirement: "Prerequisite   CHIN200/6.0 or permission of the Department of Languages, Literatures and Cultures."
     grading_basis: "Graded"
     units: "0.00"

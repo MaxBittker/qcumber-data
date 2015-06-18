@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: ""
+    description: "An advanced course in the theoretical issues and analytical practices in epidemiology, and biostatistics. Topics may vary but major topics include analysis of longitudinal and survival data using various regression models; Techniques and strategies for regression modeling; Novel analytic approaches in epidemiology; multivariate analysis methods including discriminant analysis, principal components and factor analysis.  PREREQUISITE: EPID- 821* + knowledge of basic statistical modeling techniques deemed adequate by the Instructors."
     number: "823"
     subject: "EPID"
-    title: "Adv. Methods In Biostatistics"
+    title: "Advanced Methods in Biostatistics"
   extra: 
     CEAB: 
       Basic Sci: 0

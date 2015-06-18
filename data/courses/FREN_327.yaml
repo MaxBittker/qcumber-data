@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "A study of cultural representations in contemporary film. Special topics may include women in cinema, culture and identity in French and/or Francophone cinema, history through cinema, avant-garde cinema and the 'nouvelle vague'. Travaux pratiques include essays and tests. Given jointly with FREN 427/3.0.\nLEARNING HOURS    120 (36L;84P)"
+    description: "A study of cultural representations in contemporary film. Special topics may include women in cinema, culture and identity in French and/or Francophone cinema, history through cinema, avant-garde cinema and the 'nouvelle vague'. Travaux pratiques include essays and tests.\nLEARNING HOURS    120 (36L;84P)"
     number: "327"
     subject: "FREN"
     title: "Le Cinéma aujourd'hui: Études thématiques"
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisites     6.0 units from FREN212 or FREN220 or FREN221 and registration in a FREN Plan.\nExclusion    No more than 3.0 units from FREN327; FREN427."
+    enrollment_requirement: "Prerequisite       (FREN230 and FREN241) or FREN221 or (FREN212 and FREN220).\nExclusion     No more than 3.0 units from FREN327 or FREN427"
     grading_basis: "Graded"
     units: "3.00"
 

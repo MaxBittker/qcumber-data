@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Practice in reading, writing, grammar review and literary analysis.\r\nNOTE    Placement test required. A grade of B is required in this course if a student wishes to use it as a prerequisite to access those upper-year courses required for the FREN Major or Medial Plans."
+    description: "Practice in reading, writing, grammar review and literary analysis.\nNOTE    Offered only at the Bader International Study Centre, Herstmonceux.\nNOTE    Placement test required. A grade of B- is required in this course if a student wishes to use it as a prerequisite to access those upper-year courses required for the FREN Major or Medial Plans."
     number: "102"
     subject: "FREN"
     title: "Français Intermédiaire II"
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Exclusion    No more than 6.0 units from FREN100; FREN101; FREN102; FREN 110"
+    enrollment_requirement: "Exclusion    No more than 6.0 units from FREN100; FREN101; FREN102; FREN110; FREN150."
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

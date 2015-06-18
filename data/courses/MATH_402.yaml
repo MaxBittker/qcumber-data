@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "An introduction to two subjects which together with MATH 401/3.0 provide an entry into discrete mathematics and its applications. Among the enumeration techniques covered are inclusion-exclusion, recurrence relations, and generating functions. The study of designs includes finite geometries and Latin squares. Given jointly with MATH 802/3.0.\nLEARNING HOURS    120 (36L;84P)\nRECOMMENDATION    Experience with abstract mathematics and mathematical proof, and a good foundation in linear algebra."
+    description: "Enumerative combinatorics is concerned with counting the number of elements of a finite set. The techniques covered include inclusion-exclusion, bijective proofs, double-counting arguments, recurrence relations, and generating functions. Given jointly with MATH 802/3.0.\nLEARNING HOURS    120 (36L;84P)\nRECOMMENDATION    Experience with abstract mathematics and mathematical proof, and a good foundation in linear algebra."
     number: "402"
     subject: "MATH"
-    title: "Combinatorics:Enumeration and Designs"
+    title: "Enumerative Combinatorics"
   extra: 
     CEAB: 
       Basic Sci: 0

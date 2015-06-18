@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Comparative examination of criminal justice system and its major institutions; Canadian research emphasized."
+    description: "Comparative examination of criminal justice system and its major institutions; Canadian research emphasized.\nLEARNING HOURS 120 (36L;84P)"
     number: "388"
     subject: "SOCY"
     title: "Sociology of Criminal Justice"
@@ -13,8 +13,8 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Seminar: "Required"
-    enrollment_requirement: "SOCY274 OR (SOCY275 AND SOCY287) OR (SOCY275 AND SOCY276)"
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite        SOCY274 or SOCY275."
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

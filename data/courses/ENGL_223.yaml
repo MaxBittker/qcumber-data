@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "A survey of women writers from after 1900. Geographical focus of course may vary from year to year; for detailed information, consult the Department.\nNOTE    Also offered as a distance course. Consult Continuing and Distance Studies. When offered as a distance course, it is focused on English, American and Canadian women writers of the twentieth century.\nLEARNING HOURS    120 (36L;84P)"
+    description: "A survey of women writers from after 1900. The historical and geographical focus of the course may vary from year to year; for details, consult the Department.\nNOTE    Also offered online. Consult Continuing and Distance Studies. Learning Hours may vary.\nLEARNING HOURS    120 (36L;84P)"
     number: "223"
     subject: "ENGL"
-    title: "Selected Women Writers II"
+    title: "Women Writers Post-1900"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -11,7 +11,7 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    career: "Undergraduate"
+    career: "Distance Studies"
     course_components: 
       Lecture: "Required"
     enrollment_requirement: "Prerequisite  A grade of C in ENGL100 (or ENGL110) or registration in a GNDS plan"

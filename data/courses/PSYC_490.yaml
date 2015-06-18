@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Seminar courses on advanced topics in psychology offered periodically by visiting professors."
+    description: "Seminar courses on advanced topics in psychology offered periodically by visiting professors.\nNOTE    Prerequisites vary depending on specific course content; consult instructor or Undergraduate Office in the Psychology Department.\nLEARNING HOURS    120 (36L;84P)"
     number: "490"
     subject: "PSYC"
     title: "Special Topics in Psychology III"
@@ -11,9 +11,11 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
+    add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
       Seminar: "Required"
+    drop_consent: "Department Consent Required"
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Study of the relationship between spatial pattern and ecological processes. Topics include spatial arrangement of ecosystems and its influence on the flow of energy, materials and biota; agents of pattern and change; methods and techniques for characterizing landscapes and detecting change; applications in resource conservation and management.\r\nNOTE    Computer Lab fees: estimated cost $50. Field trip fees may apply in certain years."
+    description: "Study of the relationship between spatial pattern and ecological processes. Topics include spatial arrangement of ecosystems and its influence on the flow of energy, materials and biota; agents of pattern and change; methods and techniques for characterizing landscapes and detecting change; applications in resource conservation and management.\nNOTE    Field trip fees may apply in certain years.\nLEARNING HOURS    132 (36L;24Lb;72P)"
     number: "418"
     subject: "GPHY"
     title: "Landscape Ecology"
@@ -15,7 +15,7 @@
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
-    enrollment_requirement: "Prerequisites    Level 4 & (6 fr BIOL;CHEM;PHYS) and (a GPA of 1.90 in 30 units fr GPHYorBIOLorENSC) & (GPA of 1.90 in 30 from GPHY;BIOL;ENSC) & (reg in GPHY;BIOL;ENSC Maj [sci] or EGPY or EBIO Plan), or by petition to dept.\r\nEquivalency    GPHY310."
+    enrollment_requirement: "Prerequisites    Level 4 & (6 fr BIOL;CHEM;PHYS) and (a GPA of 1.90 in 30 units fr GPHYorBIOLorENSC) & (GPA of 1.90 in 30 from GPHY;BIOL;ENSC) & (reg in GPHY;BIOL;ENSC Maj [sci] or EGPY or EBIO Plan).\r\nEquivalency    GPHY310."
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

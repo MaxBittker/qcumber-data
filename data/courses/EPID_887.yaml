@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: ""
+    description: "The 400-hour practicum placement provides Master of Public Health students with an opportunity to build on and apply the knowledge, skills and attitudes they have learned from course work through active participation in a supervised setting. Students will contribute to public health in practice. Placement activities will vary according to the needs and interests of both the host organization and the student. This course is graded on a PASS/FALL basis. Spring/Summer term every year."
     number: "887"
     subject: "EPID"
-    title: "Practicum 2- Public Health"
+    title: "Practicum Placement"
   extra: 
     CEAB: 
       Basic Sci: 0

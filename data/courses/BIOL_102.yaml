@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An introduction to the basic themes and concepts of modern biology spanning organizational levels from molecules to cells in an evolutionary context.\nLEARNING HOURS    123 (24L;6Lb;9G;12O;72P)\nRECOMMENDATION    4U Biology and Chemistry, or equivalent high school background, are highly recommended."
+    description: "An introduction to the basic themes and concepts of modern biology spanning organizational levels from molecules to cells in an evolutionary context.\r\nNOTE    Also offered online. Consult Continuing and Distance Studies. Learning Hours may vary.\r\nNOTE    Also offered at the Bader International Study Centre, Herstmonceux. Learning Hours may vary.\r\nLEARNING HOURS    111 (24L;6Lb;9G;12O;60P)\r\nRECOMMENDATION    4U Biology and Chemistry, or equivalent high school background, are highly recommended."
     number: "102"
     subject: "BIOL"
     title: "Introductory Biology of Cells"
@@ -11,10 +11,11 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    career: "Distance Studies"
+    career: "Undergraduate"
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
     grading_basis: "Graded"
+    typically_offered: "Fall"
     units: "3.00"
 

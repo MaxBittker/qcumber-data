@@ -11,11 +11,12 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    career: "Distance Studies"
+    career: "Undergraduate"
     course_components: 
       Blended: "Required"
       Laboratory: "Required"
     enrollment_requirement: "Prerequisite    Level 2 or above."
     grading_basis: "Graded"
+    typically_offered: "Winter"
     units: "3.00"
 

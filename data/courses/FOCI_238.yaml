@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Building on their prior knowledge and understandings, teacher candidates study the learning of early primary students (junior kindergarten to grade one), who are making the transition from pre-school to early primary classes. Professional readings, research and workshops are related to practicum experiences in a primary classroom (Fall term) and in a school or an alternative setting (Winter term)."
+    description: "Teacher candidates will examine the practice of early primary education. They will use their emerging theoretical understanding to practice observation and assessment and evaluation of children in the early years. They will learn how to design developmentally appropriate programs that reflect the needs of younger learners."
     number: "238"
     subject: "FOCI"
     title: "Early Primary Education"
@@ -11,9 +11,11 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
+    add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
+    drop_consent: "Department Consent Required"
     grading_basis: "Graded"
     typically_offered: "Fall, Winter"
     units: "3.00"

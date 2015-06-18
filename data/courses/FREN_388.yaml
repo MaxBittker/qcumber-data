@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "A study of significant trends in the novel of 18th century France with special emphasis on historical and aesthetic changes in the relationship between fiction and its social context. Travaux pratiques include essays and tests. Given jointly with FREN 488/3.0.\nLEARNING HOURS    120 (36L;84P)"
+    description: "A study of significant trends in the novel of 18th century France with special emphasis on historical and aesthetic changes in the relationship between fiction and its social context. Travaux pratiques include essays and tests.\nLEARNING HOURS    120 (36L;84P)"
     number: "388"
     subject: "FREN"
-    title: "Roman des lumières: entre tradition et modernité"
+    title: "Le Roman du 18e siècle"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisites    FREN221 or (FREN212 and FREN220).\r\nExclusion    No more than 3.0 units from FREN388; FREN488."
+    enrollment_requirement: "Prerequisite       (FREN230 and FREN241) or (FREN212 and FREN220) or FREN221.\nExclusion     No more than 3.0 units from FREN388 or FREN488."
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

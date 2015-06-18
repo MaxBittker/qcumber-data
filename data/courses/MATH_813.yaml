@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Algorithms for solving systems of nonlinear equations, applications in geometry, algebra, and other areas; Gröbner basis methods. Labs use software such as CoCoA or Macaulay 2. (Offered jointly with MATH-413). Three term-hours, fall or winter; lectures."
+    description: "An introduction to the study of systems of polynomial equations in one or more variables.  Topics covered include the Hilbert basis theorem, the Nullstellenstaz, the dictionary between ideals and affine varieties, and projective geometry (Offered jointly with MATH 413)."
     number: "813"
     subject: "MATH"
-    title: "Comput'l Commutative Algebra"
+    title: "Introduction to Algebraic Geometry"
   extra: 
     CEAB: 
       Basic Sci: 0

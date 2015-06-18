@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Configuration space, generalized coordinates, Euler-Lagrange equations. Forces: dissipative, potential. Simple mechanical control systems: modeling, linearization about equilibrium points, linear controllability tests; equivalence with kinematic systems and trajectory generation.\nLEARNING HOURS    132 (36L;12T;84P)"
+    description: "Geometric modeling, including configuration space, tangent bundle, kinetic energy, inertia, and force. Euler-Lagrange equations using affine connections. The last part of the course develops one of the following three applications: mechanical systems with nonholonomic constraints; control theory for mechanical systems; equilibria and stability.\nLEARNING HOURS    132 (36L;12T;84P)"
     number: "439"
     subject: "MATH"
     title: "Lagrangian Mechanics, Dynamics, and Control"

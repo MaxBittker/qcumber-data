@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisites    FREN100 or FREN110 or (FREN101 and FREN102).\r\nExclusion    No more than 3.0 units from FREN232 or FREN312 or FREN300."
+    enrollment_requirement: "Prerequisite     FREN100 or FREN110 or FREN150 or (FREN101 and FREN102)."
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

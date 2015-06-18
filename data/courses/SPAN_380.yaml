@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "A survey of the major authors and works of literature of Spain from its beginnings to the Spanish Golden Age. Readings will include texts from all genres and will illustrate the main cultural and historical trends and movements."
+    description: "An introduction to the major authors and works of the literature of Spain from its beginnings to the end of the 17th Century. Through study and analysis students will obtain a general understanding of the main cultural, historical, and societal trends and movements during these periods."
     number: "380"
     subject: "SPAN"
-    title: "Panorama literario de España I"
+    title: "Introducción: Literatura de España I"
   extra: 
     CEAB: 
       Basic Sci: 0

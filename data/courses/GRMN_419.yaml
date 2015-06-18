@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: ""
+    description: "A survey of various currents of thought from 19th-century Europe that illustrate conservative discomfort with industrial society and help to make the outbreak of fascism understandable after 1918. The course will distinguish between conservative, nationalist, aesthetic, and religious trends, illustrated by relevant readings from different countries.\nNOTE    Taught in English together with LLCU 319/3.0. Students in a GMST Plan will submit written assignments, tests, and examinations in German. Normally, students will read German texts in the original.\nLEARNING HOURS    120 (36L;84P)"
     number: "419"
     subject: "GRMN"
     title: "Roots of Fascism: Resistance to Liberalism in the 19th Century"
@@ -14,6 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
+    enrollment_requirement: "Prerequisite     A grade of C in GRMN202 or permission of the Department of Languages, Literatures and Cultures.\nExclusion     No more than 3.0 units from GRMN419; LLCU319."
     grading_basis: "Graded"
     units: "3.00"
 

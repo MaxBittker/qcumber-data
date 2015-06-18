@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Intensive study of a special topic, period, author or genre in the Greek and Roman World from the Dark Ages to Late Antiquity."
+    description: "Intensive study of a special topic in the Greek and Roman World from the Dark Ages to Late Antiquity."
     number: "821"
     subject: "CLAS"
-    title: "Dark Ages To Late Antiquity II"
+    title: "Topics in Classical Studies II"
   extra: 
     CEAB: 
       Basic Sci: 0

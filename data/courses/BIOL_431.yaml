@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "The cellular origins of diversity in physiological processes, with consideration of the role of evolutionary, developmental and molecular mechanisms."
+    description: "The cellular origins of diversity in physiological processes, with consideration of the role of evolutionary, developmental and molecular mechanisms.\nLEARNING HOURS   108 (6L;30S;8T;4G;60P)"
     number: "431"
     subject: "BIOL"
     title: "Cellular Basis of Adaptation"
@@ -13,9 +13,9 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Lecture: "Required"
-      Seminar: "Required"
-    enrollment_requirement: "Prerequisites     BIOL330 and (BIOL334 or BIOL339 or BIOL341)."
+      Lecture / Seminar: "Required"
+      Tutorial: "Required"
+    enrollment_requirement: "Prerequisites     (BIOL330 or BCHM218) and (BIOL334 or BIOL339 or BIOL341)."
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

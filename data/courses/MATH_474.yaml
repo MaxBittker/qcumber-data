@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Fundamental principles of communication theory, information measures, entropy, mutual information, divergence; source encoding, Huffman codes, lossless source coding theorem; channel capacity, noisy channel coding theorem, information transmission theorem; continuous-alphabet channels; capacity of discrete-time and band-limited continuous-time Gaussian channels, channels with memory, rate distortion theory. Given jointly with MATH 874/3.0.\nLEARNING HOURS    140 (36L;104P)\nRECOMMENDATION    STAT 353/3.0."
+    description: "Topics include: information measures, entropy, mutual information, modeling of information sources, lossless data compression, block encoding, variable-length encoding, Kraft inequality, fundamentals of channel coding, channel capacity, rate-distortion theory, lossy data compression, rate-distortion theorem. Given jointly with MATH 874/3.0.\nLEARNING HOURS    140 (36L;104P)\nRECOMMENDATION    STAT 353/3.0."
     number: "474"
     subject: "MATH"
     title: "Information Theory"

@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Presentation and discussion of current research (students).  Bi-weekly colloquium."
+    description: "Discussion of the principal research problems and methodologies in the field of Classical studies. Bi-weekly meetings and final presentation of graduate students in conference format."
     number: "802"
     subject: "CLAS"
-    title: "Topic In Classical Scholarship"
+    title: "Research Forum II"
   extra: 
     CEAB: 
       Basic Sci: 0

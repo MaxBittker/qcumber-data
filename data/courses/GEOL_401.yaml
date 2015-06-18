@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "A multi-day field trip that uses stratigraphic, sedimentological, paleontological, and structural data to interpret shallow- and deep-marine rock successions in a paleoenvironmental and tectonic context.  Enrollment is limited.\r\nNOTE    The course runs during the week that includes Canadian Thanksgiving. Students are responsible for the cost of accommodation during the trip ($200 in 2012)."
+    description: "A multi-day field trip that uses stratigraphic, sedimentological, paleontological, and structural data to interpret shall-and-deep-marine rock successions in paleoenvironmental and tectonic context. Enrollment is limited. Course runs during the week of Canadian Thanksgiving.\nNOTE    The course runs during the week that includes Canadian Thanksgiving. Students are responsible for the cost of accommodation and transportation during the trip.  Please contact the Department for more information."
     number: "401"
     subject: "GEOL"
     title: "Field Studies in Geology II"
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Field Studies: "Required"
-    enrollment_requirement: "Prereqsuite    (A GPA of 2.9 in GEOL221; GEOL238; GEOL321 or permission of the Dept.\r\nCorequisite    GEOL488."
+    enrollment_requirement: "Prereqsuite    (A GPA of 2.9 in GEOL221; GEOL238; GEOL321 or permission of the Dept.\nCorequisite    GEOL488.\nExclusion     No more than 1.5 units from GEOL401; GEOL402."
     grading_basis: "Graded"
     units: "1.50"
 

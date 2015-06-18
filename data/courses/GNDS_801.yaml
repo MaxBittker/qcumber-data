@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "This required interdisciplinary seminar explores the development and application of contemporary theories in gender, women¿s and feminist studies, as well as debates surrounding them. Discussions draw on social science and humanities literature."
+    description: "This interdisciplinary seminar provides a comprehensive overview of contemporary theories in gender studies and in such fields as critical race, feminist, women's, queer or trans studies. Students examine the development and application of theories as well as debates surrounding them. Course materials draw from theories in the social sciences and the humanities. Required of GNDS graduate students."
     number: "801"
     subject: "GNDS"
-    title: "Issues In Gender And Sexuality"
+    title: "Theories in Gender Studies"
   extra: 
     CEAB: 
       Basic Sci: 0

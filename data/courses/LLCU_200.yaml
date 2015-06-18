@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Semiotics is the discipline that studies signs and how these participate in creating meaning and communication. This course focuses on the theoretical system on which semiotic analyses is based (F. de Saussure, C. Peirce, R. Barthes, and others) and will be devoted to various subject areas such as literature, art, film, theatre, and other fields.\nLEARNING HOURS    120 (36L;36T;48P)"
+    description: "Semiotics is the discipline that studies signs and how these participate in creating meaning and communication. This course focuses on the theoretical system on which semiotic analyses is based (F. de Saussure, C. Peirce, R. Barthes, and others) and will be devoted to various subject areas such as literature, art, film, theatre, and other fields.\nLEARNING HOURS    120 (36L;84P)"
     number: "200"
     subject: "LLCU"
-    title: "Semiotics:  Signs and Meanings"
+    title: "Semiotics:  Interpreting the World"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -14,7 +14,6 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-      Tutorial: "Required"
     enrollment_requirement: "Prerequisite     Level 2 or permission of the Dept. of Languages, Literatures and Cultures.\r\nExclusion    No more than 1 course from IDIS 200; LLCU 200.\r\nEquivalency    IDIS 200."
     grading_basis: "Graded"
     units: "3.00"

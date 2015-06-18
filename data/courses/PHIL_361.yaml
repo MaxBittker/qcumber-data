@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "From propositional calculus to first-order monadic predicate calculus. Symbolization, rules of inference, derivation and refutation of arguments.\r\nNOTE    Also offered as a distance course. Consult Continuing and Distance Studies."
+    description: "From propositional calculus to first-order monadic predicate calculus. Symbolization, rules of inference, derivation and refutation of arguments.\nLEARNING HOURS    120 (36L;84P)"
     number: "361"
     subject: "PHIL"
     title: "Introduction to Logic"

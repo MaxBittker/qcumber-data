@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "The word 'science' comes from the Latin scientia, which means 'having knowledge'. What is the relation between science and normative political ideals such as democracy, justice and equality? The topics covered in any given year will vary, but may include the ethical, legal and social consequences of advances in the biomedical or environmental sciences."
+    description: "The word 'science' comes from the Latin scientia, which means 'having knowledge'. What is the relation between science and normative political ideals such as democracy, justice and equality? The topics covered in any given year will vary, but may include the ethical, legal and social consequences of advances in the biomedical or environmental sciences.\nLEARNING HOURS (LECTURE)    120 (36L;84P)\nLEARNING HOURS (SEMINAR)    120 (36S;12G;72P)"
     number: "402"
     subject: "POLS"
     title: "Science and Justice"

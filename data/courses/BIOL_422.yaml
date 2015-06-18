@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "The application of biological research to the conservation of biodiversity and natural resources, as well as the interaction of biology with philosophy, politics and economics in influencing conservation policy.\r\nNOTE    A course fee to cover guest speakers and field trips of not more than $40."
+    description: "The application of biological research to the conservation of biodiversity and natural resources, as well as the interaction of biology with philosophy, politics and economics in influencing conservation policy.\r\nNOTE    A course fee to cover guest speakers and field trips of not more than $40.\r\nLEARNING HOURS   108 (36L;36T;36P)"
     number: "422"
     subject: "BIOL"
     title: "Conservation Biology"
@@ -13,8 +13,8 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Laboratory: "Required"
       Lecture: "Required"
+      Tutorial: "Required"
     enrollment_requirement: "Prerequisites    BIOL302 or BIOL303."
     grading_basis: "Graded"
     typically_offered: "Fall"

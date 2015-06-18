@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Basic techniques of statistical estimation such as best unbiased estimates, moment estimates, maximum likelihood. Bayesian methods. Hypotheses testing. Classical distributions such as the t-distribution, F-distribution, beta distribution. These methods will be illustrated by simple linear regression. Statistical computing."
+    description: "Basic techniques of statistical estimation such as best unbiased estimates, moment estimates, maximum likelihood. Bayesian methods. Hypotheses testing. Classical distributions such as the t-distribution, F-distribution, beta distribution. These methods will be illustrated by simple linear regression. Statistical computing.\nLEARNING HOURS    120 (36L;84P)"
     number: "269"
     subject: "STAT"
     title: "Statistics and Probability II"

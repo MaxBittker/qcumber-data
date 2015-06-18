@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Complex numbers, analytic functions, harmonic functions, Cauchy's Theorem, Taylor and Laurent series, calculus of residues, Rouche's Theorem."
+    description: "Complex numbers, analytic functions, harmonic functions, Cauchy's Theorem, Taylor and Laurent series, calculus of residues, Rouche's Theorem.\nLEARNING HOURS    132 (36L;84P)"
     number: "326"
     subject: "MATH"
     title: "Functions of a Complex Variable"

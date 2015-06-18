@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Exploration of practical preproduction needs. Topics may include casting, staging, theatre configuration, textual alteration, rehearsal technique, period research, design approaches."
+    description: "Exploration of practical preproduction needs. Topics may include casting, staging, theatre configuration, textual alteration, rehearsal technique, period research, design approaches.\nLEARNING HOURS    120 (36Pc;18G;66P)"
     number: "323"
     subject: "DRAM"
     title: "Practical Concerns in Directing"
@@ -14,7 +14,8 @@
     add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
-      Lecture: "Required"
+      Practicum: "Required"
+      Seminar: "Required"
     drop_consent: "Department Consent Required"
     enrollment_requirement: "Prerequisite    Level 3 and (registration in a DRAM Major or Medial Plan, or COCA-CODR sub-plan or STSC Spec. Plan) and (a GPA of 2.60 in DRAM) or permission of the Department.\r\nCorequisite    DRAM 300."
     grading_basis: "Graded"

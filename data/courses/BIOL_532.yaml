@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: ""
+    description: "LEARNING HOURS    120 (9L;9S;18G;84P)"
     number: "532"
     subject: "BIOL"
     title: "Selected Topics in Biology I"
@@ -14,7 +14,8 @@
     add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
-      Seminar: "Required"
+      Lecture / Seminar: "Required"
+    enrollment_requirement: "Prerequisite    BIOL339."
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

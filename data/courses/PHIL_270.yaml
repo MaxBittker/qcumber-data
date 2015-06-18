@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "A survey of the contribution of philosophy to the cognitive sciences.  The focus will be on providing a synthesis of the different perspectives brought by each of the disciplines, in particular, cognitive psychology, computer science, neurophysics, and linguistics, through an investigation of how the various approaches ultimately frame and answer our questions about the mind.\nNOTE    Each week, students will be assigned a number of articles or chapters for reading and will be expected to be able to discuss the readings in class."
+    description: "A survey of the contribution of philosophy to the cognitive sciences.  The focus will be on providing a synthesis of the different perspectives brought by each of the disciplines, in particular, cognitive psychology, computer science, neurophysics, and linguistics, through an investigation of how the various approaches ultimately frame and answer our questions about the mind.\nNOTE    Each week, students will be assigned a number of articles or chapters for reading and will be expected to be able to discuss the readings in class.\nLEARNING HOURS    120 (36L;84P)"
     number: "270"
     subject: "PHIL"
     title: "Minds and Machines"
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisite     6.0 units in PHIL"
+    enrollment_requirement: "Prerequisite     Completed 30.0 or more units"
     grading_basis: "Graded"
     units: "3.00"
 

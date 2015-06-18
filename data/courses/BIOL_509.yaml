@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "RECOMMENDATION    BIOL 335/3.0"
+    description: "LEARNING HOURS   120 (9L;9S;18G;84P)\nRECOMMENDATION    BIOL 335/3.0"
     number: "509"
     subject: "BIOL"
     title: "Limnological Environmental Studies"
@@ -14,7 +14,7 @@
     add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
-      Seminar: "Required"
+      Lecture / Seminar: "Required"
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

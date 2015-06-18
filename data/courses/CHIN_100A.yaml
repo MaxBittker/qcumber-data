@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "For students with no previous knowledge of Chinese. Students familiar with Cantonese or Mandarin will not be permitted to enroll. Introduction to the basic structural patterns and functional usage of the language including an emphasis on oral communication (both listening and speaking), reading and writing basic Chinese characters, as well as Chinese culture.\r\nNOTE    Students will have their level of competence assessed by the instructor during orientation week in September."
+    description: "For students with no previous knowledge of Chinese. Students familiar with Cantonese or Mandarin will not be permitted to enroll. Introduction to the basic structural patterns and functional usage of the language including an emphasis on oral communication (both listening and speaking), reading and writing basic Chinese characters, as well as Chinese culture.\nNOTE    Students will have their level of competence assessed by the instructor during orientation week in September.\nLEARNING HOURS    240 (72L;24T;144P)"
     number: "100A"
     subject: "CHIN"
     title: "Introductory Mandarin Chinese I"
@@ -17,6 +17,5 @@
       Tutorial: "Required"
     drop_consent: "Department Consent Required"
     grading_basis: "Graded"
-    typically_offered: "Fall, Winter"
     units: "0.00"
 

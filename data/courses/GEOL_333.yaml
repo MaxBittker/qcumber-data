@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An introduction to the principles of geomorphology relevant to Geological Sciences and Geological Engineering.  An emphasis is made on the evaluation of terrain features using analog and digital imagery using traditional and digital (GIS) methods. Terrain analysis using computational  methods, generation of surface models from LiDAR."
+    description: "An introduction to the principles of geomorphology relevant to Geological Sciences and Geological Engineering. Identification and evaluation of terrain features using analog and digital imagery via traditional and digital (GIS) methods. Digital terrain model acquisition and analysis. Introduction to digital terrain analysis."
     number: "333"
     subject: "GEOL"
     title: "Terrain Evaluation"

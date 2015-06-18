@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: ""
+    description: "An introduction to the principles and skills necessary for a successful career in music, centred around business aspects as well as important facets of professionalism required in today¿s music fields. Topics may include deportment, business practices, concert planning, promotion and publicity, and the role of supporting professionals.\nLEARNING HOURS    120 (36S;24O;24Oc;36P)"
     number: "340A"
     subject: "MUSC"
     title: "Music as Profession"
@@ -14,6 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Seminar: "Required"
+    enrollment_requirement: "Prerequisite     Level 3 or above in a MUSC plan, or permission of the School of Music."
     grading_basis: "Graded"
     units: "0.00"
 

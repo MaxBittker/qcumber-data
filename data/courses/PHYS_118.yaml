@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: ""
+    description: "An algebra-based course dealing with basic Physics concepts, including dynamics, fluids, waves, electromagnetism, and basic optics. Emphasis is placed on the development of problem-solving skills through the use of Mastery based course delivery.\nNOTE    Only offered online. Consult Continuing and Distance Studies.\nLEARNING HOURS    228 (132O;96P)"
     number: "118"
     subject: "PHYS"
     title: "Basic Physics"
@@ -14,6 +14,7 @@
     career: "Distance Studies"
     course_components: 
       Online: "Required"
+    enrollment_requirement: "Exclusions   No more than 6.0 units from PHYS104; PHYS106; PHYS117, PHYS118"
     grading_basis: "Graded"
     units: "6.00"
 

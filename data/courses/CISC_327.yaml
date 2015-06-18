@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisites     CISC203 and CISC204 and CISC220 and CISC223\r\nExclusion     No more than 3.0 units from CISC327; SOFT327"
+    enrollment_requirement: "Prerequisites     CISC220 and CISC223\nExclusion     No more than 3.0 units from CISC327; SOFT327"
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

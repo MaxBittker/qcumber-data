@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Intended for candidates interested in exploring career possibilities in workplace training of employees in business, industry,  government, the armed forces, and non-profit organizations. Such careers might include offering workplace-training courses, managing and evaluating training programs, and training teachers."
+    description: "Teacher candidates will draw on the understandings of practicing teachers who have developed the confidence to question schooling/teaching practices and agendas from a social justice perspective. Additional issues to be considered include: the effects of social class, gender, and race on students' educational experiences. At the centre of this course is the link between theory and practice, what we do and what we think are not separate."
     number: "285B"
     subject: "FOCI"
-    title: "Teaching in Business and Industry"
+    title: "Teaching and Learning Outside of Schools"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -11,9 +11,11 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
+    add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
+    drop_consent: "Department Consent Required"
     enrollment_requirement: "Restricted to BED/DED Program"
     grading_basis: "Graded"
     typically_offered: "Fall, Winter"

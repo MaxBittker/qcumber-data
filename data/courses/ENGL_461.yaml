@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "For detailed information, consult the Department.\nLEARNING HOURS    120 (36S;84P)"
+    description: "For detailed information, consult the Department.\r\nLEARNING HOURS    120 (36S;84P)"
     number: "461"
     subject: "ENGL"
     title: "Topics in Modern/Contemporary British Literature I"
@@ -16,5 +16,6 @@
       Seminar: "Required"
     enrollment_requirement: "Prerequisite      (ENGL200 and ENGL290) and (A GPA of 2.4 on all ENGL units) and (registration in an ENGL Major or Medial Plan).\r\nEXCLUSION    No more than 6.0 units from ENGL361; ENGL362; ENGL461; ENGL462"
     grading_basis: "Graded"
+    typically_offered: "Fall"
     units: "3.00"
 

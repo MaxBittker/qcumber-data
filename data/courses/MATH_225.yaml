@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "First order differential equations, linear differential equations with constant coefficients, and applications, Laplace transforms, systems of linear equations. (42/0/0/0/0)"
+    description: "An introduction to solving ordinary differential equations. Topics include first order differential equations, linear differential equations with constant coefficients, Laplace transforms, and systems of linear equations.\nNOTE    Some knowledge of linear algebra is assumed.\nLEARNING HOURS    120 (36L;12T;72P)"
     number: "225"
     subject: "MATH"
-    title: "Ordinary Differential Equation"
+    title: "Ordinary Differential Equations"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -15,8 +15,8 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Exclusions: MATH226, 231, 232 and MATH237.  Prerequisite of APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program."
+    enrollment_requirement: "Prerequisite      MATH120 or MATH121 or MATH122 or MATH124 or MATH126.\nExclusion      No more than 1 course from MATH225; MATH226; MATH231; MATH232; MATH235; MATH237."
     grading_basis: "Graded"
-    typically_offered: "Fall"
-    units: "3.50"
+    typically_offered: "Fall, Winter, Summer"
+    units: "3.00"
 

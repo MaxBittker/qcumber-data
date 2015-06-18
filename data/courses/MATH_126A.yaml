@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Differentiation and integration of the elementary functions with applications to the social sciences and economics; Taylor polynomials; multivariable differential calculus. \r\nNOTE    Primarily intended for students in the BAH program. Students in the BSCH, BCMPH and BCOM programs should not enrol in this course."
+    description: "Differentiation and integration of the elementary functions with applications to the social sciences and economics; Taylor polynomials; multivariable differential calculus. \nNOTE    Primarily intended for students in the BAH program. Students in the BSCH, BCMPH and BCOM programs should not enrol in this course.\nLEARNING HOURS    240 (72L;24T;144P)"
     number: "126A"
     subject: "MATH"
     title: "Differential and Integral Calculus"

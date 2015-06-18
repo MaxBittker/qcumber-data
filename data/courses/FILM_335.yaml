@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Research and studies in relations of media, technology, and culture. Critical examination of cultural and communication technologies and the employment of technology within selected examples from film, television, and other media."
+    description: "Research and studies in relations of media, technology, and culture. Critical examination of cultural and communication technologies and the employment of technology within selected examples from film, television, and digital media.\r\nNOTE    Also offered online. Consult Continuing and Distance Studies. Learning Hours may vary."
     number: "335"
     subject: "FILM"
     title: "Culture and Technology"
@@ -11,11 +11,10 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    career: "Undergraduate"
+    career: "Distance Studies"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisite     A GPA of 2.6 in FILM and (a grade of B- in FILM110 or FILM104&106) and 6.0 units in FILM."
+    enrollment_requirement: "Prerequisite       (FILM110 or FILM240 or FILM260) and a GPA of 2.60."
     grading_basis: "Graded"
-    typically_offered: "Fall"
     units: "3.00"
 

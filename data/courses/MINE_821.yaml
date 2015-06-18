@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: ""
+    description: "This lecture- and seminar-based course covers the advanced topics about hydrometallurgy and electrometallurgy. The course involves the theory of leaching, solid liquid separation, solvent extraction and ion exchange, chemical precipitation and electrometallurgy. In addition, several process options and flowsheets for the recovery of selected base metals (copper, zinc and nickel)\r\nand gold will be presented. Each student will perform a literature survey, write a report and present on a topic of interest."
     number: "821"
     subject: "MINE"
-    title: "Soft Rock Mining Geotechnology"
+    title: "Hydrometallurgy and electrometallurgy: Theory and practice"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -17,6 +17,6 @@
       Seminar: "Required"
     drop_consent: "Department Consent Required"
     grading_basis: "Graded"
-    typically_offered: "Fall"
+    typically_offered: "Fall, Winter, Summer"
     units: "3.00"
 

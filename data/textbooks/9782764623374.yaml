@@ -1,12 +1,12 @@
 ---
   authors: "André Langevin"
-  classified_info: "0 classified listings"
+  classified_info: "1 classified listing: $0.00"
   courses: 
     - "FRF 160"
   isbn_10: "2764623372"
   isbn_13: "9782764623374"
-  listing_url: "http://www.campusbookstore.com/Textbooks/Course/13833-FRF160-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl08_test_ModeFull"
-  new_available: 6
+  listing_url: "http://www.campusbookstore.com/Textbooks/Course/15333-FRF160-FALL15#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl06_test_ModeFull"
+  new_available: 4
   new_price: "$13.22"
   required: true
   title: "Poussière sur la ville"

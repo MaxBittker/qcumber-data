@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An introduction to the major issues in the study of international political economy, including transnationalism, integration, globalization, and underdevelopment."
+    description: "An introduction to the major issues in the study of international political economy, including transnationalism, integration, globalization, and underdevelopment.\nLEARNING HOURS    118 (24L;10T;84P)"
     number: "262"
     subject: "POLS"
     title: "International Political Economy"
@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Prerequisite    POLS110.\r\nExclusion    No more than 3.0 from DEVS230; POLS262"
+    enrollment_requirement: "Prerequisite    POLS110."
     grading_basis: "Graded"
     units: "3.00"
 

@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Introduction to basic film and video production techniques, including camera, lighting, sound recording, and editing. Assignments, on videotape, include exercises in groups and projects organized by individual students.\nNOTE   Production supplies $100. Priority will be given to students with the highest overall GPA on FILM courses, including those at the 100-level.\nLEARNING HOURS    216 (48L;24Lb;24O;120P)"
+    description: "This course provides a grounding in basic media production concepts and techniques, including scripting, directing, camerawork, sound, and post production. It is structured around a series of short production exercises, completed by small groups of students. Each student will produce or direct a short media project in the Winter Term.\nNOTE    Production supplies $100. Priority will be given to students with the highest overall GPA on FILM courses, including those at the 100-level.\nLEARNING HOURS    216 (36L;36Lb;24Oc;120P)"
     number: "250B"
     subject: "FILM"
-    title: "Fundamentals of Production"
+    title: "Fundamentals of Media Production"
   extra: 
     CEAB: 
       Basic Sci: 0

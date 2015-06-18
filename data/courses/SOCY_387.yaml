@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Critical study of conceptual, empirical, and theoretical bases to sociological approaches to crime and delinquency; Canadian research emphasized."
+    description: "Critical study of conceptual, empirical, and theoretical bases to sociological approaches to crime and delinquency; Canadian research emphasized.\nLEARNING HOURS    120 (36L;84P)"
     number: "387"
     subject: "SOCY"
     title: "Sociology of Crime and Delinquency"
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "PREREQUISITE  SOCY274 or (SOCY275 and SOCY276)"
+    enrollment_requirement: "Prerequisite   SOCY274 or SOCY275."
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

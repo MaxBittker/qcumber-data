@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "The principal objective of this course is to develop the ability to visualize and communicate three dimensional shapes. Standard engineering methods are covered."
+    description: "The principal objectives of the course are (1) to develop the student's ability to visualize and communicate three-dimensional shapes and (2) to acquire the skills needed to use computer-aided design software. Topics covered are orthographic projection, isometric sketching, auxiliary and section views as well as dimensioning and working drawings.  Computer-aided design software is used to create solid models of the parts and assemblies as well as to generate dimensioned drawings.  Students apply their learning in a project where they design their own version of a consumer product. Students learn by hands-on exercises in free-hand sketching and computer-based drawing."
     number: "161"
     subject: "APSC"
     title: "Engineering Graphics"

@@ -11,10 +11,11 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    career: "Distance Studies"
+    career: "Undergraduate"
     course_components: 
-      Seminar: "Required"
+      Online: "Required"
     enrollment_requirement: "One-way exclusion    May not be taken with or after: FREN P10; FREN P11; FREN P12; FREN 100; 101; 102; 110 118; 219; 320."
     grading_basis: "Graded"
+    typically_offered: "Fall"
     units: "3.00"
 

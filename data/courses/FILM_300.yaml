@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Intermediate study in an area of classical Hollywood cinema, through a selection of representative films. Examines industrial systems of production, distribution, and exhibition in the United States, the art of popular cinema, and relations to social setting.\nLEARNING HOURS    108 (36L;24Lb;48P)"
+    description: "This course examines Classical Hollywood Cinema from the early 1940s until its demise at the end of the 1950s.\r\nNOTE    Also offered online. Consult Continuing and Distance Studies. Learning Hours may vary.\r\nLEARNING HOURS    108 (36L;24Lb;48P)"
     number: "300"
     subject: "FILM"
     title: "Hollywood: The Dream Factory"
@@ -11,12 +11,11 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    career: "Undergraduate"
+    career: "Distance Studies"
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
     enrollment_requirement: "Prerequisite    [(FILM110 or FILM104 and FILM106) or FILM240 or FILM260) and a GPA of 2.60"
     grading_basis: "Graded"
-    typically_offered: "Fall"
     units: "3.00"
 

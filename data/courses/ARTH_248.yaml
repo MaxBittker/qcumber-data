@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: ""
+    description: "An introduction to the arts and visual culture of the indigenous peoples of North America from north of the Rio Grande to the Arctic, encompassing pre-history, colonialism, and the modern period. Key works from six regional zones are studied in their historical and cultural contexts.\nLEARNING HOURS    120 (36L;84P)"
     number: "248"
     subject: "ARTH"
     title: "Introduction to Indigenous Arts of North America"
@@ -14,6 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above."
     grading_basis: "Graded"
     units: "3.00"
 

@@ -17,7 +17,7 @@
       Laboratory: "Required"
       Lecture: "Required"
     drop_consent: "Department Consent Required"
-    enrollment_requirement: "(NURS305 AND NURS340) OR (NURS305 AND NURS345) OR (NURS305 AND NURS315) OR (NURS305 AND NURS316) OR (NURS305 AND NURS323) OR (NURS305 AND NURS325) OR (NURS305 AND NURS324) OR (NURS303 AND NURS407) OR (NURS303 AND NURS408) OR (NURS303 AND NURS409)"
+    enrollment_requirement: "level 4"
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

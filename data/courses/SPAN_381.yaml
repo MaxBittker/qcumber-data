@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "A survey of the major authors and works of literature of Spain from the Enlightenment to the present. Readings will include texts from all genres and will illustrate the main cultural and historical trends and movements."
+    description: "An introduction to the major authors and works of the literature of Spain from the Enlightenment to the present. Through study and analysis students will obtain a general understanding of the main cultural and historical and societal trends and movements during these eras."
     number: "381"
     subject: "SPAN"
-    title: "Panorama literario de España II"
+    title: "Introducción: Literatura de España II"
   extra: 
     CEAB: 
       Basic Sci: 0

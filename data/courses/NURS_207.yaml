@@ -17,7 +17,7 @@
       Clinical: "Required"
       Laboratory: "Required"
     drop_consent: "Department Consent Required"
-    enrollment_requirement: "(NURS205 AND NURS206)"
+    enrollment_requirement: "(NURS 202, NURS205, NURS206 AND PHGY 350)"
     grading_basis: "Pass/Fail"
     typically_offered: "Winter"
     units: "3.00"

@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Study of Greek history in the century following the end of the Peloponnesian War in 404 BCE. Topics may include the crisis and renewal of the Greek polis; the Spartan hegemony, the rise of Thebes, the Second Athenian League, and the failure of hegemonic policies; the end of the Achaemenid Empire; the rise of Macedon; and the campaigns of Alexander.\nLEARNING HOURS    126 (36L;90P)"
+    number: "334"
+    subject: "CLST"
+    title: "Fourth Century Greece to the Death of Alexander"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite      CLST200 or permission of the Dept.\nExclusion     No  more than 3.0 units from CLST331; CLST334"
+    grading_basis: "Graded"
+    units: "3.00"
+

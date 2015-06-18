@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "This course examines several environmental topics, and the relevant background chemistry. The chemistry includes black body radiation, the second law of thermodynamics, Gibbs energy and equilibrium, fuels, acid-base chemistry, and gas phase kinetics. Environmental topics include ozone depletion, acid rain, air quality, global warming and the environmental impact of various energy conversion processes."
+    description: "This course combines fundamentals of chemistry with the engineering issues associated with them.  Areas of study are entropy and the second law of thermodynamics, thermodynamics, chemical equilibrium, electrochemistry, chemical kinetics and organic chemistry.  Environmental issues associated with each of these topics will be incorporated into lectures when appropriate."
     number: "132"
     subject: "APSC"
-    title: "Chemistry And The Environment"
+    title: "Chemistry and its Applications"
   extra: 
     CEAB: 
       Basic Sci: 31

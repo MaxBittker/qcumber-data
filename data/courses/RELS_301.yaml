@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "A topic of current interest in Religious Studies not covered in other available courses.\nLEARNING HOURS    132 (36L;96P)"
+    description: "A topic of current interest in Religious Studies not covered in other available courses.\r\nLEARNING HOURS    132 (36L;96P)"
     number: "301"
     subject: "RELS"
-    title: "Current Topics Religious Studies I"
+    title: "Themes in Religious Studies"
   extra: 
     CEAB: 
       Basic Sci: 0

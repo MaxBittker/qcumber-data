@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "This course examines disability and physical activity across a range of settings from recreation to competitive sport. Topics to be covered will include: accessibility; disability sport; inclusive physical activity opportunities; and fitness and training for persons with disabilities."
+    description: "This course examines disability and physical activity across a range of settings from recreation to competitive sport. Topics to be covered will include: accessibility; disability sport; inclusive physical activity opportunities; and fitness and training for persons with disabilities.\nLEARNING HOURS    108 (30L;6G;12O;60P)"
     number: "333"
     subject: "KNPE"
     title: "Physical Activity for Persons with Disabilities"
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisite    Level 3 or above and [(reg in a PHED or KINE Plan and KNPE237 or PPHE237) or (registration in a HLTH Major or Medial Plan and KNPE336 or KNPE436)]."
+    enrollment_requirement: "Prerequisite    Level 3 or above in a PHED, KINE or HLTH Major or Medial Plan and (KNPE237 or KNPE336 or KNPE436)."
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

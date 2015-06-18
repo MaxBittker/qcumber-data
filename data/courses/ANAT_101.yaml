@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "A basic anatomy course with an emphasis on clinical relevance of structure and function of human body systems. \r\nNOTE    Laboratory consumables: estimated cost $40.\r\nRECOMMENDATION    4U Biology."
+    description: "A basic anatomy course with an emphasis on clinical relevance of structure and function of human body systems. \nRECOMMENDATION    4U Biology."
     number: "101"
     subject: "ANAT"
     title: "Introductory Human Anatomy"

@@ -16,7 +16,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Prerequisite     BIOL243 or STAT269"
+    enrollment_requirement: "Prerequisite     BIOL243 or PSYC202 or STAT269"
     grading_basis: "Graded"
     units: "3.00"
 

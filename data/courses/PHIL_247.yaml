@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "This course will subject a range of issues in practical ethics to philosophical scrutiny.  Topics may include obligations to future generations, the ethics of war and self-defence, whether torture is ever permissible, the ethics of deception, the morality of genetic enhancement, the nature of exploitation, and moral objections to organ sales."
+    description: "This course will subject a range of issues in practical ethics to philosophical scrutiny.  Topics may include obligations to future generations, the ethics of war and self-defence, whether torture is ever permissible, the ethics of deception, the morality of genetic enhancement, the nature of exploitation, and moral objections to organ sales.\nLEARNING HOURS    120 (36L;84P)"
     number: "247"
     subject: "PHIL"
     title: "Practical Ethics"
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisite     6.0 units from PHIL at the 100 level"
+    enrollment_requirement: "Prerequisite     Completed 30.0 or more units"
     grading_basis: "Graded"
     units: "3.00"
 

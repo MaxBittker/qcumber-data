@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
       Seminar: "Required"
-    enrollment_requirement: "Exclusion    No more than 3.0 units from BISC100;GPHY101;FILM106"
+    enrollment_requirement: "Exclusion    No more than 3.0 units from BISC100;FILM106"
     grading_basis: "Graded"
     units: "3.00"
 

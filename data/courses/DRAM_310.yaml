@@ -14,7 +14,7 @@
     add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
-      Lecture: "Required"
+      Seminar: "Required"
     drop_consent: "Department Consent Required"
     enrollment_requirement: "Prerequisite    Level 3 and (registration in a DRAM major or medial Plan, or COCA-CODR Sub-plan or STSC Specialization Plan) and (a GPA of 2.60 in DRAM) or permission of the Department.\r\nExclusion    No more than 6.0 units from DRAM300; DRAM310; DRAM318"
     grading_basis: "Graded"

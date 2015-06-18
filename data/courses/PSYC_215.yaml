@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "The course introduces sensory information processing and perception as well as methods used to study the relationship between the physical energy that is sensed (eg light and sound) and the subjective experience of objects and events. Mechanisms underlying perception of touch, body position, taste, smell, hearing, and vision are covered."
+    description: "The course introduces sensory information processing and perception as well as methods used to study the relationship between the physical energy that is sensed (eg light and sound) and the subjective experience of objects and events. Mechanisms underlying perception of touch, body position, taste, smell, hearing, and vision are covered.\r\nLEARNING HOURS    120 (36L;9T;75P)"
     number: "215"
     subject: "PSYC"
     title: "Sensation and Perception"
@@ -14,6 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
+      Tutorial: "Required"
     enrollment_requirement: "PREREQUISITE    PSYC100"
     grading_basis: "Graded"
     typically_offered: "Fall, Winter"

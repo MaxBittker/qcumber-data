@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Laboratory and lecture course that presents techniques and skills that are the foundations of experimental physics. Topics include statistical analysis of data, uncertainties in measurement, propagation of errors, software for data analysis, graphing and reporting. Students will be exposed to techniques in the measurement of electric, magnetic, thermal and mechanical properties. Laboratories also illustrate some principles of quantum physics, mechanics, electromagnetism and thermodynamics learned in other physics courses. Some exposure to computerized data acquisition is included."
+    description: "Laboratory and lecture course that presents techniques and skills that are the foundations of experimental physics. Topics include statistical analysis of data, uncertainties in measurement, propagation of errors, software for data analysis, graphing and reporting. Students will be exposed to techniques in the measurement of electric, magnetic, thermal and mechanical properties. Laboratories also illustrate some principles of quantum physics, mechanics, electromagnetism and thermodynamics learned in other physics courses. Some exposure to computerized data acquisition is included.\nLEARNING HOURS    132 (24L;36Lb;72P)"
     number: "250"
     subject: "PHYS"
     title: "Foundations of Experimental Physics"

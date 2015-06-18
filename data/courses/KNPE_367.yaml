@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "This course looks at the ways that notions of fitness are tied to historically specific ideas about the body. The course focuses on ideas about race, class, gender, ability and sexuality while addressing the politics of fitness and exercise and their relationship to social, economic, and cultural institutions.\nLEARNING HOURS    120 (36L;84P)"
+    description: "This course looks at the ways that notions of fitness are tied to historically specific ideas about the body. The course focuses on ideas about race, class, gender, ability and sexuality while addressing the politics of fitness and exercise and their relationship to social, economic, and cultural institutions.\nLEARNING HOURS    126 (36L;6Lb;84P)"
     number: "367"
     subject: "KNPE"
     title: "Fitness, the Body and Culture"
@@ -14,7 +14,8 @@
     add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
-      Lecture / Seminar: "Required"
+      Laboratory: "Required"
+      Lecture: "Required"
     enrollment_requirement: "Prerequisites    KNPE167 or (SOCY226 and SOCY227) or SOCY221"
     grading_basis: "Graded"
     typically_offered: "Winter"

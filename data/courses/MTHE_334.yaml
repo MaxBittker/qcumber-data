@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Orthonormal families, Fourier series and convergence. Signal spaces, Fourier transforms, and generalized functions. Solution of boundary value problems, including heat, wave, and potential equations. Applications to mechanical, electrical, and thermal systems."
+    description: "Banach and Hilbert spaces of continuous- and discrete-time signals; spaces of continuous and not necessarily continuous signals; continuous-discrete Fourier transform; continuous-continuous Fourier transform; discrete-continuous Fourier transform; discrete-discrete Fourier transform; transform inversion using Fourier series and Fourier  integrals."
     number: "334"
     subject: "MTHE"
     title: "Math Methods For Engrg & Phys"

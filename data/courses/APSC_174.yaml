@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Vectors, dot and cross products, lines and planes, projections. Vectors in n-space. Systems of Linear equations. Matrix algebra and linear transformations, inverses. Spaces and subspaces. Linear independence, basis and coordinates, dimension, rank. Determinants, Cramer's Rule. Eigenvectors, eigenvalues and diagonalization with applications. Orthonormal bases and symmetric matrices."
+    description: "Systems of linear equations; real vectors spaces and subspaces; linear combinations and linear spans; linear dependence and linear independence; applications to systems of linear equations and their solution via Gaussian elimination; bases and dimension of real vector spaces; linear transformations, range, kernel and Rank-Nullity theorem; matrix representation of a linear transformation; composition of linear transformations and matrix multiplication; invertible matrices and determinants; eigenvalues and eigenvectors of square matrices. Applications of the course material to engineering systems are illustrated."
     number: "174"
     subject: "APSC"
     title: "Introduction To Linear Algebra"

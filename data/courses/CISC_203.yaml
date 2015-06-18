@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Introduction to mathematical discourse and proof methods. Sets, functions, sequences, and relations. Properties of the integers. Introduction to graph theory. Introduction to combinatorics.\nLEARNING HOURS    120 (36L;84P)"
+    description: "Proof methods. Combinatorics: permutations and combinations, discrete probability, recurrence relations. Graphs and trees. Boolean and abstract algebra.\nLEARNING HOURS    120 (36L;84P)"
     number: "203"
     subject: "CISC"
-    title: "Discrete Mathematics for Computing Science"
+    title: "Discrete Mathematics for Computing II"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisite     CISC121"
+    enrollment_requirement: "Prerequisite     CISC121 and (CISC102 or MATH110)."
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

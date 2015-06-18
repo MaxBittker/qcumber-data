@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "This course provides instruction in method and procedure in linguistic fieldwork. The course investigates the syntax, morphology and phonology of a language unfamiliar to the participants. The instruction is structured around weekly fieldwork sessions dedicated to data collection working with a native speaker of the language, and weekly workshops devoted to analysis. The course contains an intensive independent study component."
+    description: "This course provides instruction in method and procedure in linguistic fieldwork. The course investigates the syntax, morphology and phonology of a language unfamiliar to the participants. The instruction is structured around weekly fieldwork sessions dedicated to data collection working with a native speaker of the language, and weekly workshops devoted to analysis. The course contains an intensive independent study component.\nLEARNING HOURS    210 (18S;18Lb;6T;168P)"
     number: "475"
     subject: "LING"
     title: "Field Methods in Linguistics"
@@ -18,5 +18,5 @@
     enrollment_requirement: "Prerequisite    6.0 units at the 300 level in LING, or permission of the Department of Languages, Literatures and Cultures.\r\nExclusion    No more than 1 course from LING425; LING475."
     grading_basis: "Graded"
     typically_offered: "Fall"
-    units: "9.00"
+    units: "6.00"
 

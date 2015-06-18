@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Intensive laboratory work (8h/day) to be carried out over two and a half weeks in May. Practical work includes DNA isolations, DNA cloning, PCR, production of proteins, biochemical and immunological analysis of proteins.\r\nNOTE    Lab Expenses: estimated cost $250. Priority to students registered in BIOL  Major and Specialization degree plans. See course website for details."
+    description: "Intensive laboratory work (8h/day) to be carried out over two and a half weeks in May. Practical work includes DNA isolations, DNA cloning, PCR, production of proteins, biochemical and immunological analysis of proteins.\nNOTE    Priority to students registered in BIOL  Major and Specialization degree plans. See course website for details."
     number: "404"
     subject: "BIOL"
     title: "Techniques in Molecular Biology"
@@ -14,7 +14,8 @@
     add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
-      Lecture: "Required"
+      Laboratory: "Required"
+      Tutorial: "Required"
     drop_consent: "Department Consent Required"
     enrollment_requirement: "Prerequisite    BCHM218 or MBIO218 or BIOL330."
     grading_basis: "Graded"

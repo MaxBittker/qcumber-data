@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisites     (MATH110 or MATH111) and (MATH121 or MATH126 or MATH120)."
+    enrollment_requirement: "Prerequisites     (MATH110 or MATH111 or MATH212) and (MATH121 or MATH126 or MATH120)."
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

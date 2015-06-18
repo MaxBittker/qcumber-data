@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "A theoretical and practical introduction to theatrical production including stage management; various elements of scenery design and construction; costume and properties; lighting and sound systems and equipment. Seventy-two additional laboratory hours required on department productions."
+    description: "A theoretical and practical introduction to theatrical production including stage management; various elements of scenery design and construction; costume and properties; lighting and sound systems and equipment. Seventy-two additional laboratory hours required on department productions.\nLEARNING HOURS    120 (18S;18Pc;84P)"
     number: "240"
     subject: "DRAM"
     title: "Introduction To Theatre Space"
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Laboratory: "Required"
-      Practicum: "Required"
+      Seminar: "Required"
     enrollment_requirement: "Prerequisite    A grade of B- in 6.0 units from (DRAM100; DRAM181; BISC100; BISC101) or permission of the Department.\r\nCorequisite    DRAM200.\r\nExclusion     No more than 6.0 units from DRAM240; DRAM242; DRAM245"
     grading_basis: "Graded"
     typically_offered: "Fall, Winter"

@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An introduction to the study of music in culture, based on world music traditions. The course focuses on a selection of Native North American, African, European, Eastern and Middle Eastern, as well as other musical contexts.\nLEARNING HOURS    112 (36L;24O;52P)"
+    description: "An introduction to the study of music in culture, based on world music traditions. The course focuses on a selection of Native North American, African, European, Eastern and Middle Eastern, as well as other musical contexts.\nNOTE    Also offered online. Consult Continuing and Distance Studies. Learning Hours may vary.\nLEARNING HOURS    112 (36L;24O;52P)"
     number: "289"
     subject: "MUSC"
     title: "World Musics"
@@ -11,10 +11,9 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    career: "Undergraduate"
+    career: "Distance Studies"
     course_components: 
       Lecture: "Required"
     grading_basis: "Graded"
-    typically_offered: "Fall"
     units: "3.00"
 

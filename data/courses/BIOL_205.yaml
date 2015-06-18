@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An introduction to Mendelian and molecular genetics covering the basic mechanisms of genetic transmission, gene structure and function, as well as the application of molecular genetics in medicine and biotechnology. \nNOTE    Lab Manual: estimated cost $15.\nLEARNING HOURS    120 (36L;36Lb;12O;36P)"
+    description: "An introduction to Mendelian and molecular genetics covering the basic mechanisms of genetic transmission, gene structure and function, as well as the application of molecular genetics in medicine and biotechnology. \nLEARNING HOURS    120 (36L;36Lb;12O;36P)"
     number: "205"
     subject: "BIOL"
     title: "Mendelian and Molecular Genetics"
@@ -15,6 +15,7 @@
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
+      Tutorial: "Required"
     enrollment_requirement: "Prerequisite    A GPA of 1.90 in BIOL102 and BIOL103."
     grading_basis: "Graded"
     typically_offered: "Fall"

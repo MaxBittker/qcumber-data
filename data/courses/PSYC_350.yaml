@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: ""
+    description: "Lecture courses on selected topics in the area of developmental psychology offered periodically.\nLEARNING HOURS    120 (36L;84P)"
     number: "350"
     subject: "PSYC"
-    title: "Child & Adol. Psychopathology"
+    title: "Selected Topics in Developmental Psychology"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -14,8 +14,8 @@
     career: "Undergraduate"
     course_components: 
       Lecture / Seminar: "Required"
-    enrollment_requirement: "(PSYC201 AND PSYC250) OR (PSYC201 AND PSYC235) OR (PSYC203 AND PSYC235) OR (PSYC203 AND PSYC250) OR (PSYC200 AND PSYC250) OR (PSYC200 AND PSYC235)"
+    enrollment_requirement: "Prerequisite       PSYC203 and PSYC251\nExclusion    No more than 1 course from PSYC350; PSYC457"
     grading_basis: "Graded"
-    typically_offered: "Fall"
+    typically_offered: "Fall, Winter, Summer"
     units: "3.00"
 

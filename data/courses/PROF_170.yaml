@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "The purpose of the School and Classroom Leadership course is to provide a platform to examine current initiatives to support the learning and achievement of all students."
+    description: "The purpose of the School and Classroom Leadership course is to provide a platform to examine current initiatives to support the learning and achievement of all students.(e.g. financial literacy)"
     number: "170"
     subject: "PROF"
     title: "School and Classroom Leadership: In Pursuit of School Effectiveness"
@@ -17,5 +17,5 @@
       Seminar: "Required"
     drop_consent: "Department Consent Required"
     grading_basis: "Pass/Fail"
-    units: "0.00"
+    units: "3.00"
 

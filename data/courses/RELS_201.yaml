@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "A topic of current interest in Religious Studies not covered in other available courses.\r\nLEARNING HOURS    120 (36L;84P)"
+    number: "201"
+    subject: "RELS"
+    title: "Topics in Religious Studies l"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE  Level 2 or above or 6.0 units at the 100 level in RELS"
+    grading_basis: "Graded"
+    units: "3.00"
+

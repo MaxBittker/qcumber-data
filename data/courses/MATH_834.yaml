@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Problems of maximization and minimization of functions of many variables when the variables are restricted by inequality constraints, with applications to resource allocation, technology, estimation theory, etc.; convex sets and their properties, convex functions; Lagrange multipliers and the Kuhn-Tucker theorem. (Offered jointly with MATH-434*.) Three term-hours, fall; lectures."
+    description: "Theory of convex sets and functions; separation theorems; primal-dual properties; geometric treatment of optimization problems; algorithmic procedures for solving constrained optimization programs; engineering and economics applications. (Offered jointly with MATH-434)."
     number: "834"
     subject: "MATH"
-    title: "Linear and Nonlinear Optimization"
+    title: "Optimization Theory and Applications"
   extra: 
     CEAB: 
       Basic Sci: 0

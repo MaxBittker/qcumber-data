@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "A quantitative treatment of chemical phenomena and materials. Critical thinking and problem solving are emphasized. Topics include structure and molecular bonding, gases and condensed phases, and thermodynamics.\nNOTE    Offered only as a distance course. Consult Continuing and Distance Studies.\nNOTE    Not normally intended for on-campus degree plans and certificates.\nNOTE    Not appropriate for pre and upper level courses that have a laboratory component.\nLEARNING HOURS    123 (51O;72P)"
+    description: "A quantitative treatment of chemical phenomena and materials. Critical thinking and problem solving are emphasized. Topics include atomic structure and molecular bonding, organic chemistry, polymers, proteins, and condensed phases.\nNOTE    Offered only as a distance course. Consult Continuing and Distance Studies.\nNOTE    Not normally intended for on-campus degree plans and certificates.\nNOTE    Not appropriate for pre and upper level courses that have a laboratory component.\nLEARNING HOURS    126 (54O;72P)"
     number: "113"
     subject: "CHEM"
-    title: "General Chemistry I"
+    title: "General Chemistry I: From Atoms to Matter"
   extra: 
     CEAB: 
       Basic Sci: 0

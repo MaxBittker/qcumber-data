@@ -17,7 +17,7 @@
       Clinical: "Required"
       Laboratory: "Required"
     drop_consent: "Department Consent Required"
-    enrollment_requirement: "(NURS101 AND IDIS150) OR (NURS101 AND NURS100) OR (NURS101 AND NURS102) OR (NURS101 AND PHIL1###) OR (NURS101 AND BCHM102) OR (NURS101 AND MICR121) OR (NURS101 AND PSYC100)"
+    enrollment_requirement: "level 2 or higher"
     grading_basis: "Pass/Fail"
     typically_offered: "Fall"
     units: "3.00"

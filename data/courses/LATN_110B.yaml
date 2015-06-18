@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Fundamentals of grammar, syntax and etymology for students with no or little knowledge of Latin; provides sufficient background to read Latin prose and poetry.\r\nNOTE    Normally not open to students with 4U Latin."
+    description: "Fundamentals of grammar, syntax and etymology for students with no or little knowledge of Latin; provides sufficient background to read Latin prose and poetry.\nNOTE    Normally not open to students with 4U Latin.\nLEARNING HOURS   276 (72L;24T;180P)"
     number: "110B"
     subject: "LATN"
     title: "Introductory Latin"
@@ -14,6 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
+      Tutorial: "Required"
     grading_basis: "Graded"
     typically_offered: "Fall, Winter"
     units: "6.00"

@@ -14,7 +14,7 @@
     add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
-      Lecture: "Required"
+      Seminar: "Required"
     drop_consent: "Department Consent Required"
     enrollment_requirement: "Prerequisite    A grade of B- in DRAM240 or permission of the Department.\r\nCorequisite    DRAM200.\r\nExclusion    No more than 6.0 units from DRAM240; DRAM242; DRAM245"
     grading_basis: "Graded"

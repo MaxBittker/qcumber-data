@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Reading courses to be arranged in consultation with individual members of the Department.\r\nNOTE    Students are limited to a maximum of two of PSYC 550/3.0, PSYC 555/3.0, PSYC 560/3.0, PSYC 570/3.0, or PSYC 575/3.0 Students are also limited to a maximum of two 500-level courses supervised by the same faculty member. (Students registered in PSYC 501/9.0 concurrently will not normally take one of these courses with their thesis supervisor.)"
+    description: "Reading courses to be arranged in consultation with individual members of the Department.\nNOTE    Students are limited to a maximum of two of PSYC 550/3.0, PSYC 555/3.0, PSYC 560/3.0, PSYC 570/3.0, or PSYC 575/3.0 Students are also limited to a maximum of two 500-level courses supervised by the same faculty member. (Students registered in PSYC 501/9.0 concurrently will not normally take one of these courses with their thesis supervisor.)\nLEARNING HOURS    117 (20G;13I;84P)"
     number: "550"
     subject: "PSYC"
     title: "Directed Special Reading I"

@@ -15,6 +15,7 @@
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
+      Tutorial: "Required"
     enrollment_requirement: "Prerequisite    PHYS239."
     grading_basis: "Graded"
     typically_offered: "Fall"

@@ -17,6 +17,7 @@
       Clinical: "Required"
       Seminar: "Required"
     drop_consent: "Department Consent Required"
+    enrollment_requirement: "level 4"
     grading_basis: "Pass/Fail"
     typically_offered: "Fall"
     units: "6.00"

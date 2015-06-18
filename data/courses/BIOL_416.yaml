@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Principles of terrestrial ecosystem ecology: soils; plant-soil interactions; energy and water balance; carbon and nutrient cycling; species effects; landscape-level and whole earth biogeochemistry; global change.  \r\nNOTE    Overnight field trip: cost $50."
+    description: "Principles of terrestrial ecosystem ecology: soils; plant-soil interactions; energy and water balance; carbon and nutrient cycling; species effects; landscape-level and whole earth biogeochemistry; global change.  \nNOTE    Overnight field trip: cost $50.\nLEARNING HOURS   124 (12L,24S;18Lb;12Pc;12G;12O;16Oc;18P)"
     number: "416"
     subject: "BIOL"
     title: "Terrestrial Ecosystems"
@@ -14,8 +14,8 @@
     career: "Undergraduate"
     course_components: 
       Laboratory: "Required"
-      Lecture: "Required"
-    enrollment_requirement: "Prerequisite     BIOL303 or GPHY317.\r\nOne-Way exclusion    May not be taken with or after BIOL510."
+      Lecture / Seminar: "Required"
+    enrollment_requirement: "Prerequisite     BIOL302 or BIOL303 or GPHY317.\nOne-Way exclusion    May not be taken with or after BIOL510."
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

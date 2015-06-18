@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "More integration techniques; numerical integration, improper integrals. Curves, speed, velocity. Functions of several variables, partial derivatives, differentials, error estimates, gradient, maxima and minima. Sequences, series, power series; Taylor polynomial approximations. Double and triple integrals, polar and cylindrical coordinates; applications to mass, center of mass, moment, etc."
+    description: "This course continues calculus concepts from APSC-171, including space curves, speed, velocity. Functions of several variables, partial derivatives, differentials, error estimates, gradient, maxima and minima. Double and triple integrals, polar and cylindrical coordinates; applications to mass, center of mass, moment. Series, power series; Taylor polynomial approximations, error analysis."
     number: "172"
     subject: "APSC"
     title: "Calculus II"

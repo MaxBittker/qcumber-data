@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Intermediate critical and historical study in the avant-garde of the international cinema, based on selected examples principally from Europe, the United States and Canada."
+    description: "Intermediate critical and historical study in the avant-garde of the international cinema, based on selected examples principally from Europe, the United States and Canada.\nLEARNING HOURS  108 (36L;24Lb;48P)"
     number: "370"
     subject: "FILM"
     title: "The Experimental Tradition"
@@ -13,6 +13,7 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
+      Laboratory: "Required"
       Lecture: "Required"
     enrollment_requirement: "Prerequisite    A GPA of 2.6 in FILM and (a grade of B- in FILM110 (or 104&106) and 6.0 units in FILM.\nEXCLUSION    No more than 1 course from: FILM 370; FILM 375"
     grading_basis: "Graded"

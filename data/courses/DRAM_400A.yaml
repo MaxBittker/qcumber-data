@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "A practicum course amalgamating a variety of aspects of theatre and drama.\nLEARNING HOURS    384 (144G;240P)"
+    description: "A practicum course amalgamating a variety of aspects of theatre and drama.\r\nLEARNING HOURS    384 (144G;240P)"
     number: "400A"
     subject: "DRAM"
     title: "Applied Theatre"
@@ -14,6 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Practicum: "Required"
+      Seminar: "Required"
     enrollment_requirement: "Prerequisite    A grade of B- in DRAM300 and (a GPA of 2.60 in DRAM) and registered in a DRAM Major Plan) or permission of the Department."
     grading_basis: "Graded"
     units: "0.00"

@@ -15,6 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
+    enrollment_requirement: "Exclusion  No more than 9.0 units from ARTH116/3.0; ARTH117/3.0; ARTH120"
     grading_basis: "Graded"
     units: "0.00"
 

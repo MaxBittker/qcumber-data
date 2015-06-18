@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Laboratory-based course emphasizing experimental approaches to understanding the principles of animal physiology covered in BIOL 339/3.0."
+    description: "Laboratory-based course emphasizing experimental approaches to understanding the principles of animal physiology covered in BIOL 339/3.0.\nLEARNING HOURS   108 (36Lb;12T;60P)"
     number: "401"
     subject: "BIOL"
     title: "Experimental Approaches to Animal Physiology"
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Laboratory: "Required"
-      Lecture: "Required"
+      Tutorial: "Required"
     enrollment_requirement: "Corequisite     BIOL339."
     grading_basis: "Graded"
     typically_offered: "Winter"

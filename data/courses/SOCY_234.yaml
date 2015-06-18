@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "This course will help students develop critical perspectives towards technology in general and engineering practices in particular. It is cross-disciplinary in its approach, drawing materials from mainstream 'applied' sciences, as well as from critical approaches associated with 'social' sciences, such as feminism, anti-racism, anarchism, marxism, and radical ecology."
+    description: "This course will help students develop critical perspectives towards technology in general and engineering practices in particular. It is cross-disciplinary in its approach, drawing materials from mainstream 'applied' sciences, as well as from critical approaches associated with 'social' sciences, such as feminism, anti-racism, anarchism, marxism, and radical ecology.\nLEARNING HOURS 120 (36L;84P)"
     number: "234"
     subject: "SOCY"
     title: "Engineering and Social Justice: Critical Theories of Technological Practices"
@@ -13,7 +13,7 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Seminar: "Required"
+      Lecture: "Required"
     enrollment_requirement: "PREREQUISITE    Level 2 or above.\r\nEXCLUSION    No more than 3.0 units from SOCY 234/3.0; MDEP 221/3.0."
     grading_basis: "Graded"
     typically_offered: "Fall"

@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: ""
+    description: "LEARNING HOURS    120 (9L;9S;18G;84P)"
     number: "534"
     subject: "BIOL"
     title: "Selected Topics In Biology III"
@@ -14,7 +14,7 @@
     add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
-      Seminar: "Required"
+      Lecture / Seminar: "Required"
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Students in this course will accumulate experience in data analysis and model building. Students will work with various data sets and gain insight into the use of the structural equation model with specific applications in regression, factor analysis, canonical correlation, discriminant analysis, simultaneous equation systems, analysis of covariance, and multivariate analysis of variance. Other multivariate procedures will be reviewed as time permits."
+    description: "The goal of this course is to examine management research that investigates the impact of organizations on social issues and social change. Drawing on current developments in strategy and organization theory, the course will cover topics including: social entrepreneurship, social intrapreneurship, measuring social impact, nonprofit organizations, social enterprises and new organizational forms for social impact, scaling and diffusion of social innovations, business and poverty alleviation, corporate philanthropy, among others. (1.5 credit units)"
     number: "904"
     subject: "MGMT"
-    title: "Statistical Research Methodology"
+    title: "Strategies for Social Impact"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -17,5 +17,5 @@
       Seminar: "Required"
     grading_basis: "Graded"
     typically_offered: "Winter"
-    units: "3.00"
+    units: "1.50"
 

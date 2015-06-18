@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: ""
+    description: "LEARNING HOURS  120 (15L;9S;24G;72P)"
     number: "503"
     subject: "BIOL"
     title: "Plant Biotechnology"
@@ -14,7 +14,7 @@
     add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
-      Seminar: "Required"
+      Lecture / Seminar: "Required"
     enrollment_requirement: "Prerequisites     BIOL205 and BIOL341."
     grading_basis: "Graded"
     typically_offered: "Fall"

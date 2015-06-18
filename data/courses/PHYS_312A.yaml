@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Methods of mathematics important for physicists. Function of a complex variable, contour integration, partial differential equations, orthogonal functions, Green functions, Fourier series, Fourier and Laplace transforms, finite difference methods, numerical solution of ordinary and partial differential equations."
+    description: "Methods of mathematics important for physicists. Function of a complex variable, contour integration, partial differential equations, orthogonal functions, Green functions, Fourier series, Fourier and Laplace transforms, finite difference methods, numerical solution of ordinary and partial differential equations.\nLEARNING HOURS    240 (72L;24T;144P)"
     number: "312A"
     subject: "PHYS"
     title: "Mathematical Methods in Physics"

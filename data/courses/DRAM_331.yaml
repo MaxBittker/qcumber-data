@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An introduction to playing Shakespeare. Ways of breathing life into the text thereby communicating a character's thoughts, wants and emotional state to an audience will be explored."
+    description: "An introduction to playing Shakespeare. Ways of breathing life into the text thereby communicating a character's thoughts, wants and emotional state to an audience will be explored.\nLEARNING HOURS    120 (36Pc;18G;66P)"
     number: "331"
     subject: "DRAM"
     title: "Playing Shakespeare"
@@ -13,8 +13,8 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Laboratory: "Required"
       Practicum: "Required"
+      Seminar: "Required"
     drop_consent: "Department Consent Required"
     enrollment_requirement: "Prerequisites    Level 3 and (reg in a DRAM Major or Medial Plan, or COCA-CODR Sub-Plan, or STSC Spec. Plan) and (a grade of B- in DRAM237) and (a GPA of 2.60 in DRAM) or permission of the Department)."
     grading_basis: "Graded"

@@ -16,7 +16,7 @@
     course_components: 
       Individual Study: "Required"
     drop_consent: "Department Consent Required"
-    grading_basis: "Graded"
+    grading_basis: "Pass/Fail"
     typically_offered: "Fall"
     units: "0.00"
 

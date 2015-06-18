@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: ""
+    description: "This course will address several meeting points between constitutional law and labour law, particularly in the areas of equality rights, freedom of association, and positive rights.  It would be of interest both to students interested in labour law and to students who wish to explore some constitutional law areas which are typically addressed in the first year constitutional law course. (To be offered jointly with LAW-233).  Three credits.  PREREQUISITE: permission of the instructor."
     number: "903"
     subject: "LAW"
-    title: "Advanced Problems In Taxation"
+    title: "Constitutional Labour Law"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -11,10 +11,12 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
+    add_consent: "Department Consent Required"
     career: "Graduate"
     course_components: 
-      Lecture: "Required"
+      Seminar: "Required"
+    drop_consent: "Department Consent Required"
     grading_basis: "Graded"
-    typically_offered: "Winter"
+    typically_offered: "Fall, Winter"
     units: "3.00"
 

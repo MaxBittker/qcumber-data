@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Theory and practice of quantization and signal compression systems.\nLEARNING HOURS    120 (36L;12O;72P)\nRECOMMENDATION    STAT 353/3.0."
+    description: "Topics include: arithmetic coding, universal lossless coding, Lempel-Ziv and related dictionary based methods, rate distortion theory, scalar and vector quantization, predictive and transform coding, applications to speech and image coding.\nLEARNING HOURS    120 (36L;12O;72P)\nRECOMMENDATION    STAT 353/3.0."
     number: "477"
     subject: "MATH"
-    title: "Source Coding and Quantization"
+    title: "Data Compression and Source Coding"
   extra: 
     CEAB: 
       Basic Sci: 0

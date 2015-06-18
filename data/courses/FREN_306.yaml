@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "A detailed study of plays by Corneille, Racine, Molière. Travaux pratiques include essays and tests.Given jointly with FREN 418/3.0.\nLEARNING HOURS    120 (36L;84P)"
+    description: "A detailed study of plays by Corneille, Racine, Molière. Travaux pratiques include essays and tests.\nLEARNING HOURS    120 (36L;84P)"
     number: "306"
     subject: "FREN"
     title: "Le théâtre classique"
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisites     6.0 units from FREN212 or FREN220 or FREN221 and registration in a FREN Plan.)\nExclusion    No more than 3.0 units from FREN306; FREN418."
+    enrollment_requirement: "Prerequisite       (FREN230 and FREN241) or FREN221 or (FREN212 and FREN220).\nExclusion     No more than 3.0 units from FREN306 or FREN418"
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

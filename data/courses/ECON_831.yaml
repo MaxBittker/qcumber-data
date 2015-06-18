@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "A selection of issues is analyzed from the perspective of the new economic history as applied to Canada and the United States. Typically these would include the application of counterfactual conditional propositions, general equilibrium models, and economic theory to the study of institutional change."
+    description: "A selection of issues is analyzed from the perspective of the new economic history as applied to Canada and the United States. Typically these would include the application of counterfactual conditional propositions, general equilibrium models, and economic theory to the study of institutional change. Offered jointly with ECON-430."
     number: "831"
     subject: "ECON"
-    title: "Econ. History Of North America"
+    title: "Issues in North American Economic History"
   extra: 
     CEAB: 
       Basic Sci: 0

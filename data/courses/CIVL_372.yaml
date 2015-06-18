@@ -15,6 +15,7 @@
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
+    enrollment_requirement: "PREREQUISITE: CIVL 210 or CHEM 211 or ENCH 211"
     grading_basis: "Graded"
     units: "4.00"
 

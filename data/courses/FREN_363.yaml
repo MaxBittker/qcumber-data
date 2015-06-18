@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "The socio-historical development of the French language from its Latin origins to the present. The emergence of the French language, its expansion, and codification, and its status as a social institution.\nLEARNING HOURS    120 (36L;84P)"
+    description: "This course has as its goal to allow students to grasp the major steps in the evolution of French from Latin to the modern day. Subjects treated include: the language upon which French is based; the major steps in the development of French; French as a social institution, as an official language, and as a living language; the Francophone world.\nLEARNING HOURS    120 (36L;84P)"
     number: "363"
     subject: "FREN"
-    title: "Histoire sociopolitique de la langue française"
+    title: "Histoire de la langue française"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisites    FREN221 or (FREN212 and FREN220) or FREN215."
+    enrollment_requirement: "Prerequisite       (FREN230 and FREN241) or FREN221 or (FREN220 and FREN212) or FREN215."
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

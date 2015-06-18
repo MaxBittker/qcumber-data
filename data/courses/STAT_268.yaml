@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Basic ideas of probability theory such as random experiments, probabilities, random variables, expected values, independent events, joint distributions, conditional expectations, moment generating functions. Main results of probability theory including Chebyshev's inequality, law of large numbers, central limit theorem. Introduction to statistical computing."
+    description: "Basic ideas of probability theory such as random experiments, probabilities, random variables, expected values, independent events, joint distributions, conditional expectations, moment generating functions. Main results of probability theory including Chebyshev's inequality, law of large numbers, central limit theorem. Introduction to statistical computing.\nLEARNING HOURS    120 (36L;84P)"
     number: "268"
     subject: "STAT"
     title: "Statistics and Probability I"

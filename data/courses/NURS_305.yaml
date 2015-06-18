@@ -17,7 +17,7 @@
       Laboratory: "Required"
       Lecture: "Required"
     drop_consent: "Department Consent Required"
-    enrollment_requirement: "(NURS205 AND NURS207)"
+    enrollment_requirement: "level 3 or higher"
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

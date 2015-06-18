@@ -17,7 +17,7 @@
       Laboratory: "Required"
       Lecture: "Required"
     drop_consent: "Department Consent Required"
-    enrollment_requirement: "(NURS100 AND BCHM010) OR (NURS100 AND MICR121) OR (NURS100 AND PHGY210) OR (NURS100 AND PHIL158) OR (NURS100 AND PSYC100) OR (NURS100 AND ANAT101)"
+    enrollment_requirement: "level 2 or higher"
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

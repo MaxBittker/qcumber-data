@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-      Seminar: "Required"
+      Tutorial: "Required"
     enrollment_requirement: "Prerequisites     BIOL302 or BIOL303."
     grading_basis: "Graded"
     typically_offered: "Winter"

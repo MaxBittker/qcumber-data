@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: ""
+    description: "A study of the arts and visual culture of the Indigenous peoples of the northern circumpolar region encompassing Alaska, Canada, and Greenland, with a main focus on Dorset, Thule, and post-1950 Inuit arts. Students will examine the development of modern Inuit art markets, including reception, promotion, and circulation in the south.\nLEARNING HOURS    120 (24L;12S;84P)"
     number: "348"
     subject: "ARTH"
     title: "Arts of the Artic"
@@ -14,6 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture / Seminar: "Required"
+    enrollment_requirement: "PREREQUISITE    Level 3 or above"
     grading_basis: "Graded"
     units: "3.00"
 

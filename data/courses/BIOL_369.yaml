@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Why sex? The evolutionary origins and consequences of sex and sexual reproduction. Topics include costs and benefits of sexual reproduction, the evolution and coevolution of sexes, gametes and genitalia, mating systems, gender differences and sex determination throughout the biotic world.\nLEARNING HOURS    117 (36L;9T;12O;60P)\nRECOMMENDATION    BIOL 205/3.0."
+    description: "Why sex? The evolutionary origins and consequences of sex and sexual reproduction. Topics include costs and benefits of sexual reproduction, the evolution and coevolution of sexes, gametes and genitalia, mating systems, gender differences and sex determination throughout the biotic world.\nLEARNING HOURS    122 (36L;8T;18O;60P)\nRECOMMENDATION    BIOL 206/3.0."
     number: "369"
     subject: "BIOL"
-    title: "Biology of Sex"
+    title: "Sex and Evolution"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Prerequisite     Level 3 or above and [(BIOL102 and BIOL103) or BIOL110 or (BIOL201 and BIOL202)]."
+    enrollment_requirement: "Prerequisite     (BIOL102 and BIOL103) and 3.0 units from BIOL at the 200 level.\nRecommendation    BIOL206."
     grading_basis: "Graded"
     units: "3.00"
 

@@ -13,7 +13,8 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Laboratory: "Required"
+      Practicum: "Required"
+      Seminar: "Required"
     enrollment_requirement: "Prerequisites    Level 3 and (a grade of B- in DRAM237) and (reg in a DRAM Major or Medial Plan, or COCA-CODR Sub-plan, or STSC Spec. Plan)."
     grading_basis: "Graded"
     units: "3.00"

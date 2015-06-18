@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Principles of protein biochemistry, enzymology, and protein engineering. Metabolism of carbohydrates, amino acids and lipids. Role of coenzymes. Generation and storage of metabolic energy. Principles of regulatory mechanisms, membrane structure and function, hormone action, and cellular signalling. NOTE    Students lacking the prerequisites CHEM 222/3.0 or CHEM 282/3.0 may take these courses as a corequisite with permission of the Department.\r\nNOTE    Material Fee: estimated cost $45."
+    description: "Principles of protein biochemistry, enzymology, and protein engineering. Metabolism of carbohydrates, amino acids and lipids. Role of coenzymes. Generation and storage of metabolic energy. Principles of regulatory mechanisms, membrane structure and function, hormone action, and cellular signalling. \nNOTE    Students lacking the prerequisites CHEM 222/3.0 or CHEM 282/3.0 may take these courses as a corequisite with permission of the Department.\nLEARNING HOURS    348 (72L;36Lb;240P)"
     number: "310A"
     subject: "BCHM"
     title: "General Biochemistry"
@@ -15,7 +15,7 @@
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
-    enrollment_requirement: "Prerequisite  Level 3 or above and (BCHM218 or MBIO218) & [(CHEM222 &223) or CHEM282]\r\nExclusion: no more than 6.0 units from BCHM310; BCHM315; BCHM316\r\nExclusion:  No more than 3.0 units from BCHM102; BCHM310; BCHM315; BCHM316"
+    enrollment_requirement: "Prerequisite  Level 3 or above and (BCHM218 or MBIO218) & [(CHEM222 &223) or CHEM282]\nExclusion: no more than 1crse fr BCHM310; BCHM315; \nExclusion: no more than 1crse fr BCHM310; BCHM316; \nExclusion: no more than 1crse fr BCHM310; BCHM102;"
     grading_basis: "Graded"
     typically_offered: "Fall, Winter"
     units: "0.00"

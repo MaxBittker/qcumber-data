@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: ""
+    description: "A survey of various currents of thought from 19th-century Europe that illustrate conservative discomfort with industrial society and help to make the outbreak of fascism understandable after 1918. The course will distinguish between conservative, nationalist, aesthetic, and religious trends, illustrated by relevant readings from different countries.\nLEARNING HOURS    120 (36L;84P)"
     number: "319"
     subject: "LLCU"
     title: "Roots of Fascism: Resistance to Liberalism in the 19th Century"
@@ -14,6 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
+    enrollment_requirement: "Prerequisite     Third year standing or permission of the department of Languages, Literatures and Cultures.\nExclusion    No more than 3.0 units from LLCU319; GRMN419."
     grading_basis: "Graded"
     units: "3.00"
 

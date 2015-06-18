@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "The use of genetic analysis to understand developmental processes such as cell fate determination, pattern formation and morphogenesis. Emphasis will be on the molecular pathways used during embryonic development, highlighting applications and techniques using model organisms."
+    description: "The use of genetic analysis to understand developmental processes such as cell fate determination, pattern formation and morphogenesis. Emphasis will be on the molecular pathways used during embryonic development, highlighting applications and techniques using model organisms.\nLEARNING HOURS   126 (36L;18S;24G;12I;12O;24P)"
     number: "430"
     subject: "BIOL"
     title: "Molecular Genetics of Development"
@@ -13,7 +13,7 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Lecture: "Required"
+      Lecture / Seminar: "Required"
     enrollment_requirement: "Prerequisites    BIOL330 or BCHM218 or MBIO218 or MBIO318."
     grading_basis: "Graded"
     typically_offered: "Winter"

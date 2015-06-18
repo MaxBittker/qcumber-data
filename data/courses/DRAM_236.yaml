@@ -13,8 +13,8 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Laboratory: "Required"
-    enrollment_requirement: "Prerequisite    A grade of B- in 6.0 units from (DRAM100; DRAM181; BISC100; BISC101) or permission of the Dept.\nExclusion    No more than 6.0 units from DRAM236; DRAM237; DRAM238; DRAM239"
+      Practicum: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above.\r\nExclusion    No more than 6.0 units from DRAM236; DRAM237; DRAM238; DRAM239"
     grading_basis: "Graded"
     units: "3.00"
 

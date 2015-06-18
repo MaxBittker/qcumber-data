@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
     drop_consent: "Department Consent Required"
-    enrollment_requirement: "Prerequisite    Level 3 or above and (BCHM218 or MBIO218) and [(CHEM222 and CHEM223) or CHEM282].\r\nExclusion    No more than 6.0 units from BCHM310; BCHM315; BCHM316.\r\nExclusion    No more than 3.0 units from BCHM102; BCHM315"
+    enrollment_requirement: "Prerequisite    Lvl 3 or above &(BCHM218 or MBIO218) &[(CHEM222 &CHEM223) or CHEM282].\r\nExclusion    No more than 1 crse from BCHM310; 315.\r\nExclusion    No more than 1 crse from BCHM102; 315."
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

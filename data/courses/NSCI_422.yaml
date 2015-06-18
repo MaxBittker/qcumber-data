@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An in-depth study of the biophysical properties of neurons and diseases that affect the function of neurons and glia. Topics will include cable properties of dendrites, voltage- and ligand-dependent channels, and molecular mechanisms responsible for neuronal death and regeneration. The course will be based on lectures and student seminars of selected readings. \r\nNOTE    BMCO students should contact the Department regarding prerequisites."
+    description: "An in-depth study of the biophysical properties of neurons and diseases that affect the function of neurons and glia. Topics will include cable properties of dendrites, voltage- and ligand-dependent channels, and molecular mechanisms responsible for neuronal death and regeneration. The course will be based on lectures and student seminars of selected readings. \nNOTE    BMCO students should contact the Department regarding prerequisites.\nLEARNING HOURS    119 (12L;24S;8G;6I;69P)"
     number: "422"
     subject: "NSCI"
     title: "Cellular and Molecular Neuroscience"

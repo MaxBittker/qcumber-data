@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "RECOMMENDATION    BIOL 335/3.0."
+    description: "LEARNING HOURS   132 (21L;15S;96P)\nRECOMMENDATION    BIOL 335/3.0."
     number: "527"
     subject: "BIOL"
     title: "Paleolimnology and Global Environmental Change"
@@ -14,7 +14,7 @@
     add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
-      Seminar: "Required"
+      Lecture / Seminar: "Required"
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

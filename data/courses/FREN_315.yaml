@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "A study of representative literary works of the 15th and 16th centuries, including Villon, Montaigne, Rabelais. Travaux pratiques include essays and tests. Given jointly with FREN 405/3.0.\nLEARNING HOURS    120 (36L;84P)"
+    description: "A study of representative literary works of the 15th and 16th centuries, including Villon, Montaigne, Rabelais. Travaux pratiques include essays and tests.\nLEARNING HOURS    120 (36L;84P)"
     number: "315"
     subject: "FREN"
-    title: "Introduction à la littérature française de la Renaissance"
+    title: "Littérature française de la Renaissance"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisites    6.0 units from FREN212 or FREN220 or FREN221 and registration in a FREN Plan.\nExclusion    No more than 3.0 units from FREN315; FREN405."
+    enrollment_requirement: "Prerequisite       (FREN230 and FREN241) or FREN221 or (FREN212 and FREN220).\nExclusion     No more than 3.0 units from FREN315 or FREN405."
     grading_basis: "Graded"
     units: "3.00"
 

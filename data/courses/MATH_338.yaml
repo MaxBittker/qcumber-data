@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Methods and theory for ordinary and partial differential equations. Review of eigenvectors and eigenmodes in solutions to systems of ordinary differential equations. The principle of linear superposition and eigenfunction expansion, orthogonality, and inner product on a vector space of functions. The method of separation of variables in rectangular and cylindrical coordinate systems; sinusoidal and Bessel orthogonal functions. The wave, diffusion, and Laplace's (potential) equation. Sturm-Liouville theory: eigenvalue problems and orthogonal functions. Fourier transform and, time permitting, Laplace transform techniques.\nLEARNING HOURS    118 (36L;12T;70P)"
+    description: "Methods and theory for ordinary and partial differential equations; separation of variables in rectangular and cylindrical coordinate systems; sinusoidal and Bethel orthogonal functions; the wave, diffusion, and Laplace¿s equation; Sturn-Liouville theory; Fourier transform and Laplace transform techniques.\nLEARNING HOURS    118 (36L;12T;70P)"
     number: "338"
     subject: "MATH"
-    title: "Topics in Mathematics"
+    title: "Fourier Methods for Boundary Value Problems"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Prerequisite     MATH231; MATH280"
+    enrollment_requirement: "Prerequisite     (MATH221 or MATH280) and (MATH232 or MATH231) and (MATH110 or MATH111)."
     grading_basis: "Graded"
     units: "3.00"
 

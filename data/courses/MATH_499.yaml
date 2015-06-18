@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "An important topic in mathematics not covered in any other courses."
+    description: "Important topics in mathematics not covered in any other courses."
     number: "499"
     subject: "MATH"
-    title: "Topics In Mathematics VI"
+    title: "Topics In Mathematics"
   extra: 
     CEAB: 
       Basic Sci: 0

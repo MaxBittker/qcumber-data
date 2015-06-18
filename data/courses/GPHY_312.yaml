@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
       Practicum: "Required"
-    enrollment_requirement: "Prerequisite of GPHY208 or 6.0 units in CHEM, or permission of the Department."
+    enrollment_requirement: "Prerequisite   GPHY208 or GPHY209 or permission of the Department."
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

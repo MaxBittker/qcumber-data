@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Macroscopic and microscopic characterization of igneous, sedimentary and metamorphic rocks. Processes by which rocks are formed and transformed, and influence of genesis on shape, distribution, and rock-mass character of rock bodies. Implications and consequences of rock-forming processes for mineral exploration and production, fossil-fuel exploration and production, and engineering site investigation."
+    description: "Introduction to the genesis and characterization of igneous and metamorphic rocks. Students will acquire skills to classify rocks and the theoretical background to place these rocks in the context of where, why, and how they form with implications for resource exploration and utilization. Macroscopic and microscopic properties will be studied."
     number: "235"
     subject: "GEOL"
-    title: "Genesis and Characterization of Solid Earth Materials"
+    title: "Igneous and Metamorphic Petrology"
   extra: 
     CEAB: 
       Basic Sci: 0

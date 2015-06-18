@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: ""
+    description: "In this course we will explore modern analytical approaches to optimization in production and supply chain systems.  Topics may include production and inventory control, process control, location analysis, sustainability, and integration of supply chains, including game-theoretic approaches. (Crossed with MGMT-865*)"
     number: "965"
     subject: "MGMT"
     title: "Analysis Of Supply Chains"

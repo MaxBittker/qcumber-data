@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "PREREQUISITE  A grade of C in 6.0 units in ENGL100 or ENGL110"
+    enrollment_requirement: "Prerequisite     A grade of C in 6.0 units in ENGL100 or ENGL110.\nExclusion     No more than 3.0 units from ENGL273; GRMN429; LLCU329"
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

@@ -13,6 +13,7 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
+      Laboratory: "Required"
       Lecture: "Required"
       Tutorial: "Required"
     enrollment_requirement: "PreRequisite of  APSC 200"

@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "CHEE 331, CHEE 332 and ENCH 333 share a core component that introduces the concept and approach to design in engineering practice, and the design and scaleup of unit operations and use of equilibrium stage concepts in process design. Emphasis will be placed on economics, safety and environmental responsibility. The technical issues in transforming a chemical process from small scale to commercial operation will be addressed, and underlying concepts of mass balances, thermodynamics, heat and mass transfer, and reaction engineering are integrated to provide an understanding of the methodology involved in design and scaleup. Specific topics include the effects of scale on the relative rates of mass, heat and momentum transfer, mixing effects, utility of various reactor operating modes and the acquisition of reliable kinetic, thermodynamic and transport data. A major component of this course is a design project based developed specifically for the Chemical Engineering CHE1 Option. Enrolment is restricted to students in the Chemical Engineering CHE1 Option."
+    description: "CHEE 331, CHEE 332 and CHEE 333 share a core component that introduces the concept and approach to design in engineering practice, and the design and scaleup of unit operations and use of equilibrium stage concepts in process design. Emphasis will be placed on instrumentation, economics, safety and environmental responsibility. A major component of this course is a design project. Enrolment is restricted to students in the Chemical Engineering CHE1 Option."
     number: "331"
     subject: "CHEE"
-    title: "Design & Scaleup Of Unit Opera"
+    title: "Design of Unit Operations"
   extra: 
     CEAB: 
       Basic Sci: 0

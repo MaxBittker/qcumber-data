@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "The mechanisms of evolutionary change - from genes to societies. How natural selection interacts with genetic and population processes to make organisms adapted to their environment and to create biological diversity."
+    description: "The mechanisms of evolutionary change - from genes to societies. How natural selection interacts with genetic and population processes to make organisms adapted to their environment and to create biological diversity.\nLEARNING HOURS   120 (36L;6S;18Lb;60P)"
     number: "439"
     subject: "BIOL"
     title: "Natural Selection and Microevolution"
@@ -13,7 +13,7 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Laboratory: "Required"
+      Laboratory / Seminar: "Required"
       Lecture: "Required"
     enrollment_requirement: "Prerequisites     BIOL302 or BIOL303."
     grading_basis: "Graded"

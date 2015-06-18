@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "The objective of this course is the understanding of the fundamental physics associated with a nuclear reactor. Topics include a brief review of basic nuclear physics, neutron interactions and cross-sections, neutron diffusion, neutron moderation, theory of reactors, changes in reactivity, control of reactors. Offered in alternate years."
+    description: "The objective of this course is the understanding of the fundamental physics associated with a nuclear reactor. Topics include a brief review of basic nuclear physics, neutron interactions and cross-sections, neutron diffusion, neutron moderation, theory of reactors, changes in reactivity, control of reactors. Offered in alternate years.\nLEARNING HOURS    120 (36L;12T;72P)"
     number: "491"
     subject: "PHYS"
     title: "Physics of Nuclear Reactors"
@@ -14,6 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
+      Tutorial: "Required"
     enrollment_requirement: "Prerequisite     Level 3 or 4 in a PHYS, ASPH or MAPH Plan.\nCorequisite     PHYS350."
     grading_basis: "Graded"
     typically_offered: "Winter"

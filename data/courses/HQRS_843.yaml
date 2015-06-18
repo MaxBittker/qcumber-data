@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "This one-week intensive elective course in the U.K. provides a comparative analysis of issues and advances in healthcare quality, risk and safety in  various  countries and health care systems,  Critical analysis of varying structural and procedural factors affecting healthcare outcomes will be the focus of the course"
+    description: "This one-week intensive elective course in the U.K. provides a comparative analysis of issues and advances in healthcare quality, risk and safety in  various  countries and health care systems,  Critical analysis of varying structural and procedural factors affecting healthcare outcomes will be the focus of the course This course will be graded on a pass/fail basis."
     number: "843"
     subject: "HQRS"
     title: "International Perspectives on Quality, Risk  & Safety"
@@ -16,6 +16,6 @@
     course_components: 
       Seminar: "Required"
     drop_consent: "Department Consent Required"
-    grading_basis: "Graded"
+    grading_basis: "Pass/Fail"
     units: "3.00"
 

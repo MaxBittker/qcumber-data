@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An introduction to microeconomic analysis of a modern mixed economy. The course analyzes the behaviour of individual consumers and producers, the determination of market prices for commodities and resources, and the role of government policy in the functioning of the market system. ECON 111/3.0 and ECON 112/3.0 are together equivalent to ECON 110/6.0.\nNOTE    Also offered as a distance course. Consult Continuing and Distance Studies.\nLEARNING HOURS    120 (36L;12O;72P)"
+    description: "An introduction to microeconomic analysis of a modern mixed economy. The course analyzes the behaviour of individual consumers and producers, the determination of market prices for commodities and resources, and the role of government policy in the functioning of the market system. ECON 111/3.0 and ECON 112/3.0 are together equivalent to ECON 110/6.0.\r\nNOTE    Also offered as a distance course. Consult Continuing and Distance Studies.\r\nLEARNING HOURS    120 (36L;12O;72P)"
     number: "111"
     subject: "ECON"
     title: "Introductory Microeconomics"
@@ -11,7 +11,7 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    career: "Distance Studies"
+    career: "Undergraduate"
     course_components: 
       Lecture: "Required"
     enrollment_requirement: "Exclusion    No more than 6.0 units from ECON110; ECON111; ECON112."

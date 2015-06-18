@@ -14,7 +14,8 @@
     career: "Undergraduate"
     course_components: 
       Laboratory: "Required"
-      Lecture: "Required"
+      Lecture / Discussion: "Required"
+    enrollment_requirement: "Corequisite     MATH120 or MATH121 or MATH122 or (MATH123 and MATH124).\r\nExclusions    No more than 6.0 units from PHYS104; PHYS106; PHYS107; PHYS117."
     grading_basis: "Graded"
     typically_offered: "Fall, Winter"
     units: "6.00"

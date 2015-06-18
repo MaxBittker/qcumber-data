@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Analog and digital electronic circuits based on the devices introduced in ELEC 252 will be studied. The course is subdivided into two parts; the design and operation of amplifiers and the operation of common logic families. Particular attention is paid to the transient and frequency response of the circuits. The course also includes a study of feedback as applied to the design and analysis of electronic circuits. The laboratory work is design oriented and complements the lecture material."
+    description: "Transistor-level modeling and design of analog and digital electronic circuits. Differential amplifiers, current mirrors, multi-stage amplifiers, frequency response of amplifiers, high-frequency transistor models, feedback amplifier configurations, two-port networks, CMOS logic gates. Students learn the basics of computer aided design (CAD) of integrated circuits including schematic simulation, layout, design rules, layout versus schematic verification and extracted circuit simulation. Laboratory work is design oriented and complements the lecture material."
     number: "353"
     subject: "ELEC"
     title: "Electronics II"

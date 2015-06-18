@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "A survey of the thermodynamic properties of gases and liquids, including phase and chemical equilibria and electrochemistry. An introduction to the properties of materials, interfaces, surfaces and aqueous solutions. The laboratory uses modern software to facilitate equilibrium calculations, illustrates measurement techniques and develops laboratory skills. \r\nNOTE    Laboratory consumables: estimated cost $20."
+    description: "A survey of the thermodynamic properties of gases and liquids, including phase and chemical equilibria and electrochemistry. An introduction to the properties of materials, interfaces, surfaces and aqueous solutions. The laboratory uses modern software to facilitate equilibrium calculations, illustrates measurement techniques and develops laboratory skills."
     number: "221"
     subject: "CHEM"
     title: "Material, Solutions, Interfaces"

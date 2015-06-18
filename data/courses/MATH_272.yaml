@@ -16,7 +16,7 @@
       Laboratory: "Required"
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Prerequisite of MATH110 or MATH111 and  CISC101 or CISC121 and a corequisite of MATH232.\r\nExclusion    No more than 3.0 units from CISC271; MATH272; PHYS313."
+    enrollment_requirement: "Prerequisite    (MATH110 or MATH111 or MATH212) and  (CISC101 or CISC121)\nCorequisite   MATH232.\nExclusion    No more than 3.0 units from CISC271; MATH272; PHYS313."
     grading_basis: "Graded"
     typically_offered: "Fall"
     units: "3.00"

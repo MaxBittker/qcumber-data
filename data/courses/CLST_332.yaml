@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Study of the period from the formation of Greek civilization following the collapse of the Bronze Palace Culture until the end Persian Wars (479 BCE). Topics may include the development of the polis and its institutions, Greek colonization, the tyrants and the beginning of Athenian democracy, and conflict with the Persian Empire.\nLEARNING HOURS    126 (36L;90P)"
+    number: "332"
+    subject: "CLST"
+    title: "The Iron Age to the End of the Persian Wars"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite      CLST200 or permission of the Dept.\nExclusion     No more than 3.0 units from CLST330; CLST332."
+    grading_basis: "Graded"
+    units: "3.00"
+

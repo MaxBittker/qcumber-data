@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "The fundamentals of digital systems. Boolean algebra applied to digital systems; logic gates and combinational logic design; arithmetic circuits; flip-flops, registers and counters; synchronous sequential logic and state machine design; structure of ROM, RAM, PLA's and PLD's."
+    description: "Boolean algebra applied to digital systems; logic gates; combinational logic design; electronic circuits for logic gates; arithmetic circuits; latches and flip-flops, registers and counters; synchronous sequential logic and state machine design; implementation in programmable logic chips."
     number: "271"
     subject: "ELEC"
     title: "Digital Systems"

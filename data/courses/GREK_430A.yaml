@@ -11,11 +11,10 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
       Individual Study: "Required"
-    enrollment_requirement: "Prerequisite  GREK208/6.0"
+    enrollment_requirement: "Prerequisite     A minimum GPA of 1.90 in 6.0 units from GREK at the 300 level or above."
     grading_basis: "Graded"
     typically_offered: "Fall, Winter"
     units: "0.00"

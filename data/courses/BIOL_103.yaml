@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An introduction to the basic themes and concepts of modern biology spanning organizational levels from organisms to ecosystems in an evolutionary context.\nNOTE    Lab Manual: estimated cost $13.\nLEARNING HOURS    130 (36L;24Lb;24O;39P)"
+    description: "An introduction to the basic themes and concepts of modern biology spanning organizational levels from organisms to ecosystems in an evolutionary context.\r\nNOTE    Also offered online. Consult Continuing and Distance Studies. Learning Hours may vary.\r\nNOTE    Also offered at the Bader International Study Centre, Herstmonceux. Learning Hours may vary.\r\nLEARNING HOURS    123 (36L;24Lb;24O;39P)\r\nRECOMMENDATION    BIOL 102/3.0."
     number: "103"
     subject: "BIOL"
     title: "Introductory Biology of Organisms"
@@ -15,7 +15,6 @@
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
-    enrollment_requirement: "Prerequisite     BIOL102"
     grading_basis: "Graded"
     units: "3.00"
 

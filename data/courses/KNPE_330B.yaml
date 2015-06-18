@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Under the tutelage of the Coordinator of Athletic Therapy Services, students will complete a field placement that involves assignment to a varsity team as a student trainer. Student trainers are responsible for onsite coverage of the team during competition and possibly during practices. The student trainers are also responsible for the taping needs of athletes on the team, and assisting with assessment and rehabilitation.\nNOTE    Lab materials: estimated cost $35.\nNOTE    Students must hold valid First Aid/CPR certification and proof of completion of Athletic Therapy experience (36 hours) in second year.\nLEARNING HOURS    144 (108Pc;36P)"
+    description: "Under the tutelage of the Coordinator of Athletic Therapy Services, students will complete a field placement that involves assignment to a varsity team as a student trainer. Student trainers are responsible for onsite coverage of the team during competition and possibly during practices. The student trainers are also responsible for the taping needs of athletes on the team, and assisting with assessment and rehabilitation.\nNOTE    Students must hold valid First Aid/CPR certification and proof of completion of Athletic Therapy experience (36 hours) in second year.\nLEARNING HOURS    177 (165Pc;12P)"
     number: "330B"
     subject: "KNPE"
     title: "Athletic Therapy Field Placement"
@@ -18,5 +18,5 @@
     drop_consent: "Department Consent Required"
     grading_basis: "Graded"
     typically_offered: "Winter"
-    units: "3.00"
+    units: "4.50"
 

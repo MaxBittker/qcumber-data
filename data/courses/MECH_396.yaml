@@ -9,16 +9,15 @@
       Basic Sci: 0
       Comp St: 0
       Eng Des: 0
-      Eng Sci: 15
+      Eng Sci: 24
       Math: 0
     add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
-      Discussion: "Required"
       Laboratory: "Required"
       Lecture: "Required"
     enrollment_requirement: "Exclusion: MECH398.  Completion of 2nd year, a corequisite of MECH370 and registration in a BSCE Academic Program."
     grading_basis: "Graded"
     typically_offered: "Fall"
-    units: "1.25"
+    units: "2.00"
 

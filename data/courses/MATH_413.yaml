@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Algorithms for solving systems of nonlinear equations; applications in geometry, algebra, and other areas; Gröbner basis methods. A suitable software package (e.g. CoCoA, Macaulay2, Singular, Magma) will be used to explore applications.\nLEARNING HOURS    132 (36L;96P)"
+    description: "An introduction to the study of systems of polynomial equations in one or many variables. Topics covered include the Hilbert basis theorem, the Nullstellenstaz, the dictionary between ideals and affine varieties, and projective geometry.\nLEARNING HOURS    132 (36L;96P)"
     number: "413"
     subject: "MATH"
-    title: "Computational Commutative Algebra"
+    title: "Introduction to Algebraic Geometry"
   extra: 
     CEAB: 
       Basic Sci: 0

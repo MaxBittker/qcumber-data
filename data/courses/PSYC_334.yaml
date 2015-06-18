@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "A lecture and laboratory course on psychometrics. Test development and evaluation will be the focus of student projects. The course will introduce software packages used for analyzing psychological test data. \r\nNOTE    A fee of $30 will be collected from each student for the cost of photocopying, materials, and mailings related to data collection."
+    description: "A lecture and laboratory course on psychometrics. Test development and evaluation will be the focus of student projects. The course will introduce software packages used for analyzing psychological test data. \nLEARNING HOURS    120 (24L;24Lb;12G;60P)"
     number: "334"
     subject: "PSYC"
     title: "Laboratory in Psychological Testing"

@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "This course introduces concepts, theory and practice of computer programming.  Implementation uses microcomputers. The emphasis is on the design of correct and efficient algorithms and on programming style. Applications are made to engineering problems."
+    description: "This course introduces concepts, theory and practice of computer programming. Implementation uses microcomputers. The emphasis is on the design of correct and efficient algorithms and on programming style. Applications are made to engineering problems. NOTE: The fall term delivery of this course is intended for students in the ECE direct-entry program, and enrolment in this term will require permission of the Associate Dean (Academic)."
     number: "142"
     subject: "APSC"
     title: "Intro Computer Program Engrs"

@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Focuses on a specific author or on a specific theme of Quebec literature. Topics will depend on the professor's interest and field of research. Travaux pratiques include essays and tests. Given jointly with FREN 491/3.0."
+    description: "Focuses on a specific author or on a specific theme of Quebec literature. Topics will depend on the professor's interest and field of research. Travaux pratiques include essays and tests."
     number: "391"
     subject: "FREN"
     title: "Auteurs et thèmes en littérature québécoise"
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisites    6.0 units from FREN212 or FREN220 or  FREN221 and registration in a FREN plan.\nExclusion    No more than 3.0 units from FREN391; FREN491."
+    enrollment_requirement: "Prerequisite       (FREN230 and FREN241) or FREN221 or (FREN222 and FREN220).\nExclusion     No more than 3.0 units from FREN391 or FREN491."
     grading_basis: "Graded"
     units: "3.00"
 

@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "An evolutionary approach to the study of animal behaviour. This course explores processes and patterns in behaviour, with emphasis on perception, communication, foraging, spacing, reproduction and social behaviour in a variety of animals. Methods of studying and analyzing behaviour are explored through laboratory exercises."
+    description: "An evolutionary approach to the study of animal behaviour. This course explores processes and patterns in behaviour, with emphasis on perception, communication, foraging, spacing, reproduction and social behaviour in a variety of animals. Methods of studying and analyzing behaviour are explored through laboratory exercises.\nNOTE    Also offered online. Consult Continuing and Distance Studies. Learning Hours may vary.\nLEARNING HOURS    132 (36L;12T;12I;12O;24Oc;36P)"
     number: "321"
     subject: "BIOL"
     title: "Animal Behaviour"
@@ -13,9 +13,9 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Laboratory: "Required"
       Lecture: "Required"
-    enrollment_requirement: "Recommendation    BIOL202.\r\nCorequisite     6.0 units in BIOL at the 200 level."
+      Tutorial: "Required"
+    enrollment_requirement: "Corequisite     6.0 units in BIOL at the 200 level."
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

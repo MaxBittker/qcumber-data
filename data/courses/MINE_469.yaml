@@ -13,6 +13,7 @@
       Math: 12
     career: "Undergraduate"
     course_components: 
+      Laboratory: "Required"
       Lecture: "Required"
       Tutorial: "Required"
     enrollment_requirement: "Prerequisite of MINE325 and registered in a BSCE Academic Program."

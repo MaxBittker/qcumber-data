@@ -16,7 +16,7 @@
     course_components: 
       Lecture: "Required"
     drop_consent: "Department Consent Required"
-    enrollment_requirement: "PREREQUISITE    A minimum grade of B in BIOL 205/3.0 and Level 4 and (registration in a LISC Major or Specialization Plan) and (a GPA of 2.5).\r\nEXCLUSION    No more than 3.0 units from BIOL 441/3.0; PATH 425/3.0"
+    enrollment_requirement: "PREREQUISITE    (B in BIOL 205/3.0 or PATH310 or permission of the course coordinator and Level 4 and (registration in a LISC Major or Specialization Plan) and (a GPA of 2.5).\nEXCLUSION    No more than 3.0 units from BIOL 441/3.0; PATH 425/3.0"
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

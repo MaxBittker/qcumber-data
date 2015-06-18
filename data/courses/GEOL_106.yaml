@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "The relationship between human-kind and our ever-changing planet, with a focus on natural geologic hazards (volcanic eruptions, earthquakes, landslides, tsunamis, mass movement, floods, extraterrestrial impacts, etc.), and environmental impacts which result from population and land-use expansion and our increased use of water, energy and mineral resources. A study of the sources and impact of pollution and global climate change. Public perception of and response to geological risk."
+    description: "The relationship between human-kind and our ever-changing planet, with a focus on natural geologic hazards (volcanic eruptions, earthquakes, landslides, tsunamis, mass movement, floods, extraterrestrial impacts, etc.), and environmental impacts which result from population and land-use expansion and our increased use of water, energy and mineral resources. A study of the sources and impact of pollution and global climate change. Public perception of and response to geological risk.\nLEARNING HOURS    120 (36L;12O;72P)"
     number: "106"
     subject: "GEOL"
     title: "Environmental Geology and Natural Hazards"
@@ -15,6 +15,5 @@
     course_components: 
       Lecture: "Required"
     grading_basis: "Graded"
-    typically_offered: "Winter"
     units: "3.00"
 

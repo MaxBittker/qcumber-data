@@ -9,15 +9,14 @@
       Basic Sci: 0
       Comp St: 0
       Eng Des: 0
-      Eng Sci: 15
+      Eng Sci: 24
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Discussion: "Required"
       Laboratory: "Required"
       Lecture: "Required"
     enrollment_requirement: "Exclusion: MECH399.  Completion of 2nd year, a corequisite of MECH371 and registration in a BSCE Academic Plan."
     grading_basis: "Graded"
     typically_offered: "Winter"
-    units: "1.25"
+    units: "2.00"
 

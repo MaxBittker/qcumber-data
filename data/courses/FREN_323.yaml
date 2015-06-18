@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "A detailed study of major 19th century writers after 1848. Travaux pratiques include essays and tests.Given jointly with FREN 423/3.0.\nLEARNING HOURS    120 (33L;3Pc;84P)"
+    description: "A detailed study of major 19th century writers. Travaux pratiques include essays and tests.\nLEARNING HOURS    120 (33L;3Pc;84P)"
     number: "323"
     subject: "FREN"
-    title: "La littérature française de 1848 à 1900"
+    title: "La littérature française de 19e"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisites   6.0 units from FREN212 or FREN220 or FREN221 and registration in a FREN Plan.\nExclusion    No more than 3.0 units from FREN323; FREN423."
+    enrollment_requirement: "Prerequisite       (FREN230 and FREN241) or FREN221 or (FREN212 and FREN220).\nExclusion     No more than 3.0 units from FREN323 or FREN423."
     grading_basis: "Graded"
     typically_offered: "Winter"
     units: "3.00"

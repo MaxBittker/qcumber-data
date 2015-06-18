@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Introductory genetics and evolutionary processes as they relate to the human condition - genetic diseases, medical techniques, inheritance and ethical issues such as cloning and genetically modified foods.\nLEARNING HOURS    115 (24L;7G;60I;24O)"
+    description: "Introductory genetics and evolutionary processes as they relate to the human condition - genetic diseases, medical techniques, inheritance and ethical issues such as cloning and genetically modified foods.\r\nNOTE    Also offered online. Consult Continuing and Distance Studies. Learning Hours may vary.\r\nLEARNING HOURS    118 (26L;10T;10G;36O;36P)"
     number: "110"
     subject: "BIOL"
     title: "Human Genetics and Evolution"
@@ -13,7 +13,7 @@
       Math: 0
     career: "Undergraduate"
     course_components: 
-      Lecture: "Required"
+      Lecture / Tutorial: "Required"
     enrollment_requirement: "One-way exclusion    May not be taken with or after BIOL102; BIOL103."
     grading_basis: "Graded"
     typically_offered: "Fall"
