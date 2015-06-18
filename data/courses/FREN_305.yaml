@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "A detailed study of selected plays from French theatre since 1945. Visual presentations. Semiotic approach. Cocteau, Duras, Beckett, Ionesco, Sarraute, Sartre, Koltès. Travaux pratiques include essays and tests. Given jointly with FREN 417/3.0. \nLEARNING HOURS    120 (36L;84P)"
+    number: "305"
+    subject: "FREN"
+    title: "Le théâtre depuis 1945"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisites    6.0 units from FREN212 or FREN220 or FREN221 and registration in a FREN Plan.\nExclusion    No more than 3.0 units from FREN305; FREN417."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

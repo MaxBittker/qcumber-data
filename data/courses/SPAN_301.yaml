@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "This course provides a comprehensive review of the most difficult aspects of Spanish grammar through advanced exercises in reading, composition, and conversation.  The goal of the course is to consolidate and perfect the student's written and oral skills.\nLEARNING HOURS    120 (36L;84P)"
+    number: "301"
+    subject: "SPAN"
+    title: "Gramática avanzada y composición I"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite     SPAN201 or SPAN205.\r\nOne-way exclusion    May not be taken with or after SPAN302; SPAN401; SPAN402."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+

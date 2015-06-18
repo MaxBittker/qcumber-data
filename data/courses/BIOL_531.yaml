@@ -1,0 +1,20 @@
+---
+  basic: 
+    description: "Through seminars, essays, and group discussions, students explore ideas, research objectives, and recent discoveries in the application of Darwinian evolutionary theory to the interpretation of human nature, social life, and culture ¿ and how these advances impact on our understanding of civilization and the challenges it faces for the 21st century.\nLEARNING HOURS    120 (18L;18S;84P)"
+    number: "531"
+    subject: "BIOL"
+    title: "Darwinism and Cultural Evolution"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture / Seminar: "Required"
+    enrollment_requirement: "Prerequisite     BIOL350"
+    grading_basis: "Graded"
+    units: "3.00"
+

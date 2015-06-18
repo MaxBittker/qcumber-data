@@ -1,0 +1,21 @@
+---
+  basic: 
+    description: "An introduction to the interrelationships between physical activity, fitness and health. Current techniques for the measurement of health related fitness components, evaluation of diet, weight loss principles, psychological aspects of fitness and suitable activities for fitness development. Concepts related to prescription of physical activity and exercise counseling are introduced.\nLEARNING HOURS    108 (36L;72P)"
+    number: "255"
+    subject: "KNPE"
+    title: "Physical Activity, Fitness and Health"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    Level 2 or above in a PHED or KINE Plan and KNPE125\nCorequisite    KNPE153 and KNPE225 and KNPE227.\nExclusion    No more than 3.0 units from HLTH325; KNPE255."
+    grading_basis: "Graded"
+    typically_offered: "Winter"
+    units: "3.00"
+

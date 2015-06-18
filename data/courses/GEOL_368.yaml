@@ -1,0 +1,22 @@
+---
+  basic: 
+    description: "The origin, composition and diagenesis of carbonate rocks. Study of modern carbonate sediments and depositional environments; development of facies models; petrographic and geochemical analysis of limestones and dolostones. Required extended field trip during term.\nLEARNING HOURS    121 (33L;18Lb;70P)"
+    number: "368"
+    subject: "GEOL"
+    title: "Carbonate Sedimentology"
+  extra: 
+    CEAB: 
+      Basic Sci: 0
+      Comp St: 0
+      Eng Des: 0
+      Eng Sci: 0
+      Math: 0
+    career: "Undergraduate"
+    course_components: 
+      Laboratory: "Required"
+      Lecture: "Required"
+    enrollment_requirement: "Prerequisite    GEOL238 or permission of the Department.\nCorequisite    GEOL301."
+    grading_basis: "Graded"
+    typically_offered: "Fall"
+    units: "3.00"
+
