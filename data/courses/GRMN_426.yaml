@@ -14,7 +14,6 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-      Tutorial: "Required"
     enrollment_requirement: "Prerequisite    A grade of C in GRMN202 or permission of the Dept. of Languages, Literatures and Cultures.\r\nExclusion    No more than 3.0 units from INTS326; GRMN426; LLCU326"
     grading_basis: "Graded"
     units: "3.00"

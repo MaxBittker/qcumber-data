@@ -11,11 +11,12 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    career: "Distance Studies"
+    career: "Undergraduate"
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
     enrollment_requirement: "Prerequisite    [(FILM110 or FILM104 and FILM106) or FILM240 or FILM260) and a GPA of 2.60"
     grading_basis: "Graded"
+    typically_offered: "Fall"
     units: "3.00"
 
