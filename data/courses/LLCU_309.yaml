@@ -1,6 +1,6 @@
 ---
   basic: 
-    description: "Students will view and analyze a selection of Almodóvar's films within the context of Spain and other countries. The study of gender, sexual, cultural and societal identity and other fundamentals of contemporary theory will be central to this course.\r\nLEARNING HOURS    120 (36L;36T;48P)"
+    description: "Students will view and analyze a selection of Almodóvar's films within the context of Spain and other countries. The study of gender, sexual, cultural and societal identity and other fundamentals of contemporary theory will be central to this course.\nLEARNING HOURS    120 (36L;84P)"
     number: "309"
     subject: "LLCU"
     title: "The Films of Pedro Almodóvar"
@@ -14,7 +14,6 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-      Tutorial: "Required"
     enrollment_requirement: "Prerequisite    Level 3 or permission of the Dept. of Languages, Literatures and Cultures.\r\nExclusion    No more than 3.0 units from LLCU309; SPAN308; SPAN408.\r\nEquivalency    SPAN308."
     grading_basis: "Graded"
     units: "3.00"
