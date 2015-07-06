@@ -15,6 +15,5 @@
     course_components: 
       Lecture: "Required"
     grading_basis: "Pass/Fail"
-    typically_offered: "Summer"
     units: "6.00"
 

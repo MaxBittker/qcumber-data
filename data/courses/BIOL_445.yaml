@@ -15,8 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Prerequisite    BIOL339."
+    enrollment_requirement: "Prerequisite    BIOL339 or PHGY214"
     grading_basis: "Graded"
-    typically_offered: "Winter"
     units: "3.00"
 

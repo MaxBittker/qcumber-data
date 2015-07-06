@@ -15,6 +15,5 @@
     course_components: 
       Lecture: "Required"
     grading_basis: "Non-Graded Component"
-    typically_offered: "Fall"
     units: "6.00"
 

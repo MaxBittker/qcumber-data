@@ -16,6 +16,5 @@
     course_components: 
       Lecture: "Required"
     grading_basis: "Honours/Pass/Fail"
-    typically_offered: "Fall"
     units: "6.00"
 

@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisite     A grade of C in FREN110 or a grade of B- in [FREN100 or (FREN101 and FREN102) or FREN150].\nExclusion     No more than 1 course from FREN212; FREN241;"
+    enrollment_requirement: "Prerequisite     A grade of B- in [FREN150 or (FREN101 and FREN102) or FREN100] or a grade of C in FREN110.\nExclusion     No more than 3 units from FREN250; FREN344."
     grading_basis: "Graded"
     units: "3.00"
 
