@@ -4,8 +4,10 @@
 set -euo pipefail
 IFS=$'\n\t'
 
+[ -e node_modules/.bin/json2yaml ] || (echo json2yaml not installed! && exit 1)
+
 convert(){
-    mkdir data/$1
+    mkdir -p data/$1
     # wrap in brackets so don't have to worry about cd back out
     (
         cd json
