@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Corequisite     6.0 units in BIOL at the 200 level."
+    enrollment_requirement: "Corequisite     6.0 units in BIOL at the 200 level or above."
     grading_basis: "Graded"
     units: "3.00"
 

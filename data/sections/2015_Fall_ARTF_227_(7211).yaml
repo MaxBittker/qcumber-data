@@ -1,7 +1,7 @@
 ---
   _unique: "001-LAB (7211)"
   availability: 
-    class_curr: 0
+    class_curr: 1
     class_max: 15
     wait_curr: 0
     wait_max: 2
@@ -16,11 +16,20 @@
     year: "2015"
   classes: 
     - 
+      day_of_week: 3
+      end_time: "14:30:00"
+      instructors: 
+        - "Winton, Jan"
+      location: "ONTARIO RM115"
+      start_time: "11:30:00"
+      term_end: "2015-10-23"
+      term_start: "2015-09-14"
+    - 
       day_of_week: 2
       end_time: "14:30:00"
       instructors: 
         - "Winton, Jan"
-      location: "ONTARIO RM106"
+      location: "ONTARIO RM115"
       start_time: "11:30:00"
       term_end: "2015-10-23"
       term_start: "2015-09-14"
@@ -29,24 +38,6 @@
       end_time: "14:30:00"
       instructors: 
         - "Winton, Jan"
-      location: "ONTARIO RM106"
-      start_time: "11:30:00"
-      term_end: "2015-10-23"
-      term_start: "2015-09-14"
-    - 
-      day_of_week: 3
-      end_time: "14:30:00"
-      instructors: 
-        - "Winton, Jan"
-      location: "ONTARIO RM115"
-      start_time: "11:30:00"
-      term_end: "2015-10-23"
-      term_start: "2015-09-14"
-    - 
-      day_of_week: 2
-      end_time: "14:30:00"
-      instructors: 
-        - "Winton, Jan"
       location: "ONTARIO RM115"
       start_time: "11:30:00"
       term_end: "2015-10-23"
@@ -61,7 +52,25 @@
       term_end: "2015-10-23"
       term_start: "2015-09-14"
     - 
+      day_of_week: 3
+      end_time: "14:30:00"
+      instructors: 
+        - "Dhaliwal, Sarindar"
+      location: "TBA"
+      start_time: "11:30:00"
+      term_end: "2015-12-04"
+      term_start: "2015-10-26"
+    - 
       day_of_week: 2
+      end_time: "14:30:00"
+      instructors: 
+        - "Dhaliwal, Sarindar"
+      location: "TBA"
+      start_time: "11:30:00"
+      term_end: "2015-12-04"
+      term_start: "2015-10-26"
+    - 
+      day_of_week: 1
       end_time: "14:30:00"
       instructors: 
         - "Dhaliwal, Sarindar"
@@ -77,24 +86,6 @@
       location: "TBA"
       start_time: "14:30:00"
       term_end: "2015-12-04"
-      term_start: "2015-10-26"
-    - 
-      day_of_week: 3
-      end_time: "14:30:00"
-      instructors: 
-        - "Winton, Jan"
-      location: "ONTARIO RM106"
-      start_time: "11:30:00"
-      term_end: "2015-10-23"
-      term_start: "2015-09-14"
-    - 
-      day_of_week: 4
-      end_time: "17:30:00"
-      instructors: 
-        - "Winton, Jan"
-      location: "ONTARIO RM106"
-      start_time: "14:30:00"
-      term_end: "2015-10-23"
       term_start: "2015-09-14"
   details: 
     campus: "Main"

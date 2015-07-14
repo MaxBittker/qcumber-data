@@ -15,6 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
+    enrollment_requirement: "Registered in a BSCE Academic Program."
     grading_basis: "Graded"
     units: "3.50"
 

@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
       Practicum: "Required"
-    enrollment_requirement: "PREREQUISITES    (GPHY 101/3.0 and GPHY 102/3.0) or (BIOL 102/3.0 and BIOL 103/3.0 or (GEOL 104/3.0 and GEOL 107/3.0) or permission of the Department.\r\nEXCLUSION    No more than 3.0 units from GPHY 243/3.0; GEOL 463/3.0."
+    enrollment_requirement: "PREREQUISITES    (GPHY 101/3.0 and GPHY 102/3.0) or (BIOL 102/3.0 and BIOL 103/3.0 or (GEOL 104/3.0 and GEOL 107/3.0) or permission of the Department."
     grading_basis: "Graded"
     units: "3.00"
 

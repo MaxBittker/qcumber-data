@@ -18,8 +18,7 @@
     - 
       day_of_week: 3
       end_time: "17:50:00"
-      instructors: 
-        - "LaPointe, Danielle Elyce"
+      instructors: []
       location: "DUNCAN MCARTHUR ROOM A317S"
       start_time: "15:50:00"
       term_end: "2015-10-09"
@@ -27,8 +26,7 @@
     - 
       day_of_week: 3
       end_time: "17:50:00"
-      instructors: 
-        - "LaPointe, Danielle Elyce"
+      instructors: []
       location: "DUNCAN MCARTHUR RM A317N"
       start_time: "15:50:00"
       term_end: "2015-10-09"
@@ -36,8 +34,7 @@
     - 
       day_of_week: 3
       end_time: "17:50:00"
-      instructors: 
-        - "LaPointe, Danielle Elyce"
+      instructors: []
       location: "DUNCAN MCARTHUR ROOM A317S"
       start_time: "15:50:00"
       term_end: "2015-12-18"
@@ -45,8 +42,7 @@
     - 
       day_of_week: 3
       end_time: "17:50:00"
-      instructors: 
-        - "LaPointe, Danielle Elyce"
+      instructors: []
       location: "DUNCAN MCARTHUR RM A317N"
       start_time: "15:50:00"
       term_end: "2015-12-18"
