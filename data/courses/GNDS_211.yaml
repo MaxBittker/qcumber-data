@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "WMNS120 OR WMNS225 OR WMNS125 OR GNDS120 OR (WMNS101 AND WMNS102)"
+    enrollment_requirement: "Prerequisite      GNDS120 or GNDS125"
     grading_basis: "Graded"
     units: "3.00"
 

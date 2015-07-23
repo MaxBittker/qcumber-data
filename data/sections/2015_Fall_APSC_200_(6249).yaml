@@ -18,8 +18,7 @@
     - 
       day_of_week: 3
       end_time: "11:30:00"
-      instructors: 
-        - "Sneep, Jan"
+      instructors: []
       location: "BEAMISH-MUNRO RM313A"
       start_time: "09:30:00"
       term_end: "2015-12-04"
@@ -27,8 +26,7 @@
     - 
       day_of_week: 4
       end_time: "18:30:00"
-      instructors: 
-        - "Sneep, Jan"
+      instructors: []
       location: "BEAMISH-MUNRO RM313A"
       start_time: "16:30:00"
       term_end: "2015-12-04"
@@ -36,17 +34,15 @@
     - 
       day_of_week: 4
       end_time: "12:30:00"
-      instructors: 
-        - "Sneep, Jan"
+      instructors: []
       location: "DUPUIS RM217"
       start_time: "11:30:00"
       term_end: "2015-12-04"
-      term_start: "2015-09-14"
+      term_start: "2015-10-29"
     - 
       day_of_week: 4
       end_time: "18:30:00"
-      instructors: 
-        - "Sneep, Jan"
+      instructors: []
       location: "BEAMISH-MUNRO RM313B"
       start_time: "16:30:00"
       term_end: "2015-12-04"
@@ -54,10 +50,25 @@
     - 
       day_of_week: 3
       end_time: "11:30:00"
-      instructors: 
-        - "Sneep, Jan"
+      instructors: []
       location: "BEAMISH-MUNRO RM313B"
       start_time: "09:30:00"
+      term_end: "2015-12-04"
+      term_start: "2015-09-14"
+    - 
+      day_of_week: 4
+      end_time: "18:30:00"
+      instructors: []
+      location: "BEAMISH-MUNRO RM109"
+      start_time: "16:30:00"
+      term_end: "2015-12-04"
+      term_start: "2015-09-14"
+    - 
+      day_of_week: null
+      end_time: null
+      instructors: []
+      location: "BEAMISH-MUNRO RM109"
+      start_time: null
       term_end: "2015-12-04"
       term_start: "2015-09-14"
   details: 

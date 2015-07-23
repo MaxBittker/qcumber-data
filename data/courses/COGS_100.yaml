@@ -11,9 +11,10 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    career: "Distance Studies"
+    career: "Undergraduate"
     course_components: 
       Lecture: "Required"
+    enrollment_requirement: "One-way Exclusion    May not be taken with or after CISC352; PYSC200."
     grading_basis: "Graded"
     units: "3.00"
 

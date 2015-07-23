@@ -1,7 +1,7 @@
 ---
   _unique: "005-LAB (5846)"
   availability: 
-    class_curr: 30
+    class_curr: 31
     class_max: 31
     wait_curr: 0
     wait_max: 0
@@ -10,7 +10,7 @@
     course: "271"
     season: "Fall"
     solus_id: "5846"
-    status: "Open"
+    status: "Closed"
     subject: "ELEC"
     type: "LAB"
     year: "2015"
@@ -18,7 +18,8 @@
     - 
       day_of_week: 3
       end_time: "21:30:00"
-      instructors: []
+      instructors: 
+        - "Manjikian, Naraig"
       location: "BEAMISH-MUNRO RM212"
       start_time: "18:30:00"
       term_end: "2015-09-20"
@@ -26,7 +27,8 @@
     - 
       day_of_week: 3
       end_time: "21:30:00"
-      instructors: []
+      instructors: 
+        - "Manjikian, Naraig"
       location: "BEAMISH-MUNRO RM212"
       start_time: "18:30:00"
       term_end: "2015-10-04"
@@ -34,7 +36,8 @@
     - 
       day_of_week: 3
       end_time: "21:30:00"
-      instructors: []
+      instructors: 
+        - "Manjikian, Naraig"
       location: "BEAMISH-MUNRO RM212"
       start_time: "18:30:00"
       term_end: "2015-10-18"
@@ -42,7 +45,8 @@
     - 
       day_of_week: 3
       end_time: "21:30:00"
-      instructors: []
+      instructors: 
+        - "Manjikian, Naraig"
       location: "BEAMISH-MUNRO RM212"
       start_time: "18:30:00"
       term_end: "2015-11-01"
@@ -50,7 +54,8 @@
     - 
       day_of_week: 3
       end_time: "21:30:00"
-      instructors: []
+      instructors: 
+        - "Manjikian, Naraig"
       location: "BEAMISH-MUNRO RM212"
       start_time: "18:30:00"
       term_end: "2015-11-15"
@@ -58,7 +63,8 @@
     - 
       day_of_week: 3
       end_time: "21:30:00"
-      instructors: []
+      instructors: 
+        - "Manjikian, Naraig"
       location: "BEAMISH-MUNRO RM212"
       start_time: "18:30:00"
       term_end: "2015-11-29"

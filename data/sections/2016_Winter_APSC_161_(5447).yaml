@@ -1,7 +1,7 @@
 ---
   _unique: "802-LAB (5447)"
   availability: 
-    class_curr: 0
+    class_curr: 80
     class_max: 90
     wait_curr: 0
     wait_max: 0
@@ -16,11 +16,11 @@
     year: "2016"
   classes: 
     - 
-      day_of_week: 2
+      day_of_week: 4
       end_time: "21:30:00"
       instructors: 
         - "Yao, Zhongwen"
-      location: "BEAMISH-MUNRO RM212"
+      location: "ELLIS RM321"
       start_time: "19:30:00"
       term_end: "2016-04-01"
       term_start: "2016-01-04"
@@ -29,7 +29,7 @@
       end_time: "21:30:00"
       instructors: 
         - "Yao, Zhongwen"
-      location: "BEAMISH-MUNRO RM214"
+      location: "ELLIS RM321"
       start_time: "19:30:00"
       term_end: "2016-04-01"
       term_start: "2016-01-04"
@@ -40,7 +40,16 @@
         - "Yao, Zhongwen"
       location: "BEAMISH-MUNRO RM212"
       start_time: "19:30:00"
-      term_end: "2016-04-01"
+      term_end: "2016-01-08"
+      term_start: "2016-01-04"
+    - 
+      day_of_week: 2
+      end_time: "21:30:00"
+      instructors: 
+        - "Yao, Zhongwen"
+      location: "BEAMISH-MUNRO RM212"
+      start_time: "19:30:00"
+      term_end: "2016-01-08"
       term_start: "2016-01-04"
     - 
       day_of_week: 4
@@ -49,7 +58,16 @@
         - "Yao, Zhongwen"
       location: "BEAMISH-MUNRO RM214"
       start_time: "19:30:00"
-      term_end: "2016-04-01"
+      term_end: "2016-01-08"
+      term_start: "2016-01-04"
+    - 
+      day_of_week: 2
+      end_time: "21:30:00"
+      instructors: 
+        - "Yao, Zhongwen"
+      location: "BEAMISH-MUNRO RM214"
+      start_time: "19:30:00"
+      term_end: "2016-01-08"
       term_start: "2016-01-04"
   details: 
     campus: "Main"

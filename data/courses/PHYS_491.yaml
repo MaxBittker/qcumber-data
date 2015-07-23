@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Prerequisite     Level 3 or 4 in a PHYS, ASPH or MAPH Plan.\nCorequisite     PHYS350."
+    enrollment_requirement: "Prerequisite     Level 3 or 4 in a PHYS, ASPH or MAPH Plan."
     grading_basis: "Graded"
     units: "3.00"
 

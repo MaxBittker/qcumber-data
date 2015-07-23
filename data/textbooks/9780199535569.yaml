@@ -10,5 +10,6 @@
   new_price: "$7.53"
   required: true
   title: "Pride and Prejudice"
+  used_available: 1
   used_price: "$5.65"
 

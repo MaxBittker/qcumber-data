@@ -21,7 +21,7 @@
       instructors: []
       location: "GOODES RM153"
       start_time: "10:00:00"
-      term_end: "2015-10-09"
+      term_end: "2015-12-04"
       term_start: "2015-09-14"
     - 
       day_of_week: 3
@@ -29,7 +29,7 @@
       instructors: []
       location: "GOODES RM153"
       start_time: "08:30:00"
-      term_end: "2015-10-09"
+      term_end: "2015-12-04"
       term_start: "2015-09-14"
   details: 
     campus: "Main"

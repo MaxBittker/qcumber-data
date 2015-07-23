@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "Prerequisite    A grade of C in SPAN204 \nCorequisite     SPAN205"
+    enrollment_requirement: "Prerequisite    A grade of C in SPAN204 \nCorequisite     SPAN205\nOne-Way Exclusion     May not be taken with or after SPAN301; SPAN302; SPAN303; SPAN304; SPAN401; SPAN402."
     grading_basis: "Graded"
     units: "3.00"
 

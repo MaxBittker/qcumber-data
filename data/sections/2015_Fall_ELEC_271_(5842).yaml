@@ -18,7 +18,8 @@
     - 
       day_of_week: 1
       end_time: "21:30:00"
-      instructors: []
+      instructors: 
+        - "Manjikian, Naraig"
       location: "BEAMISH-MUNRO RM212"
       start_time: "18:30:00"
       term_end: "2015-09-20"
@@ -26,7 +27,8 @@
     - 
       day_of_week: 1
       end_time: "21:30:00"
-      instructors: []
+      instructors: 
+        - "Manjikian, Naraig"
       location: "BEAMISH-MUNRO RM212"
       start_time: "18:30:00"
       term_end: "2015-10-04"
@@ -34,7 +36,8 @@
     - 
       day_of_week: 1
       end_time: "21:30:00"
-      instructors: []
+      instructors: 
+        - "Manjikian, Naraig"
       location: "BEAMISH-MUNRO RM212"
       start_time: "18:30:00"
       term_end: "2015-10-18"
@@ -42,7 +45,8 @@
     - 
       day_of_week: 1
       end_time: "21:30:00"
-      instructors: []
+      instructors: 
+        - "Manjikian, Naraig"
       location: "BEAMISH-MUNRO RM212"
       start_time: "18:30:00"
       term_end: "2015-11-01"
@@ -50,7 +54,8 @@
     - 
       day_of_week: 1
       end_time: "21:30:00"
-      instructors: []
+      instructors: 
+        - "Manjikian, Naraig"
       location: "BEAMISH-MUNRO RM212"
       start_time: "18:30:00"
       term_end: "2015-11-15"
@@ -58,7 +63,8 @@
     - 
       day_of_week: 1
       end_time: "21:30:00"
-      instructors: []
+      instructors: 
+        - "Manjikian, Naraig"
       location: "BEAMISH-MUNRO RM212"
       start_time: "18:30:00"
       term_end: "2015-11-29"
