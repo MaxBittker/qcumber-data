@@ -11,10 +11,8 @@ convert(){
     # wrap in brackets so don't have to worry about cd back out
     (
         cd json
-        for x in $(ls $1/* -1); do
-            ../node_modules/.bin/json2yaml $x > ../data/${x%.json}.yaml &
-        done
-        wait
+        ls $1/* -1 | sed 's/\.json//g' | xargs -I{} -P 4 \
+            bash -c "../node_modules/.bin/json2yaml {}.json > ../data/{}.yaml"
     )
     echo "Done $1"
 }
