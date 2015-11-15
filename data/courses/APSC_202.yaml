@@ -15,6 +15,7 @@
     course_components: 
       Lecture: "Required"
       Studio: "Required"
+    enrollment_requirement: "Prerequisites: APSC 101 and permission of the Associate Dean (Academic)\nCorequisite: APSC 293\nExclusion: APSC100, APSC103, APSC 200, and MECH212"
     grading_basis: "Graded"
     units: "4.00"
 

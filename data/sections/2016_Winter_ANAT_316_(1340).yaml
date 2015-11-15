@@ -1,9 +1,9 @@
 ---
   _unique: "005-LAB (1340)"
   availability: 
-    class_curr: 42
+    class_curr: 60
     class_max: 80
-    wait_curr: 0
+    wait_curr: 2
     wait_max: 8
   basic: 
     class_num: "005"

@@ -1,8 +1,8 @@
 ---
   _unique: "001-LEC (3691)"
   availability: 
-    class_curr: 81
-    class_max: 81
+    class_curr: 91
+    class_max: 120
     wait_curr: 0
     wait_max: 0
   basic: 
@@ -10,7 +10,7 @@
     course: "250B"
     season: "Winter"
     solus_id: "3691"
-    status: "Closed"
+    status: "Open"
     subject: "PHIL"
     type: "LEC"
     year: "2016"
@@ -20,7 +20,7 @@
       end_time: "14:30:00"
       instructors: 
         - "Smith, Mark C"
-      location: "DUNNING RM11"
+      location: "CHERNOFF RM117"
       start_time: "13:00:00"
       term_end: "2016-04-01"
       term_start: "2016-01-04"
@@ -29,7 +29,7 @@
       end_time: "13:00:00"
       instructors: 
         - "Smith, Mark C"
-      location: "DUNNING RM11"
+      location: "CHERNOFF RM117"
       start_time: "11:30:00"
       term_end: "2016-04-01"
       term_start: "2016-01-04"

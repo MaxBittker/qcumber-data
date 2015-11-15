@@ -1,10 +1,10 @@
 ---
   _unique: "001-LEC (1971)"
   availability: 
-    class_curr: 134
-    class_max: 175
-    wait_curr: 0
-    wait_max: 0
+    class_curr: 189
+    class_max: 221
+    wait_curr: 178
+    wait_max: 15
   basic: 
     class_num: "001"
     course: "223"

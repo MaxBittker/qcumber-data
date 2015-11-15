@@ -15,6 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
+    enrollment_requirement: "Prerequisites: APSC171, APSC172, and registered in the BSCE program."
     grading_basis: "Graded"
     units: "3.00"
 

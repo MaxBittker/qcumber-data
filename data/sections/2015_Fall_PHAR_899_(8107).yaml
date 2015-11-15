@@ -18,7 +18,8 @@
     - 
       day_of_week: null
       end_time: null
-      instructors: []
+      instructors: 
+        - "Ozolins, Terence Robert"
       location: "TBA"
       start_time: null
       term_end: "2015-12-04"

@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "PREREQ: APSC 142 and CMPE 271 or CISC 271 or MTHE 272 or MATH 272 and registered in BSCE>\r\nEXCLUSION: COMP 230"
+    enrollment_requirement: "PREREQ: CMPE 212, CMPE 271 (CISC 271) or MTHE 272 (MATH 272) and registered in BSCE.\nEXCLUSION: COMP 230"
     grading_basis: "Graded"
     units: "3.00"
 

@@ -15,6 +15,7 @@
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
+    enrollment_requirement: "Prerequisite: APSC112 and registered in the BSCE program."
     grading_basis: "Graded"
     units: "2.00"
 

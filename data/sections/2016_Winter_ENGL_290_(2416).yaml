@@ -10,7 +10,7 @@
     course: "290"
     season: "Winter"
     solus_id: "2416"
-    status: "Closed"
+    status: null
     subject: "ENGL"
     type: "SEM"
     year: "2016"

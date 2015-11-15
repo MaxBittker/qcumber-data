@@ -1,16 +1,16 @@
 ---
   _unique: "001-LEC (4684)"
   availability: 
-    class_curr: 119
+    class_curr: 150
     class_max: 150
-    wait_curr: 0
+    wait_curr: 8
     wait_max: 15
   basic: 
     class_num: "001"
     course: "215"
     season: "Winter"
     solus_id: "4684"
-    status: "Open"
+    status: null
     subject: "PSYC"
     type: "LEC"
     year: "2016"
@@ -20,7 +20,7 @@
       end_time: "16:00:00"
       instructors: 
         - "Troje, Nikolaus"
-      location: "STIRLING RM A"
+      location: "KINES & HLTH RM100"
       start_time: "14:30:00"
       term_end: "2016-04-01"
       term_start: "2016-01-04"
@@ -29,7 +29,7 @@
       end_time: "17:30:00"
       instructors: 
         - "Troje, Nikolaus"
-      location: "STIRLING RM A"
+      location: "KINES & HLTH RM100"
       start_time: "16:00:00"
       term_end: "2016-04-01"
       term_start: "2016-01-04"

@@ -10,7 +10,7 @@
     course: "305"
     season: "Winter"
     solus_id: "4198"
-    status: "Closed"
+    status: null
     subject: "HLTH"
     type: "TUT"
     year: "2016"

@@ -15,7 +15,7 @@
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
-    enrollment_requirement: "Must be registered in a BSCE program"
+    enrollment_requirement: "Prerequisites: MTHE225, MECH230 and registered in the BSCE program."
     grading_basis: "Graded"
     units: "4.50"
 

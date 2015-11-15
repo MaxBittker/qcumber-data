@@ -18,7 +18,8 @@
     - 
       day_of_week: 4
       end_time: "09:30:00"
-      instructors: []
+      instructors: 
+        - "Tod, James"
       location: "WALTER LIGHT RM210"
       start_time: "08:30:00"
       term_end: "2015-12-04"

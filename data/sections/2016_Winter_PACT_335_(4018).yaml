@@ -1,10 +1,10 @@
 ---
   _unique: "002-PRA (4018)"
   availability: 
-    class_curr: 9
+    class_curr: 8
     class_max: 20
     wait_curr: 0
-    wait_max: 0
+    wait_max: 2
   basic: 
     class_num: "002"
     course: "335"
@@ -20,7 +20,7 @@
       end_time: null
       instructors: 
         - "Torcolacci, Melody"
-      location: "STIRLING RM A"
+      location: "TBA"
       start_time: null
       term_end: "2016-04-01"
       term_start: "2016-01-04"

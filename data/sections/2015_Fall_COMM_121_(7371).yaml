@@ -1,7 +1,7 @@
 ---
   _unique: "005-LEC (7371)"
   availability: 
-    class_curr: 75
+    class_curr: 81
     class_max: 80
     wait_curr: 0
     wait_max: 0
@@ -10,7 +10,7 @@
     course: "121"
     season: "Fall"
     solus_id: "7371"
-    status: "Open"
+    status: "Closed"
     subject: "COMM"
     type: "LEC"
     year: "2015"

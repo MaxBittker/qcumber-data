@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Topic: Migration and Development\r\nDescription: This course introduces students to key concepts in global migration and its implications on development for both sending and receiving states. For example, the departure of skilled and experienced professionals has raised concerns about the impacts of the 'brain drain' in the developing world. At the same time, migrants are increasingly seen as key agents in facilitating development in their countries of origin. International migration is (re)-shaping societies and politics around the globe.\r\nPrerequisite: MA standing in Global Development Studies, or permission of the Department.     \r\nExclusion: DEVS-498*"
+    description: "This course reviews the theory and practice of public versus private provision of essential services such as water, electricity and health care, with a focus on countries in the South."
     number: "867"
     subject: "DEVS"
-    title: "Topics in Development Studies 7"
+    title: "Privatization and its Discontents"
   extra: 
     CEAB: 
       Basic Sci: 0
@@ -11,9 +11,11 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
+    add_consent: "Department Consent Required"
     career: "Graduate"
     course_components: 
       Seminar: "Required"
+    drop_consent: "Department Consent Required"
     grading_basis: "Graded"
     units: "3.00"
 

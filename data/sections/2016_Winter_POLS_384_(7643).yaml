@@ -1,9 +1,9 @@
 ---
   _unique: "001-LEC (7643)"
   availability: 
-    class_curr: 169
+    class_curr: 190
     class_max: 200
-    wait_curr: 0
+    wait_curr: 1
     wait_max: 20
   basic: 
     class_num: "001"
@@ -19,7 +19,7 @@
       day_of_week: 2
       end_time: "13:00:00"
       instructors: 
-        - "Goodyear-Grant, Elizabeth"
+        - "Yaghi, Mohammad"
       location: "HUMPHREY AUD"
       start_time: "11:30:00"
       term_end: "2016-04-01"
@@ -28,7 +28,7 @@
       day_of_week: 5
       end_time: "14:30:00"
       instructors: 
-        - "Goodyear-Grant, Elizabeth"
+        - "Yaghi, Mohammad"
       location: "HUMPHREY AUD"
       start_time: "13:00:00"
       term_end: "2016-04-01"

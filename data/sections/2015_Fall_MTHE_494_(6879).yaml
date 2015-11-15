@@ -18,8 +18,7 @@
     - 
       day_of_week: 4
       end_time: "12:30:00"
-      instructors: 
-        - "Linder, Tamas"
+      instructors: []
       location: "JEFFERY RM118"
       start_time: "11:30:00"
       term_end: "2015-12-04"
@@ -27,8 +26,7 @@
     - 
       day_of_week: 5
       end_time: "14:30:00"
-      instructors: 
-        - "Linder, Tamas"
+      instructors: []
       location: "JEFFERY RM118"
       start_time: "13:30:00"
       term_end: "2015-12-04"
@@ -36,8 +34,7 @@
     - 
       day_of_week: 2
       end_time: "15:30:00"
-      instructors: 
-        - "Linder, Tamas"
+      instructors: []
       location: "JEFFERY RM225"
       start_time: "14:30:00"
       term_end: "2015-12-04"

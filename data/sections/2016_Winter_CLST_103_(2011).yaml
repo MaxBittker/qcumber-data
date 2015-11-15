@@ -1,16 +1,16 @@
 ---
   _unique: "001-LEC (2011)"
   availability: 
-    class_curr: 243
-    class_max: 400
-    wait_curr: 0
+    class_curr: 390
+    class_max: 390
+    wait_curr: 7
     wait_max: 40
   basic: 
     class_num: "001"
     course: "103"
     season: "Winter"
     solus_id: "2011"
-    status: "Open"
+    status: null
     subject: "CLST"
     type: "LEC"
     year: "2016"

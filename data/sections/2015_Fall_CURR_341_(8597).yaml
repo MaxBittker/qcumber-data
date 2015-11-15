@@ -17,68 +17,112 @@
   classes: 
     - 
       day_of_week: 4
-      end_time: "15:30:00"
-      instructors: []
-      location: "DUNCAN MCARTHUR RM A207N"
-      start_time: "13:30:00"
+      end_time: "17:50:00"
+      instructors: 
+        - "Sliwa, Stephen"
+      location: "DUNCAN MCARTHUR  RM A313N"
+      start_time: "15:50:00"
       term_end: "2015-10-09"
       term_start: "2015-09-02"
     - 
       day_of_week: 2
-      end_time: "15:30:00"
-      instructors: []
-      location: "DUNCAN MCARTHUR RM A207N"
-      start_time: "13:30:00"
-      term_end: "2015-10-09"
-      term_start: "2015-09-02"
-    - 
-      day_of_week: 4
-      end_time: "15:30:00"
-      instructors: []
-      location: "DUNCAN MCARTHUR RM A207N"
-      start_time: "13:30:00"
-      term_end: "2015-12-18"
-      term_start: "2015-11-23"
-    - 
-      day_of_week: 2
-      end_time: "15:30:00"
-      instructors: []
-      location: "DUNCAN MCARTHUR RM A207N"
-      start_time: "13:30:00"
-      term_end: "2015-12-18"
-      term_start: "2015-11-23"
-    - 
-      day_of_week: 4
-      end_time: "15:30:00"
-      instructors: []
-      location: "DUNCAN MCARTHUR RM A207S"
-      start_time: "13:30:00"
-      term_end: "2015-10-09"
-      term_start: "2015-09-02"
-    - 
-      day_of_week: 2
-      end_time: "15:30:00"
-      instructors: []
-      location: "DUNCAN MCARTHUR RM A207S"
-      start_time: "13:30:00"
+      end_time: "17:50:00"
+      instructors: 
+        - "Sliwa, Stephen"
+      location: "DUNCAN MCARTHUR  RM A313N"
+      start_time: "15:50:00"
       term_end: "2015-10-09"
       term_start: "2015-09-02"
     - 
       day_of_week: 4
-      end_time: "15:30:00"
-      instructors: []
-      location: "DUNCAN MCARTHUR RM A207S"
-      start_time: "13:30:00"
-      term_end: "2015-12-18"
+      end_time: "17:50:00"
+      instructors: 
+        - "Sliwa, Stephen"
+      location: "DUNCAN MCARTHUR  RM A313N"
+      start_time: "15:50:00"
+      term_end: "2015-12-03"
       term_start: "2015-11-23"
     - 
       day_of_week: 2
-      end_time: "15:30:00"
-      instructors: []
-      location: "DUNCAN MCARTHUR RM A207S"
-      start_time: "13:30:00"
-      term_end: "2015-12-18"
+      end_time: "17:50:00"
+      instructors: 
+        - "Sliwa, Stephen"
+      location: "DUNCAN MCARTHUR  RM A313N"
+      start_time: "15:50:00"
+      term_end: "2015-12-03"
       term_start: "2015-11-23"
+    - 
+      day_of_week: 4
+      end_time: "17:50:00"
+      instructors: 
+        - "Sliwa, Stephen"
+      location: "DUNCAN MCARTHUR RM A313S"
+      start_time: "15:50:00"
+      term_end: "2015-10-09"
+      term_start: "2015-09-02"
+    - 
+      day_of_week: 2
+      end_time: "17:50:00"
+      instructors: 
+        - "Sliwa, Stephen"
+      location: "DUNCAN MCARTHUR RM A313S"
+      start_time: "15:50:00"
+      term_end: "2015-10-09"
+      term_start: "2015-09-02"
+    - 
+      day_of_week: 4
+      end_time: "17:50:00"
+      instructors: 
+        - "Sliwa, Stephen"
+      location: "DUNCAN MCARTHUR RM A313S"
+      start_time: "15:50:00"
+      term_end: "2015-12-03"
+      term_start: "2015-11-23"
+    - 
+      day_of_week: 2
+      end_time: "17:50:00"
+      instructors: 
+        - "Sliwa, Stephen"
+      location: "DUNCAN MCARTHUR RM A313S"
+      start_time: "15:50:00"
+      term_end: "2015-12-03"
+      term_start: "2015-11-23"
+    - 
+      day_of_week: 4
+      end_time: "17:50:00"
+      instructors: 
+        - "Sliwa, Stephen"
+      location: "DUNCAN MCARTHUR  RM A313N"
+      start_time: "15:50:00"
+      term_end: "2015-12-18"
+      term_start: "2015-12-10"
+    - 
+      day_of_week: 2
+      end_time: "17:50:00"
+      instructors: 
+        - "Sliwa, Stephen"
+      location: "DUNCAN MCARTHUR  RM A313N"
+      start_time: "15:50:00"
+      term_end: "2015-12-18"
+      term_start: "2015-12-10"
+    - 
+      day_of_week: 4
+      end_time: "17:50:00"
+      instructors: 
+        - "Sliwa, Stephen"
+      location: "DUNCAN MCARTHUR RM A313S"
+      start_time: "15:50:00"
+      term_end: "2015-12-18"
+      term_start: "2015-12-10"
+    - 
+      day_of_week: 2
+      end_time: "17:50:00"
+      instructors: 
+        - "Sliwa, Stephen"
+      location: "DUNCAN MCARTHUR RM A313S"
+      start_time: "15:50:00"
+      term_end: "2015-12-18"
+      term_start: "2015-12-10"
   details: 
     campus: "Main"
     location: "Kingston (West), ON"

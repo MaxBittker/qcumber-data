@@ -3,14 +3,14 @@
   availability: 
     class_curr: 16
     class_max: 16
-    wait_curr: 0
+    wait_curr: 1
     wait_max: 2
   basic: 
     class_num: "003"
     course: "442"
     season: "Winter"
     solus_id: "1813"
-    status: "Closed"
+    status: null
     subject: "BIOL"
     type: "TUT"
     year: "2016"

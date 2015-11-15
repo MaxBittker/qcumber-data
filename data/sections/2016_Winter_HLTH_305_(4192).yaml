@@ -1,16 +1,16 @@
 ---
   _unique: "004-TUT (4192)"
   availability: 
-    class_curr: 27
+    class_curr: 26
     class_max: 25
-    wait_curr: 0
+    wait_curr: 1
     wait_max: 3
   basic: 
     class_num: "004"
     course: "305"
     season: "Winter"
     solus_id: "4192"
-    status: "Closed"
+    status: null
     subject: "HLTH"
     type: "TUT"
     year: "2016"

@@ -15,6 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
+    enrollment_requirement: "PREREQUISITE: APSC174\nEXCLUSIONS:  MTHE 312 (MATH 312)"
     grading_basis: "Graded"
     units: "3.50"
 

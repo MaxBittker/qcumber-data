@@ -3,7 +3,7 @@
   availability: 
     class_curr: 60
     class_max: 60
-    wait_curr: 0
+    wait_curr: 6
     wait_max: 6
   basic: 
     class_num: "001"
@@ -18,7 +18,8 @@
     - 
       day_of_week: 2
       end_time: "14:30:00"
-      instructors: []
+      instructors: 
+        - "Farrelly, Colin"
       location: "CHERNOFF RM211"
       start_time: "13:00:00"
       term_end: "2016-04-01"
@@ -26,7 +27,8 @@
     - 
       day_of_week: 4
       end_time: "13:00:00"
-      instructors: []
+      instructors: 
+        - "Farrelly, Colin"
       location: "CHERNOFF RM211"
       start_time: "11:30:00"
       term_end: "2016-04-01"

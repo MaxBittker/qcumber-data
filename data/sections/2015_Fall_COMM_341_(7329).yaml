@@ -20,7 +20,7 @@
       end_time: "11:30:00"
       instructors: 
         - "Rogers, Keith W"
-      location: "GOODES RM153"
+      location: "GOODES RM120"
       start_time: "10:00:00"
       term_end: "2015-12-04"
       term_start: "2015-09-14"
@@ -29,7 +29,7 @@
       end_time: "10:00:00"
       instructors: 
         - "Rogers, Keith W"
-      location: "GOODES RM153"
+      location: "GOODES RM120"
       start_time: "08:30:00"
       term_end: "2015-12-04"
       term_start: "2015-09-14"

@@ -15,6 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
+    enrollment_requirement: "Prerequisite: APSC 111, APSC 171. Permission of the department for students not registered in Mechanical Engineering"
     grading_basis: "Graded"
     units: "4.00"
 

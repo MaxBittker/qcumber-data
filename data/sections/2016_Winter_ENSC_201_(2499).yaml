@@ -1,16 +1,16 @@
 ---
   _unique: "001-LEC (2499)"
   availability: 
-    class_curr: 159
+    class_curr: 215
     class_max: 215
-    wait_curr: 0
+    wait_curr: 3
     wait_max: 21
   basic: 
     class_num: "001"
     course: "201"
     season: "Winter"
     solus_id: "2499"
-    status: "Open"
+    status: null
     subject: "ENSC"
     type: "LEC"
     year: "2016"

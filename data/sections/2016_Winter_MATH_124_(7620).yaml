@@ -1,10 +1,10 @@
 ---
   _unique: "019-LDI (7620)"
   availability: 
-    class_curr: 210
-    class_max: 217
+    class_curr: 215
+    class_max: 221
     wait_curr: 0
-    wait_max: 0
+    wait_max: 2
   basic: 
     class_num: "019"
     course: "124"

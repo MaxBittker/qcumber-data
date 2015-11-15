@@ -1,8 +1,8 @@
 ---
   _unique: "005-TUT (8583)"
   availability: 
-    class_curr: 38
-    class_max: 40
+    class_curr: 36
+    class_max: 35
     wait_curr: 0
     wait_max: 0
   basic: 
@@ -10,7 +10,7 @@
     course: "101"
     season: "Fall"
     solus_id: "8583"
-    status: "Open"
+    status: "Closed"
     subject: "FOUN"
     type: "TUT"
     year: "2015"

@@ -1,7 +1,7 @@
 ---
   _unique: "001-LAB (3627)"
   availability: 
-    class_curr: 18
+    class_curr: 14
     class_max: 20
     wait_curr: 0
     wait_max: 2
@@ -17,20 +17,20 @@
   classes: 
     - 
       day_of_week: 4
-      end_time: "17:30:00"
+      end_time: "17:00:00"
       instructors: 
         - "Runions, Gregory"
       location: "IBCPA RM 105"
-      start_time: "16:30:00"
+      start_time: "16:00:00"
       term_end: "2015-12-04"
       term_start: "2015-09-14"
     - 
       day_of_week: 2
-      end_time: "17:30:00"
+      end_time: "17:00:00"
       instructors: 
         - "Runions, Gregory"
       location: "IBCPA RM 105"
-      start_time: "16:30:00"
+      start_time: "16:00:00"
       term_end: "2015-12-04"
       term_start: "2015-09-14"
     - 

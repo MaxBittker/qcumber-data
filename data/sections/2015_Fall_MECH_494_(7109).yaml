@@ -18,7 +18,8 @@
     - 
       day_of_week: 1
       end_time: "11:30:00"
-      instructors: []
+      instructors: 
+        - "Hassan, Elizabeth Ann"
       location: "JACKSN RM 301"
       start_time: "09:30:00"
       term_end: "2015-12-04"

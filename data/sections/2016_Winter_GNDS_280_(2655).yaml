@@ -1,16 +1,16 @@
 ---
   _unique: "001-LEC (2655)"
   availability: 
-    class_curr: 29
+    class_curr: 60
     class_max: 60
-    wait_curr: 0
+    wait_curr: 3
     wait_max: 6
   basic: 
     class_num: "001"
     course: "280"
     season: "Winter"
     solus_id: "2655"
-    status: "Open"
+    status: null
     subject: "GNDS"
     type: "LEC"
     year: "2016"

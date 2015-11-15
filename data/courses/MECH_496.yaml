@@ -16,7 +16,7 @@
       Laboratory: "Required"
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Prerequisite of CIVL220 and MECH328 and MECH393 and registered in a BSCE Academic Program."
+    enrollment_requirement: "Prerequisite of CIVL 220 or MECH 221, MECH 328, MECH 393 or permission of the instructor and registered in a BSCE Academic Program."
     grading_basis: "Graded"
     units: "3.50"
 

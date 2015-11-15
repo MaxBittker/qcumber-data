@@ -19,7 +19,7 @@
       day_of_week: 5
       end_time: "17:30:00"
       instructors: 
-        - "Poirier, David J"
+        - "Poirier, David"
       location: "DUPUIS LAB"
       start_time: "13:30:00"
       term_end: "2015-12-04"

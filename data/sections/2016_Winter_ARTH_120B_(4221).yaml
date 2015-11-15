@@ -1,7 +1,7 @@
 ---
   _unique: "003-TUT (4221)"
   availability: 
-    class_curr: 26
+    class_curr: 24
     class_max: 25
     wait_curr: 0
     wait_max: 0
@@ -10,7 +10,7 @@
     course: "120B"
     season: "Winter"
     solus_id: "4221"
-    status: "Closed"
+    status: "Open"
     subject: "ARTH"
     type: "TUT"
     year: "2016"

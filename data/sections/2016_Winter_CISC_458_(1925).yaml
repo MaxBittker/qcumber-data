@@ -1,10 +1,10 @@
 ---
   _unique: "002-LAB (1925)"
   availability: 
-    class_curr: 55
-    class_max: 80
+    class_curr: 73
+    class_max: 89
     wait_curr: 0
-    wait_max: 0
+    wait_max: 5
   basic: 
     class_num: "002"
     course: "458"

@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Prerequisites     CISC203 and CISC204 and CISC223 and CISC235"
+    enrollment_requirement: "Prerequisites     CISC203 and CISC204 and CISC223 and CISC235\nExclusion     No more than CISC322 and CISC326"
     grading_basis: "Graded"
     units: "3.00"
 

@@ -3,14 +3,14 @@
   availability: 
     class_curr: 25
     class_max: 25
-    wait_curr: 0
+    wait_curr: 2
     wait_max: 3
   basic: 
     class_num: "002"
     course: "305"
     season: "Winter"
     solus_id: "4188"
-    status: "Closed"
+    status: null
     subject: "HLTH"
     type: "TUT"
     year: "2016"

@@ -1,10 +1,10 @@
 ---
   _unique: "003-LAB (3498)"
   availability: 
-    class_curr: 76
-    class_max: 80
+    class_curr: 80
+    class_max: 83
     wait_curr: 0
-    wait_max: 0
+    wait_max: 7
   basic: 
     class_num: "003"
     course: "212"

@@ -1,7 +1,7 @@
 ---
   _unique: "005-TUT (5006)"
   availability: 
-    class_curr: 8
+    class_curr: 24
     class_max: 30
     wait_curr: 0
     wait_max: 0
@@ -19,7 +19,7 @@
       day_of_week: 1
       end_time: "11:30:00"
       instructors: []
-      location: "ONTARIO RM207"
+      location: "KINES & HLTH RM107"
       start_time: "10:30:00"
       term_end: "2015-09-27"
       term_start: "2015-09-21"
@@ -27,7 +27,7 @@
       day_of_week: 1
       end_time: "11:30:00"
       instructors: []
-      location: "ONTARIO RM207"
+      location: "KINES & HLTH RM107"
       start_time: "10:30:00"
       term_end: "2015-10-11"
       term_start: "2015-10-05"
@@ -35,7 +35,7 @@
       day_of_week: 1
       end_time: "11:30:00"
       instructors: []
-      location: "ONTARIO RM207"
+      location: "KINES & HLTH RM107"
       start_time: "10:30:00"
       term_end: "2015-10-25"
       term_start: "2015-10-19"
@@ -43,7 +43,7 @@
       day_of_week: 1
       end_time: "11:30:00"
       instructors: []
-      location: "ONTARIO RM207"
+      location: "KINES & HLTH RM107"
       start_time: "10:30:00"
       term_end: "2015-11-08"
       term_start: "2015-11-02"
@@ -51,7 +51,7 @@
       day_of_week: 1
       end_time: "11:30:00"
       instructors: []
-      location: "ONTARIO RM207"
+      location: "KINES & HLTH RM107"
       start_time: "10:30:00"
       term_end: "2015-11-22"
       term_start: "2015-11-16"
@@ -59,7 +59,7 @@
       day_of_week: 1
       end_time: "11:30:00"
       instructors: []
-      location: "ONTARIO RM207"
+      location: "KINES & HLTH RM107"
       start_time: "10:30:00"
       term_end: "2015-12-04"
       term_start: "2015-11-30"

@@ -3,14 +3,14 @@
   availability: 
     class_curr: 50
     class_max: 50
-    wait_curr: 0
+    wait_curr: 3
     wait_max: 5
   basic: 
     class_num: "001"
     course: "236"
     season: "Winter"
     solus_id: "2162"
-    status: "Closed"
+    status: null
     subject: "DRAM"
     type: "PRA"
     year: "2016"

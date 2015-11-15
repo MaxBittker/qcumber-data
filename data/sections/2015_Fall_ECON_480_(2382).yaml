@@ -19,7 +19,7 @@
       day_of_week: 2
       end_time: "10:00:00"
       instructors: 
-        - "deSouza, Raymond"
+        - "De Souza, Raymond"
       location: "TBA"
       start_time: "08:30:00"
       term_end: "2015-12-04"
@@ -28,7 +28,7 @@
       day_of_week: 5
       end_time: "11:30:00"
       instructors: 
-        - "deSouza, Raymond"
+        - "De Souza, Raymond"
       location: "TBA"
       start_time: "10:00:00"
       term_end: "2015-12-04"

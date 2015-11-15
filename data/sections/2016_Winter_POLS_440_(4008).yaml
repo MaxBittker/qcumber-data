@@ -18,7 +18,8 @@
     - 
       day_of_week: 4
       end_time: "14:30:00"
-      instructors: []
+      instructors: 
+        - "Rainford, Charan"
       location: "MACINTOSH-CORRY RM D405"
       start_time: "11:30:00"
       term_end: "2016-04-01"

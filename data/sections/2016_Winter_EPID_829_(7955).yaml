@@ -16,7 +16,7 @@
     year: "2016"
   classes: 
     - 
-      day_of_week: 1
+      day_of_week: 4
       end_time: "16:30:00"
       instructors: []
       location: "TBA"

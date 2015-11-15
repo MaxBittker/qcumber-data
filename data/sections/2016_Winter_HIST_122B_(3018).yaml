@@ -1,7 +1,7 @@
 ---
   _unique: "001-LEC (3018)"
   availability: 
-    class_curr: 267
+    class_curr: 263
     class_max: 280
     wait_curr: 0
     wait_max: 0
@@ -18,7 +18,8 @@
     - 
       day_of_week: 3
       end_time: "14:30:00"
-      instructors: []
+      instructors: 
+        - "Sen Chowdhury, Aditi"
       location: "ETHERINGTON AUD"
       start_time: "13:00:00"
       term_end: "2016-04-01"

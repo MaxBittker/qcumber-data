@@ -3,14 +3,14 @@
   availability: 
     class_curr: 63
     class_max: 63
-    wait_curr: 0
+    wait_curr: 1
     wait_max: 6
   basic: 
     class_num: "006"
     course: "218"
     season: "Winter"
     solus_id: "1410"
-    status: "Closed"
+    status: null
     subject: "BCHM"
     type: "TUT"
     year: "2016"

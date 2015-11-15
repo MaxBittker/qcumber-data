@@ -1,9 +1,9 @@
 ---
   _unique: "005-TUT (4180)"
   availability: 
-    class_curr: 23
+    class_curr: 24
     class_max: 23
-    wait_curr: 0
+    wait_curr: 2
     wait_max: 2
   basic: 
     class_num: "005"

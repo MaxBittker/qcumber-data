@@ -1,16 +1,16 @@
 ---
   _unique: "001-SEM (3044)"
   availability: 
-    class_curr: 22
+    class_curr: 23
     class_max: 22
-    wait_curr: 0
+    wait_curr: 1
     wait_max: 2
   basic: 
     class_num: "001"
     course: "353"
     season: "Winter"
     solus_id: "3044"
-    status: "Closed"
+    status: null
     subject: "HIST"
     type: "SEM"
     year: "2016"

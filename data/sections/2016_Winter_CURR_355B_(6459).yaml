@@ -1,7 +1,7 @@
 ---
   _unique: "005-LEC (6459)"
   availability: 
-    class_curr: 37
+    class_curr: 35
     class_max: 40
     wait_curr: 0
     wait_max: 0
@@ -31,7 +31,7 @@
         - "Deir, Paul Edward"
       location: "DUNCAN MCARTHUR RM A227W"
       start_time: "08:30:00"
-      term_end: "2016-04-29"
+      term_end: "2016-04-22"
       term_start: "2016-04-11"
     - 
       day_of_week: 5
@@ -49,8 +49,26 @@
         - "Deir, Paul Edward"
       location: "DUNCAN MCARTHUR RM A227E"
       start_time: "08:30:00"
-      term_end: "2016-04-29"
+      term_end: "2016-04-22"
       term_start: "2016-04-11"
+    - 
+      day_of_week: 1
+      end_time: "12:50:00"
+      instructors: 
+        - "Deir, Paul Edward"
+      location: "DUNCAN MCARTHUR RM A227E"
+      start_time: "10:50:00"
+      term_end: "2016-04-25"
+      term_start: "2016-04-25"
+    - 
+      day_of_week: 1
+      end_time: "12:50:00"
+      instructors: 
+        - "Deir, Paul Edward"
+      location: "DUNCAN MCARTHUR RM A227W"
+      start_time: "10:50:00"
+      term_end: "2016-04-25"
+      term_start: "2016-04-25"
   details: 
     campus: "Main"
     location: "Kingston (West), ON"

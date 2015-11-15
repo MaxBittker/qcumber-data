@@ -1,8 +1,8 @@
 ---
   _unique: "003-LEC (3246)"
   availability: 
-    class_curr: 209
-    class_max: 225
+    class_curr: 223
+    class_max: 230
     wait_curr: 0
     wait_max: 0
   basic: 

@@ -1,9 +1,9 @@
 ---
   _unique: "001-LEC (2332)"
   availability: 
-    class_curr: 80
+    class_curr: 82
     class_max: 80
-    wait_curr: 0
+    wait_curr: 8
     wait_max: 8
   basic: 
     class_num: "001"

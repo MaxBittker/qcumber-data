@@ -1,10 +1,10 @@
 ---
   _unique: "001-LEC (7422)"
   availability: 
-    class_curr: 23
+    class_curr: 25
     class_max: 42
     wait_curr: 0
-    wait_max: 0
+    wait_max: 1
   basic: 
     class_num: "001"
     course: "836"
@@ -19,7 +19,7 @@
       day_of_week: 2
       end_time: "12:30:00"
       instructors: 
-        - "Jafarpour, Saber"
+        - "Lewis, Andrew D"
       location: "JEFFERY RM126"
       start_time: "11:30:00"
       term_end: "2016-04-01"
@@ -28,7 +28,7 @@
       day_of_week: 3
       end_time: "14:30:00"
       instructors: 
-        - "Jafarpour, Saber"
+        - "Lewis, Andrew D"
       location: "JEFFERY RM126"
       start_time: "13:30:00"
       term_end: "2016-04-01"
@@ -37,7 +37,7 @@
       day_of_week: 5
       end_time: "13:30:00"
       instructors: 
-        - "Jafarpour, Saber"
+        - "Lewis, Andrew D"
       location: "JEFFERY RM126"
       start_time: "12:30:00"
       term_end: "2016-04-01"

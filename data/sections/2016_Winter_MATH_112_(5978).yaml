@@ -1,16 +1,16 @@
 ---
   _unique: "001-LEC (5978)"
   availability: 
-    class_curr: 173
+    class_curr: 200
     class_max: 200
-    wait_curr: 0
+    wait_curr: 1
     wait_max: 20
   basic: 
     class_num: "001"
     course: "112"
     season: "Winter"
     solus_id: "5978"
-    status: "Open"
+    status: null
     subject: "MATH"
     type: "LEC"
     year: "2016"
@@ -18,7 +18,8 @@
     - 
       day_of_week: 2
       end_time: "13:30:00"
-      instructors: []
+      instructors: 
+        - "Deng, Yanxia"
       location: "WALTER LIGHT RM205"
       start_time: "12:30:00"
       term_end: "2016-04-01"
@@ -26,7 +27,8 @@
     - 
       day_of_week: 4
       end_time: "12:30:00"
-      instructors: []
+      instructors: 
+        - "Deng, Yanxia"
       location: "WALTER LIGHT RM205"
       start_time: "11:30:00"
       term_end: "2016-04-01"
@@ -34,7 +36,8 @@
     - 
       day_of_week: 5
       end_time: "14:30:00"
-      instructors: []
+      instructors: 
+        - "Deng, Yanxia"
       location: "WALTER LIGHT RM205"
       start_time: "13:30:00"
       term_end: "2016-04-01"

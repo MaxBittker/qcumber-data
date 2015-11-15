@@ -10,7 +10,7 @@
     course: "228"
     season: "Winter"
     solus_id: "6963"
-    status: "Closed"
+    status: null
     subject: "ARTF"
     type: "LAB"
     year: "2016"

@@ -1,16 +1,16 @@
 ---
   _unique: "007-TUT (7637)"
   availability: 
-    class_curr: 24
+    class_curr: 26
     class_max: 25
-    wait_curr: 0
+    wait_curr: 1
     wait_max: 3
   basic: 
     class_num: "007"
     course: "242"
     season: "Winter"
     solus_id: "7637"
-    status: "Open"
+    status: null
     subject: "POLS"
     type: "TUT"
     year: "2016"

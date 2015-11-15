@@ -1,16 +1,16 @@
 ---
   _unique: "001-LEC (2233)"
   availability: 
-    class_curr: 56
+    class_curr: 61
     class_max: 60
-    wait_curr: 0
+    wait_curr: 4
     wait_max: 5
   basic: 
     class_num: "001"
     course: "330"
     season: "Winter"
     solus_id: "2233"
-    status: "Open"
+    status: null
     subject: "DEVS"
     type: "LEC"
     year: "2016"

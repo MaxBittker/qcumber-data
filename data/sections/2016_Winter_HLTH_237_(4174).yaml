@@ -1,16 +1,16 @@
 ---
   _unique: "001-LEC (4174)"
   availability: 
-    class_curr: 147
+    class_curr: 170
     class_max: 170
-    wait_curr: 0
+    wait_curr: 17
     wait_max: 17
   basic: 
     class_num: "001"
     course: "237"
     season: "Winter"
     solus_id: "4174"
-    status: "Open"
+    status: "Closed"
     subject: "HLTH"
     type: "LEC"
     year: "2016"

@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Seminar offered by regular and visiting faculty on development topics related to their research interests. Consult the departmental homepage for further details of specific course offering each year.  This is a mixed senior undergraduate/graduate level course with limited space for graduate students. Graduate students may not take more than three such mixed courses. Graduate enrolment opens after the undergraduate enrolment period (consult with department)."
+    description: "This course examines cities and urbanization in countries in the South, looking at similarities and differences between and across regions, and the extent to which they connect (or not) with urban areas in the North."
     number: "869"
     subject: "DEVS"
-    title: "Topics in International Development 9"
+    title: "Cities and Urbanization in the South"
   extra: 
     CEAB: 
       Basic Sci: 0

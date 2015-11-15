@@ -16,7 +16,7 @@
       Laboratory: "Required"
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Prerequisite of (MINE244 or MINE444) and registered in a BSCE Academic Program."
+    enrollment_requirement: "Prereq: APSC 221, MINE 244, MINE 339, MINE 325, MINE 467 AND MINE 469 or permission of the instructor"
     grading_basis: "Graded"
     units: "5.50"
 

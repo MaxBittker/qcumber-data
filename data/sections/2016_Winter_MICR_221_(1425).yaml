@@ -1,16 +1,16 @@
 ---
   _unique: "002-LAB (1425)"
   availability: 
-    class_curr: 61
+    class_curr: 62
     class_max: 62
-    wait_curr: 0
+    wait_curr: 2
     wait_max: 6
   basic: 
     class_num: "002"
     course: "221"
     season: "Winter"
     solus_id: "1425"
-    status: "Open"
+    status: null
     subject: "MICR"
     type: "LAB"
     year: "2016"

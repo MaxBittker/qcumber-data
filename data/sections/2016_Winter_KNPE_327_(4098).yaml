@@ -10,7 +10,7 @@
     course: "327"
     season: "Winter"
     solus_id: "4098"
-    status: "Closed"
+    status: null
     subject: "KNPE"
     type: "LAB"
     year: "2016"

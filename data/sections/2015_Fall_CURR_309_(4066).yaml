@@ -22,7 +22,7 @@
         - "Powley, Wendy L"
       location: "DUNMCAN MCARTHUR RM B307"
       start_time: "08:30:00"
-      term_end: "2015-10-09"
+      term_end: "2015-09-09"
       term_start: "2015-09-02"
     - 
       day_of_week: 1
@@ -31,7 +31,7 @@
         - "Powley, Wendy L"
       location: "DUNMCAN MCARTHUR RM B307"
       start_time: "08:30:00"
-      term_end: "2015-10-09"
+      term_end: "2015-09-09"
       term_start: "2015-09-02"
     - 
       day_of_week: 3
@@ -40,7 +40,7 @@
         - "Powley, Wendy L"
       location: "DUNMCAN MCARTHUR RM B307"
       start_time: "08:30:00"
-      term_end: "2015-12-18"
+      term_end: "2015-12-04"
       term_start: "2015-11-23"
     - 
       day_of_week: 1
@@ -49,7 +49,7 @@
         - "Powley, Wendy L"
       location: "DUNMCAN MCARTHUR RM B307"
       start_time: "08:30:00"
-      term_end: "2015-12-18"
+      term_end: "2015-12-04"
       term_start: "2015-11-23"
     - 
       day_of_week: 5
@@ -60,6 +60,42 @@
       start_time: "08:30:00"
       term_end: "2015-09-04"
       term_start: "2015-09-04"
+    - 
+      day_of_week: 3
+      end_time: "10:30:00"
+      instructors: 
+        - "Powley, Wendy L"
+      location: "DUNMCAN MCARTHUR RM B307"
+      start_time: "08:30:00"
+      term_end: "2015-12-18"
+      term_start: "2015-12-09"
+    - 
+      day_of_week: 1
+      end_time: "10:30:00"
+      instructors: 
+        - "Powley, Wendy L"
+      location: "DUNMCAN MCARTHUR RM B307"
+      start_time: "08:30:00"
+      term_end: "2015-12-18"
+      term_start: "2015-12-09"
+    - 
+      day_of_week: 5
+      end_time: "12:00:00"
+      instructors: 
+        - "Powley, Wendy L"
+      location: "DUNMCAN MCARTHUR RM B307"
+      start_time: "10:30:00"
+      term_end: "2015-09-25"
+      term_start: "2015-09-18"
+    - 
+      day_of_week: 5
+      end_time: "12:00:00"
+      instructors: 
+        - "Powley, Wendy L"
+      location: "DUNMCAN MCARTHUR RM B307"
+      start_time: "10:30:00"
+      term_end: "2015-10-09"
+      term_start: "2015-10-09"
   details: 
     campus: "Main"
     location: "Kingston (West), ON"

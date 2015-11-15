@@ -14,6 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Online: "Required"
+    enrollment_requirement: "Must be registered in the BTECH Program"
     grading_basis: "Graded"
     units: "3.00"
 

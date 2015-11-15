@@ -1,8 +1,8 @@
 ---
   _unique: "001-LEC (2077)"
   availability: 
-    class_curr: 59
-    class_max: 120
+    class_curr: 60
+    class_max: 66
     wait_curr: 0
     wait_max: 0
   basic: 
@@ -20,7 +20,7 @@
       end_time: "11:30:00"
       instructors: 
         - "Lehoux, Daryn R"
-      location: "CHERNOFF RM117"
+      location: "JEFFERY RM225"
       start_time: "10:30:00"
       term_end: "2015-12-04"
       term_start: "2015-09-14"
@@ -29,7 +29,7 @@
       end_time: "10:30:00"
       instructors: 
         - "Lehoux, Daryn R"
-      location: "CHERNOFF RM117"
+      location: "JEFFERY RM225"
       start_time: "09:30:00"
       term_end: "2015-12-04"
       term_start: "2015-09-14"
@@ -38,7 +38,7 @@
       end_time: "09:30:00"
       instructors: 
         - "Lehoux, Daryn R"
-      location: "CHERNOFF RM117"
+      location: "JEFFERY RM225"
       start_time: "08:30:00"
       term_end: "2015-12-04"
       term_start: "2015-09-14"

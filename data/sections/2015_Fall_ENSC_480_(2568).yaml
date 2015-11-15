@@ -20,7 +20,7 @@
       end_time: "12:30:00"
       instructors: 
         - "Hall, Geoff"
-      location: "KINGSTON RM209"
+      location: "JOHN WATSON RM207"
       start_time: "11:30:00"
       term_end: "2015-12-04"
       term_start: "2015-09-14"
@@ -29,16 +29,16 @@
       end_time: "14:30:00"
       instructors: 
         - "Hall, Geoff"
-      location: "KINGSTON RM209"
+      location: "JOHN WATSON RM401"
       start_time: "13:30:00"
       term_end: "2015-12-04"
-      term_start: "2015-09-14"
+      term_start: "2015-09-15"
     - 
       day_of_week: 4
       end_time: "13:30:00"
       instructors: 
         - "Hall, Geoff"
-      location: "KINGSTON RM209"
+      location: "JEFFERY RM110"
       start_time: "12:30:00"
       term_end: "2015-12-04"
       term_start: "2015-09-14"

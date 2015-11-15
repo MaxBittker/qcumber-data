@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "This course will focus on the creation of healthy environments that enable client-centred occupations. Students will examine factors within the physical, social, cultural and institutional environments that affect occupation and how environmental modifications can lead to changes in occupation. They will gain experience with the knowledge and skills critical to effecting environmental change."
+    description: "This course will focus on the creation of healthy environments that enable client-centred occupations. Students will examine factors within the physical, social, cultural and institutional environments that affect occupation and how environmental modifications can lead to changes in occupation. They will gain experience with the knowledge and skills critical to effecting environmental change. Prerequisites: OT-823*, OT-882*, and OT-843 or permission of the course coordinator."
     number: "842"
     subject: "OT"
-    title: "Environmental Determinants"
+    title: "Environmental Determinants of Occupation"
   extra: 
     CEAB: 
       Basic Sci: 0

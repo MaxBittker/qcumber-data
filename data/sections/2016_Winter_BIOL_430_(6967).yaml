@@ -1,16 +1,16 @@
 ---
   _unique: "001-LSM (6967)"
   availability: 
-    class_curr: 44
+    class_curr: 45
     class_max: 45
-    wait_curr: 0
+    wait_curr: 4
     wait_max: 4
   basic: 
     class_num: "001"
     course: "430"
     season: "Winter"
     solus_id: "6967"
-    status: "Open"
+    status: "Closed"
     subject: "BIOL"
     type: "LSM"
     year: "2016"

@@ -10,7 +10,7 @@
     course: "240"
     season: "Winter"
     solus_id: "2826"
-    status: "Closed"
+    status: null
     subject: "GPHY"
     type: "PRA"
     year: "2016"
@@ -18,7 +18,8 @@
     - 
       day_of_week: 1
       end_time: "11:30:00"
-      instructors: []
+      instructors: 
+        - "Sloan Morgan, Vanessa"
       location: "KINGSTON RM209"
       start_time: "10:00:00"
       term_end: "2016-04-01"

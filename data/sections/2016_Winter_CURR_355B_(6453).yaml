@@ -22,8 +22,8 @@
         - "Deir, Paul Edward"
       location: "DUNCAN MCARTHUR RM A227E"
       start_time: "10:50:00"
-      term_end: "2016-02-12"
-      term_start: "2016-01-04"
+      term_end: "2016-01-05"
+      term_start: "2016-01-05"
     - 
       day_of_week: 2
       end_time: "12:50:00"
@@ -40,8 +40,8 @@
         - "Deir, Paul Edward"
       location: "DUNCAN MCARTHUR RM A227W"
       start_time: "10:50:00"
-      term_end: "2016-02-12"
-      term_start: "2016-01-04"
+      term_end: "2016-01-05"
+      term_start: "2016-01-05"
     - 
       day_of_week: 2
       end_time: "12:50:00"
@@ -51,6 +51,42 @@
       start_time: "10:50:00"
       term_end: "2016-04-29"
       term_start: "2016-04-11"
+    - 
+      day_of_week: 1
+      end_time: "12:50:00"
+      instructors: 
+        - "Deir, Paul Edward"
+      location: "DUNCAN MCARTHUR RM A227E"
+      start_time: "10:50:00"
+      term_end: "2016-01-11"
+      term_start: "2016-01-11"
+    - 
+      day_of_week: 2
+      end_time: "12:50:00"
+      instructors: 
+        - "Deir, Paul Edward"
+      location: "DUNCAN MCARTHUR RM A227E"
+      start_time: "10:50:00"
+      term_end: "2016-02-12"
+      term_start: "2016-01-19"
+    - 
+      day_of_week: 1
+      end_time: "12:50:00"
+      instructors: 
+        - "Deir, Paul Edward"
+      location: "DUNCAN MCARTHUR RM A227W"
+      start_time: "10:50:00"
+      term_end: "2016-01-11"
+      term_start: "2016-01-11"
+    - 
+      day_of_week: 2
+      end_time: "12:50:00"
+      instructors: 
+        - "Deir, Paul Edward"
+      location: "DUNCAN MCARTHUR RM A227W"
+      start_time: "10:50:00"
+      term_end: "2016-02-12"
+      term_start: "2016-01-19"
   details: 
     campus: "Main"
     location: "Kingston (West), ON"

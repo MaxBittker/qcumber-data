@@ -18,8 +18,7 @@
     - 
       day_of_week: 3
       end_time: "14:30:00"
-      instructors: 
-        - "Wilson, Rosemary A"
+      instructors: []
       location: "BIOSCI RM1102"
       start_time: "11:30:00"
       term_end: "2016-04-01"

@@ -1,8 +1,8 @@
 ---
   _unique: "019-LDI (8234)"
   availability: 
-    class_curr: 210
-    class_max: 212
+    class_curr: 213
+    class_max: 216
     wait_curr: 0
     wait_max: 0
   basic: 

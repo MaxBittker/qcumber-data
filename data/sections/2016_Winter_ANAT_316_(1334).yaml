@@ -1,16 +1,16 @@
 ---
   _unique: "002-LAB (1334)"
   availability: 
-    class_curr: 74
+    class_curr: 80
     class_max: 80
-    wait_curr: 0
+    wait_curr: 2
     wait_max: 8
   basic: 
     class_num: "002"
     course: "316"
     season: "Winter"
     solus_id: "1334"
-    status: "Open"
+    status: null
     subject: "ANAT"
     type: "LAB"
     year: "2016"

@@ -1,16 +1,16 @@
 ---
   _unique: "001-LEC (3218)"
   availability: 
-    class_curr: 40
+    class_curr: 39
     class_max: 40
-    wait_curr: 0
+    wait_curr: 1
     wait_max: 4
   basic: 
     class_num: "001"
     course: "101"
     season: "Winter"
     solus_id: "3218"
-    status: "Closed"
+    status: "Open"
     subject: "GRMN"
     type: "LEC"
     year: "2016"

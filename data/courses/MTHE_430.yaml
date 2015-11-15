@@ -16,7 +16,7 @@
       Laboratory: "Required"
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "PREREQ: MTHE 237 or MATH 237 and MTHE 312 or MATH 312 and MTHE 326 or MATH 326 and MTHE 332 or MATH 332, or permission of the instructor. Must be registered in BSCE."
+    enrollment_requirement: "PREREQ: MTHE 237 (MATH 237), MTHE 212 (MATH 212) or MTHE 312 (MATH 312), MTHE 326 (MATH 326), MTHE 332 (MATH 332), or permission of the instructor. Must be registered in BSCE."
     grading_basis: "Graded"
     units: "4.00"
 

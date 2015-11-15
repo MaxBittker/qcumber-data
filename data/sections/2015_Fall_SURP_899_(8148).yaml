@@ -1,7 +1,7 @@
 ---
   _unique: "001-LEC (8148)"
   availability: 
-    class_curr: 1
+    class_curr: 3
     class_max: 0
     wait_curr: 0
     wait_max: 0
@@ -21,8 +21,8 @@
       instructors: []
       location: "TBA"
       start_time: null
-      term_end: "2015-12-04"
-      term_start: "2015-09-14"
+      term_end: "2015-12-15"
+      term_start: "2015-09-15"
   details: 
     campus: "Main"
     location: "Kingston (Main), ON"

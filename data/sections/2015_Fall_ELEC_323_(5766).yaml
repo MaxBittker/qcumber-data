@@ -1,8 +1,8 @@
 ---
   _unique: "003-LAB (5766)"
   availability: 
-    class_curr: 37
-    class_max: 48
+    class_curr: 38
+    class_max: 39
     wait_curr: 0
     wait_max: 0
   basic: 
@@ -19,7 +19,7 @@
       day_of_week: 4
       end_time: "17:30:00"
       instructors: 
-        - "Ibnkahla, Mohamed"
+        - "Hayajneh, Khaled"
       location: "BEAMISH-MUNRO RM212"
       start_time: "14:30:00"
       term_end: "2015-12-04"

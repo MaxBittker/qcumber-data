@@ -10,7 +10,7 @@
     course: "206"
     season: "Winter"
     solus_id: "1627"
-    status: "Closed"
+    status: null
     subject: "BIOL"
     type: "LAB"
     year: "2016"

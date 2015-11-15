@@ -10,7 +10,7 @@
     course: "215"
     season: "Winter"
     solus_id: "2641"
-    status: "Closed"
+    status: null
     subject: "GNDS"
     type: "TUT"
     year: "2016"

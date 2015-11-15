@@ -18,7 +18,8 @@
     - 
       day_of_week: 1
       end_time: "15:30:00"
-      instructors: []
+      instructors: 
+        - "Conacher, Agnes M"
       location: "MACINTOSH-CORRY RM C420"
       start_time: "14:30:00"
       term_end: "2015-12-04"

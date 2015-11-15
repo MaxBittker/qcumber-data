@@ -3,14 +3,14 @@
   availability: 
     class_curr: 20
     class_max: 20
-    wait_curr: 0
+    wait_curr: 1
     wait_max: 2
   basic: 
     class_num: "002"
     course: "215"
     season: "Winter"
     solus_id: "2637"
-    status: "Closed"
+    status: null
     subject: "GNDS"
     type: "TUT"
     year: "2016"

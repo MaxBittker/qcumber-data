@@ -1,9 +1,9 @@
 ---
   basic: 
-    description: "Autism (NTC)"
+    description: ""
     number: "912"
     subject: "CONT"
-    title: "Autism (NTC)"
+    title: "TCHNG STD W AUTISM DISORDERS"
   extra: 
     CEAB: 
       Basic Sci: 0

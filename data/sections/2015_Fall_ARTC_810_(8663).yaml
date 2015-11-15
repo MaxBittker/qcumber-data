@@ -1,7 +1,7 @@
 ---
   _unique: "001-LEC (8663)"
   availability: 
-    class_curr: 0
+    class_curr: 10
     class_max: 25
     wait_curr: 0
     wait_max: 0
@@ -17,11 +17,11 @@
   classes: 
     - 
       day_of_week: 5
-      end_time: "00:00:00"
+      end_time: "16:00:00"
       instructors: 
         - "Paul, Norman"
       location: "TBA"
-      start_time: "00:00:00"
+      start_time: "13:00:00"
       term_end: "2015-12-04"
       term_start: "2015-09-14"
   details: 

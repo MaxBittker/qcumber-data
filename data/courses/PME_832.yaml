@@ -14,6 +14,7 @@
     career: "Graduate"
     course_components: 
       Seminar: "Required"
+    enrollment_requirement: "Restricted to PME"
     grading_basis: "Graded"
     units: "3.00"
 

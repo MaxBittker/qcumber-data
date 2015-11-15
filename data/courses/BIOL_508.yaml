@@ -11,11 +11,10 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
       Seminar: "Required"
-    enrollment_requirement: "Prerequisites    BIOL330 or BCHM218 or MBIO218 or MBIO318."
+    enrollment_requirement: "Pre 4th Yr BIOL & BIOL330 or MBIO218 or BCHM218 or MBIO318"
     grading_basis: "Graded"
     units: "3.00"
 

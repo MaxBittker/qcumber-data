@@ -1,8 +1,8 @@
 ---
   _unique: "001-SEM (2181)"
   availability: 
-    class_curr: 12
-    class_max: 20
+    class_curr: 15
+    class_max: 18
     wait_curr: 0
     wait_max: 2
   basic: 
@@ -22,8 +22,8 @@
         - "Salverson, Julie"
       location: "IBCPA RM104"
       start_time: "14:30:00"
-      term_end: "2015-11-06"
-      term_start: "2015-10-01"
+      term_end: "2015-10-30"
+      term_start: "2015-09-14"
     - 
       day_of_week: 5
       end_time: "11:30:00"
@@ -31,8 +31,8 @@
         - "Salverson, Julie"
       location: "IBCPA RM104"
       start_time: "08:30:00"
-      term_end: "2015-11-06"
-      term_start: "2015-10-01"
+      term_end: "2015-10-30"
+      term_start: "2015-09-14"
   details: 
     campus: "Main"
     location: "Kingston (Main), ON"

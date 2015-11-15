@@ -1,7 +1,7 @@
 ---
   _unique: "006-TUT (2634)"
   availability: 
-    class_curr: 15
+    class_curr: 11
     class_max: 15
     wait_curr: 0
     wait_max: 0
@@ -10,7 +10,7 @@
     course: "150A"
     season: "Fall"
     solus_id: "2634"
-    status: "Closed"
+    status: "Open"
     subject: "FREN"
     type: "TUT"
     year: "2015"
@@ -18,7 +18,8 @@
     - 
       day_of_week: 4
       end_time: "09:30:00"
-      instructors: []
+      instructors: 
+        - "Conacher, Agnes M"
       location: "MACINTOSH-CORRY RM C420"
       start_time: "08:30:00"
       term_end: "2015-12-04"

@@ -15,7 +15,7 @@
     course_components: 
       Laboratory: "Required"
       Lecture: "Required"
-    enrollment_requirement: "Must be registered in a BSCE program"
+    enrollment_requirement: "Prerequisite: MTHE 367 or CHEE 209 and registered in the BSCE program"
     grading_basis: "Graded"
     units: "4.50"
 

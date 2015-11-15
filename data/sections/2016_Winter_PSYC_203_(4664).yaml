@@ -1,16 +1,16 @@
 ---
   _unique: "001-LEC (4664)"
   availability: 
-    class_curr: 228
-    class_max: 247
-    wait_curr: 0
+    class_curr: 238
+    class_max: 230
+    wait_curr: 3
     wait_max: 23
   basic: 
     class_num: "001"
     course: "203"
     season: "Winter"
     solus_id: "4664"
-    status: "Open"
+    status: null
     subject: "PSYC"
     type: "LEC"
     year: "2016"

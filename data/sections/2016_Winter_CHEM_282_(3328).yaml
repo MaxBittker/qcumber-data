@@ -3,14 +3,14 @@
   availability: 
     class_curr: 96
     class_max: 96
-    wait_curr: 0
+    wait_curr: 4
     wait_max: 9
   basic: 
     class_num: "002"
     course: "282"
     season: "Winter"
     solus_id: "3328"
-    status: "Closed"
+    status: null
     subject: "CHEM"
     type: "LAB"
     year: "2016"

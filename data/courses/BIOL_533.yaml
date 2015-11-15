@@ -11,11 +11,10 @@
       Eng Des: 0
       Eng Sci: 0
       Math: 0
-    add_consent: "Department Consent Required"
     career: "Undergraduate"
     course_components: 
       Lecture / Seminar: "Required"
-    enrollment_requirement: "Prerequisite    BIOL321."
+    enrollment_requirement: "Pre 4th yr in BIOL Honours Pln"
     grading_basis: "Graded"
     units: "3.00"
 

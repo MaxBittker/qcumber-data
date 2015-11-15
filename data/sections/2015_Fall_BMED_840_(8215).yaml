@@ -1,7 +1,7 @@
 ---
   _unique: "002-TUT (8215)"
   availability: 
-    class_curr: 77
+    class_curr: 83
     class_max: 105
     wait_curr: 0
     wait_max: 0
@@ -18,8 +18,9 @@
     - 
       day_of_week: 1
       end_time: "17:30:00"
-      instructors: []
-      location: "CHERNOFF RM117"
+      instructors: 
+        - "Nakatsu, Kanji"
+      location: "MEDS RM401A - Pharmacoloy & Ph"
       start_time: "14:30:00"
       term_end: "2015-12-04"
       term_start: "2015-09-14"

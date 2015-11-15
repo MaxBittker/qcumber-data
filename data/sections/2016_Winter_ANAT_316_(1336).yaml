@@ -3,14 +3,14 @@
   availability: 
     class_curr: 80
     class_max: 80
-    wait_curr: 0
+    wait_curr: 1
     wait_max: 8
   basic: 
     class_num: "003"
     course: "316"
     season: "Winter"
     solus_id: "1336"
-    status: "Closed"
+    status: null
     subject: "ANAT"
     type: "LAB"
     year: "2016"

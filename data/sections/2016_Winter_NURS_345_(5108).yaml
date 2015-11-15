@@ -18,8 +18,7 @@
     - 
       day_of_week: 3
       end_time: "11:30:00"
-      instructors: 
-        - "Pulling, Cheryl Anne"
+      instructors: []
       location: "CATARAQUI RM222 LAB"
       start_time: "08:00:00"
       term_end: "2016-04-01"

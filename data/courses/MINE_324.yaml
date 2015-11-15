@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Must be registered in a BSCE program"
+    enrollment_requirement: "Prerequisite: MTHE225, MECH230 and registered in the BSCE program"
     grading_basis: "Graded"
     units: "3.50"
 

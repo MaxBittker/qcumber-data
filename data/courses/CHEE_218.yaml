@@ -15,7 +15,7 @@
     course_components: 
       Laboratory: "Required"
     drop_consent: "Department Consent Required"
-    enrollment_requirement: "Prerequisites of APSC100 and CHEE209 and CHEE221 or permission of the Department and registered in a BSCE Academic Program."
+    enrollment_requirement: "Prerequisites of APSC 100, CHEE 209, or\npermission of the department and registered in a BSCE Academic Program."
     grading_basis: "Graded"
     units: "2.50"
 

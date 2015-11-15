@@ -15,6 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
+    enrollment_requirement: "Prerequisite: CHEE 223 and CHEE 330, or permission of the department.\nExclusion: CHEE 412"
     grading_basis: "Graded"
     units: "3.50"
 

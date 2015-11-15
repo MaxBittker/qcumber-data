@@ -15,6 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
+    enrollment_requirement: "PREREQUISITES:  ENCH 245 and CHEE 311. Must be registered in BSCE."
     grading_basis: "Graded"
     units: "3.50"
 

@@ -1,8 +1,8 @@
 ---
   _unique: "001-LEC (8752)"
   availability: 
-    class_curr: 0
-    class_max: 0
+    class_curr: 19
+    class_max: 30
     wait_curr: 0
     wait_max: 0
   basic: 
@@ -10,7 +10,7 @@
     course: "852A"
     season: "Fall"
     solus_id: "8752"
-    status: "Closed"
+    status: "Open"
     subject: "MPA"
     type: "LEC"
     year: "2015"

@@ -15,6 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
+    enrollment_requirement: "Prerequisite: MTHE 280 (MATH 280), MTHE 281 (MATH 281), MTHE 212 (MATH 212) or MTHE 312 (MATH 312), or permission of the instructor"
     grading_basis: "Graded"
     units: "3.50"
 

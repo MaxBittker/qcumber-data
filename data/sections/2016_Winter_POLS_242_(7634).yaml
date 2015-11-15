@@ -10,7 +10,7 @@
     course: "242"
     season: "Winter"
     solus_id: "7634"
-    status: "Closed"
+    status: null
     subject: "POLS"
     type: "TUT"
     year: "2016"

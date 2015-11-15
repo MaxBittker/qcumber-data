@@ -3,7 +3,7 @@
   availability: 
     class_curr: 21
     class_max: 22
-    wait_curr: 0
+    wait_curr: 1
     wait_max: 2
   basic: 
     class_num: "003"

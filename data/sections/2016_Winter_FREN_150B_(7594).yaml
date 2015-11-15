@@ -18,7 +18,8 @@
     - 
       day_of_week: 2
       end_time: "10:30:00"
-      instructors: []
+      instructors: 
+        - "Conacher, Agnes M"
       location: "KINGSTON RM210"
       start_time: "09:30:00"
       term_end: "2016-04-01"

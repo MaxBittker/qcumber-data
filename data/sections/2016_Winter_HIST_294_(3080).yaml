@@ -1,16 +1,16 @@
 ---
   _unique: "001-LEC (3080)"
   availability: 
-    class_curr: 79
+    class_curr: 120
     class_max: 120
-    wait_curr: 0
+    wait_curr: 2
     wait_max: 12
   basic: 
     class_num: "001"
     course: "294"
     season: "Winter"
     solus_id: "3080"
-    status: "Open"
+    status: null
     subject: "HIST"
     type: "LEC"
     year: "2016"

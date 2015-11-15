@@ -15,7 +15,7 @@
     course_components: 
       Lecture: "Required"
       Tutorial: "Required"
-    enrollment_requirement: "Prerequisite     (MATH221 or MATH280) and (MATH232 or MATH231) and (MATH110 or MATH111)."
+    enrollment_requirement: "Prerequisite: MTHE 227 (MATH 227) or MTHE 280 (MATH 280), MATH 226 or MTHE 237 (MATH  237), or MTHE 232 (MATH 232) or permission of the instructor"
     grading_basis: "Graded"
     units: "3.50"
 

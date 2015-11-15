@@ -14,7 +14,7 @@
     career: "Undergraduate"
     course_components: 
       Lecture: "Required"
-    enrollment_requirement: "PREREQ: MATH 212 or MTHE 217 or MATH 217 and registered in BSCE."
+    enrollment_requirement: "PREREQ:  MTHE 217 or MATH 217 and registered in BSCE."
     grading_basis: "Graded"
     units: "3.00"
 

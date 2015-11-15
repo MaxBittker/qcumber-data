@@ -1,16 +1,16 @@
 ---
   _unique: "001-LEC (1350)"
   availability: 
-    class_curr: 154
+    class_curr: 160
     class_max: 160
-    wait_curr: 0
+    wait_curr: 16
     wait_max: 16
   basic: 
     class_num: "001"
     course: "101"
     season: "Winter"
     solus_id: "1350"
-    status: "Open"
+    status: "Closed"
     subject: "ANAT"
     type: "LEC"
     year: "2016"
