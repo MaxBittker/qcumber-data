@@ -12,7 +12,7 @@ convert(){
     (
         cd json
         ls $1/* -1 | sed 's/\.json//g' | xargs -I{} -P 4 \
-            bash -c "../node_modules/.bin/json2yaml {}.json > ../data/{}.yaml"
+            bash -c "../node_modules/.bin/json2yaml '{}.json' > '$(cd ..; pwd)/data/{}.yaml'"
     )
     echo "Done $1"
 }
